@@ -1,0 +1,228 @@
+{
+	"locales": {
+		"English": {
+			"locale": "en-US",
+			"fallbackLocale": "en",
+			"caption": "English",
+			"sort_order": 0,
+			"files": [
+				{
+					"filePath": "localization/adv_tutorial.csv",
+					"isHints": true
+				},
+				{
+					"filePath": "localization/main.csv"
+				},
+				{
+					"filePath": "localization/activity.csv"
+				},
+				{
+					"filePath": "localization/minds.csv"
+				},
+				{
+					"filePath": "localization/traits.csv"
+				},
+				{
+					"filePath": "localization/opinion_minds.csv"
+				},
+				{
+					"filePath": "localization/deep_social.csv"
+				},
+				{
+					"filePath": "localization/names_female.csv"
+				},
+				{
+					"filePath": "localization/names_male.csv"
+				},
+				{
+					"filePath": "localization/names_villages.csv"
+				},
+				{
+					"filePath": "localization/global_map_quests.csv"
+				},			
+				{
+					"filePath": "localization/factions.csv"
+				},		
+				{
+					"filePath": "localization/letters.csv"
+				},			
+				{
+					"filePath": "localization/advisor.csv"
+				},
+				{
+					"filePath": "localization/hints.csv",
+					"isHints": true
+				},
+				{
+					"filePath": "localization/hints_global_map_quests.csv",
+					"isHints": true
+				},		
+				{
+					"filePath": "localization/hints_desire.csv",
+					"isHints": true
+				},
+				{
+					"filePath": "localization/hints_minds.csv",
+					"isHints": true
+				},
+				{
+					"filePath": "localization/hints_traits.csv",
+					"isHints": true
+				},
+				{
+					"filePath": "localization/hints_tutorial.csv",
+					"isHints": true
+				},
+				{
+					"filePath": "localization/hints_advisor.csv",
+					"isHints": true
+				}
+			]
+		},
+		"Russian": {
+			"locale": "ru-RU",
+			"fallbackLocale": "ru",
+			"caption": "Русский"
+		},
+		"Spanish": {
+			"locale": "es-ES",
+			"fallbackLocale": "es",
+			"caption": "Español"
+		},
+		"Czech": {
+			"locale": "cs-CZ",
+			"fallbackLocale": "cs",
+			"caption": "Čeština"
+		},
+		"PortugueseBrazilian": {
+			"locale": "pt-BR",
+			"fallbackLocale": "pt",
+			"caption": "Português Brasileiro"
+		},
+		"Polska": {
+			"locale": "pl-PL",
+			"fallbackLocale": "pl",
+			"caption": "Polski"
+		},
+		"SimplifiedChinese": {
+			"locale": "zh-CN",
+			"fallbackLocale": "zh",
+			"caption": "Simplified Chinese",
+			"symbols_delimeter": ["。", "，", "$"],
+			"dynamic_font" : "fonts/NotoSansSC-Medium.ttf",
+			"is_no_spaces" : true,
+			"fonts": {
+				"menu_font" : "f_chinese_sdf",
+				"menu_size"	: 30,
+				"lettes_font" : {
+					"text" : "f_chinese_sdf",
+					"sign" : "f_chinese_sdf"
+				},
+				"texts_font" : {
+					"bold_sdf" : "f_chinese_sdf",
+					"regular_sdf" : "f_chinese_sdf",
+					"italic_sdf" : "f_chinese_sdf",
+					"bold_sdf_huge_spread" : "f_chinese_sdf_huge_spread",
+					"regular_sdf_huge_spread" : "f_chinese_sdf_huge_spread"
+				}
+			}
+		},
+		"TraditionalChinese": {
+			"locale": "zh-TW",
+			"fallbackLocale": "zh",
+			"caption": "Traditional Chinese",
+			"symbols_delimeter": ["。", "，"],
+			"dynamic_font" : "fonts/NotoSansSC-Medium.ttf",
+			"is_no_spaces" : true,
+			"fonts": {
+				"menu_font" : "f_chinese_sdf",
+				"menu_size"	: 30,
+				"lettes_font" : {
+					"text" : "f_chinese_sdf",
+					"sign" : "f_chinese_sdf"
+				},
+				"texts_font" : {
+					"bold_sdf" : "f_chinese_sdf",
+					"regular_sdf" : "f_chinese_sdf",
+					"italic_sdf" : "f_chinese_sdf",
+					"bold_sdf_huge_spread" : "f_chinese_sdf_huge_spread",
+					"regular_sdf_huge_spread" : "f_chinese_sdf_huge_spread"
+				}
+			}
+		},
+		"Japanese": {
+			"locale": "ja-JP",
+			"fallbackLocale": "ja",
+			"caption": "Japanese",
+			"symbols_delimeter": ["。", "、", "ー", "！"],
+			"is_no_spaces" : true,
+			"dynamic_font" : "fonts/NotoSansJP-Medium.ttf",
+			"fonts": {
+				"menu_font" : "f_japanese_sdf",
+				"menu_size"	: 30,
+				"lettes_font" : {
+					"text" : "f_japanese_sdf",
+					"sign" : "f_japanese_sdf"
+				},
+				"texts_font" : {
+					"bold_sdf" : "f_japanese_sdf",
+					"regular_sdf" : "f_japanese_sdf",
+					"italic_sdf" : "f_japanese_sdf",
+					"bold_sdf_huge_spread" : "f_japanese_sdf_huge_spread",
+					"regular_sdf_huge_spread" : "f_japanese_sdf_huge_spread"
+				}
+			}
+		},
+		"Vietnamese": {
+			"locale": "vi-VN",
+			"fallbackLocale": "vi",
+			"caption": "Tiếng Việt",
+			"dynamic_font": "fonts/NotoSansVI-Regular.ttf",
+			"fonts": {
+				"menu_font": "f_vietnamese_sdf",
+				"menu_size": 30,
+				"letters_font": {
+					"text": "f_vietnamese_sdf",
+					"sign": "f_vietnamese_sdf"
+				},
+				"texts_font": {
+					"bold_sdf": "f_vietnamese_sdf",
+					"regular_sdf": "f_vietnamese_sdf",
+					"italic_sdf": "f_vietnamese_sdf",
+					"bold_sdf_huge_spread": "f_vietnamese_sdf_huge_spread",
+					"regular_sdf_huge_spread": "f_vietnamese_sdf_huge_spread"
+				}
+			}
+		},
+		"Deutsch": {
+			"locale": "de-DE",
+			"fallbackLocale": "de",
+			"caption": "Deutsch"
+		},
+		"French": {
+			"locale": "fr-FR",
+			"fallbackLocale": "fr",
+			"caption": "Français"
+		},
+		"Italiana": {
+			"locale": "it-IT",
+			"fallbackLocale": "it",
+			"caption": "Italiana"
+		},
+		"Turkish": {
+			"locale": "tr-TR",
+			"fallbackLocale": "tr",
+			"caption": "Türkçe"
+		},
+		"Hungarian": {
+			"locale": "hu-HU",
+			"fallbackLocale": "hu",
+			"caption": "Magyar"
+		},
+		"Ukrainian": {
+			"locale": "uk-UA",
+			"fallbackLocale": "uk",
+			"caption": "Українська"
+		}
+	}
+}

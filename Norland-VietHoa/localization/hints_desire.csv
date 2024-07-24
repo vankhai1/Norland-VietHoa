@@ -1,0 +1,3019 @@
+Code,Comments,Russian,English,English - final,Czech,PortugueseBrazilian,Spanish,Polska,SimplifiedChinese,TraditionalChinese,Japanese,Korean,Deutsch,French,Italiana,Turkish,Hungarian,Ukrainian,Vietnamese
+,,,,,,,,,,,,,,,,,,,
+hint_MORAL_DEBUFF,,"~
+Влияние на настроение: 
+<red>{debuff}</red>","~
+Mood Impact:
+<red>{debuff}</red>","~
+Mood Impact:
+<red>{debuff}</red>","~
+Dopad na náladu:
+<red>{debuff}</red>","~
+Impacto no humor:
+<red>{debuff}</red>","~
+Efecto en el humor:
+<red>{debuff}</red>","~
+Wpływ na nastrój:
+<red>{debuff}</red>","~
+心情影响：
+<red>{debuff}</red>","~
+心情影響：
+<red>{debuff}</red>","～
+ムードの影響：
+<red>{debuff}</red>","~
+기분의 영향:
+<red>{debuff}</red>","~
+Einfluss auf die Laune:
+<red>{debuff}</red>","~
+Impact sur le moral :
+<red>{debuff}</red>","~
+Effetto sul morale:
+<red>{debuff}</red>","~
+Ruh Hâline Etkisi:
+<red>{debuff}</red>","~
+Hangulat hatása:
+<red>{debuff}</red>","~
+Вплив на настрій:
+<red>{debuff}</red>","~
+Ảnh hưởng tâm trạng:
+<red>{debuff}</red>"
+hint_desire_granted,,"Желание выполнено
+Персонаж наслаждается чувством достигнутой цели.
+
+Влияние на настроение: 
+<green>{buff}</green>
+
+Это чувство мимолетно, и следующее желание можно ожидать уже через несколько дней.","Desire Fulfilled
+The character is enjoying the sense of accomplishment.
+
+Mood Impact:
+<green>{buff}</green>
+
+This feeling is fleeting, and the next desire can be expected in a few days.","Desire Fulfilled
+The character is enjoying the sense of accomplishment.
+
+Mood Impact:
+<green>{buff}</green>
+
+This feeling is fleeting, and the next desire can be expected in a few days.","Naplněná touha
+Postava si užívá pocit úspěchu.
+
+Dopad na náladu:
+<green>{buff}</green>
+
+Tento pocit je pomíjivý a další touha se dá očekávat za pár dnů.","Desejo realizado
+Este personagem está se deleitando com um sentimento de realização.
+
+Impacto no humor:
+<green>{buff}</green>
+
+Este sentimento é passageiro; o próximo desejo surgirá em alguns dias.","Deseo cumplido
+El personaje disfruta de la sensación de haber logrado algo.
+
+Efecto en el humor:
+<green>{buff}</green>
+
+Este sentimiento es fugaz, y un nuevo deseo llegará en unos días.","Pragnienie spełnione
+Ta osoba odczuwa satysfakcję z osiągniętego sukcesu.
+
+Wpływ na nastrój:
+<green>{buff}</green>
+
+To uczucie tymczasowe, a nowe pragnienie pojawi się za parę dni.","欲望得到满足
+这个角色沉浸在成就感中。
+
+心情影响：
+<green>{buff}</green>
+
+这种感觉转瞬即逝，几天后可能就会产生下一个欲望。","慾望已滿足
+人物正享受著成就感。
+
+心情影響：
+<green>{buff}</green>
+
+此感受轉瞬即逝，下一次的慾望幾天後即將出現。","欲望が満たされた
+キャラクターは達成感を味わっています。
+
+ムードの影響：
+<green>{buff}</green>
+
+この感覚はつかの間のもので、数日後に次の欲求が生じます。","충족된 욕망
+캐릭터가 성취감을 즐기고 있습니다.
+
+기분의 영향:
+<green>{buff}</green>
+
+이 느낌은 일시적이며, 며칠 안에 다음 욕망이 생겨날 수 있습니다.","Sehnsucht erfüllt
+Die Person erlebt ein Gefühl der Selbstverwirklichung.
+
+Einfluss auf die Laune:
+<green>{buff}</green>
+
+Dieses Gefühl ist vergänglich und die nächste Sehnsucht ist bereits in einigen Tagen zu erwarten.","Désir comblé 
+Ce personnage ressent une forme d'accomplissement.
+
+Impact sur le moral :
+<green>{buff}</green>
+ 
+Ce sentiment est de courte durée. Un nouveau désir pourra surgir dans quelques jours.","Desiderio esaudito
+Il personaggio si crogiola in un senso di appagamento.
+
+Effetto sul morale:
+<green>{buff}</green>
+
+Questa sensazione è effimera, e il prossimo desiderio si manifesterà tra qualche giorno.","Giderilen Arzu
+Karakter başarıya ulaştığı için kendini iyi hissediyor.
+
+Ruh hâline etkisi:
+<green>{buff}</green>
+
+Bu geçici bir his ve birkaç gün içinde yeni bir arzuya sahip olması bekleniyor.","Beteljesült vágy
+A karakter élvezi a beteljesülés érzését.
+
+Hangulat hatása:
+<green>{buff}</green>
+
+Ez az érzés múló, és a következő vágy néhány nap múlva várható.","Здійснення бажання
+Персонаж насолоджується відчуттям здійснення бажання.
+
+Вплив на настрій:
+<green>{buff}</green>
+
+Це відчуття швидкоплинне. Наступне бажання може з’явитися через декілька днів.","Mong muốn được thỏa mãn
+Nhân vật đang tận hưởng cảm giác hoàn thành thành tựu.
+
+Tác động đến tâm trạng:
+<green>{buff}</green>
+
+Cảm giác này thoáng qua và mong muốn tiếp theo có thể xuất hiện sau vài ngày nữa."
+hint_wish_learn_combat,,"Научиться драться
+Персонаж хочет научиться лучше сражаться, так как его навыки боя сильно отличаются от остальных лордов.
+
+[hint_MORAL_DEBUFF]
+
+Желание будет выполнено, когда у персонажа будет уровень навыка Боя <hint=hint_skill_combat>{required_skill_level}</hint> или более.","Learn to Fight
+The character wants to improve their combat skills as they significantly differ from other lords.
+
+[hint_MORAL_DEBUFF]
+
+The desire will be fulfilled when the character reaches a Combat skill level of <hint=hint_skill_combat>{required_skill_level}</hint> or higher.","Learn to Fight
+The character wants to improve their combat skills as they significantly differ from other lords.
+
+[hint_MORAL_DEBUFF]
+
+The desire will be fulfilled when the character reaches a Combat skill level of <hint=hint_skill_combat>{required_skill_level}</hint> or higher.","Naučit se bojovat
+Postava si chce zlepšit bojové schopnosti, protože se výrazně liší od ostatních lordů.
+
+[hint_MORAL_DEBUFF]
+
+Touha se naplní, když postava dosáhne úrovně bojové schopnosti <hint=hint_skill_combat>{required_skill_level}</hint> nebo vyšší.","Aprender a lutar
+Este personagem quer melhorar suas habilidades de combate devido às diferenças que tem com outros nobres.
+
+[hint_MORAL_DEBUFF]
+
+Este desejo será realizado quando o personagem alcançar o nível de habilidade de combate de <hint=hint_skill_combat>{required_skill_level}</hint> ou acima.","Aprender a luchar
+El personaje quiere mejorar sus habilidades de combate ya que difieren significativamente de las de otros señores.
+
+[hint_MORAL_DEBUFF]
+
+El deseo se cumplirá cuando el personaje alcance un nivel de la habilidad Combate de <hint=hint_skill_combat>{required_skill_level}</hint> o superior.","Nauka walki
+Ta osoba chce poprawić swoje umiejętności bojowe, ponieważ odstaje w tym elemencie od innych lordów.
+
+[hint_MORAL_DEBUFF]
+
+Pragnienie zostanie spełnione, jeśli postać osiągnie umiejętności bojowe na poz. <hint=hint_skill_combat>{required_skill_level}</hint> lub wyższym.","学习战斗
+由于与其他领主相差甚远，这个角色想要提升战斗技能。
+
+[hint_MORAL_DEBUFF]
+
+当这个角色的战斗技能等级达到 <hint=hint_skill_combat>{required_skill_level}</hint> 或更高时，此欲望得到满足。","學習戰鬥
+由於與其他貴族差異過大，人物想要增進自己的戰鬥能力。
+
+[hint_MORAL_DEBUFF]
+
+當人物的戰鬥能力等級達到 <hint=hint_skill_combat>{required_skill_level}</hint> 或更高時，即可滿足慾望。","戦い方を学ぶ
+このキャラクターは、他の領主とは大きく差がつくよう戦闘スキルを向上させたいと考えています。
+
+[hint_MORAL_DEBUFF]
+
+この欲望は、このキャラクターが戦闘スキルレベルが<hint=hint_skill_combat>{required_skill_level}</hint>以上になったときに満たされます。","전투 학습
+캐릭터가 다른 영주들과 크게 차이나기 때문에 전투 스킬을 향상하고 싶어 합니다.
+
+[hint_MORAL_DEBUFF]
+
+캐릭터의 전투 스킬 레벨이 <hint=hint_skill_combat>{required_skill_level}</hint> 이상이면 욕망이 충족됩니다.","Kämpfen lernen
+Die Person möchte ihre Kampffähigkeiten verbessern, da diese sich drastisch von anderen Lords unterscheidet.
+
+[hint_MORAL_DEBUFF]
+
+Die Sehnsucht gilt als erfüllt, wenn die Person eine Kampffähigkeitsstufe von <hint=hint_skill_combat>{required_skill_level}</hint> oder mehr erreicht.","Apprentissage du combat 
+Ce personnage souhaite améliorer sa combativité, qui est bien inférieure à celle des autres nobles.
+
+[hint_MORAL_DEBUFF]
+ 
+Ce désir sera comblé lorsque la combativité du personnage sera de niveau <hint=hint_skill_combat>{required_skill_level}</hint> ou supérieur.","Lezioni di Combattimento
+Il personaggio desidera migliorare le sue abilità di combattimento, notevolmente inferiori a quelle degli altri nobili.
+
+[hint_MORAL_DEBUFF]
+
+Il desiderio verrà esaudito quando l'abilità Combattimento del personaggio raggiungerà il livello <hint=hint_skill_combat>{required_skill_level}</hint> o superiore.","Savaşmayı Öğrenmek
+Bu karakterin Dövüş becerisi seviyesi, diğer asilzadelerden çok daha düşük olduğu için becerisini geliştirmek istiyor.
+
+[hint_MORAL_DEBUFF]
+
+Karakterin Dövüş beceri seviyesi <hint=hint_skill_combat>{required_skill_level}</hint> ve üstü olduğunda bu arzu giderilmiş olacaktır.","Harc elsajátítása
+A karakter fejleszteni akarja a Harc képességét, mivel nagyon más, mint a többi nemes.
+
+[hint_MORAL_DEBUFF]
+
+A vágy akkor teljesül, ha a karakter elér legalább <hint=hint_skill_combat>{required_skill_level}.</hint> szintre a Harc képességben.","Оволодіння бойовими навичками
+Персонаж бажає покращити навички ведення бою, оскільки значно відрізняється від інших вельмож.
+
+[hint_MORAL_DEBUFF]
+
+Бажання здійсниться, коли рівень навички ведення бою персонажа становитиме <hint=hint_skill_combat>{required_skill_level}</hint> або вище.","Học cách Chiến đấu
+Nhân vật muốn cải thiện kỹ năng chiến đấu vì kỹ năng của họ khác biệt đáng kể so với các lãnh chúa khác.
+
+[hint_MORAL_DEBUFF]
+
+Mong muốn sẽ được hoàn thành khi nhân vật đạt được mức kỹ năng Chiến đấu <hint=hint_skill_combat>{required_skill_level}</hint> hoặc cao hơn.
+"
+hint_wish_learn_manners,,"Научиться манерам
+Персонаж хочет быть более манерным, так как его манеры сильно отличаются от остальных лордов.
+
+[hint_MORAL_DEBUFF]
+
+Желание будет выполнено, когда у персонажа будет уровень навыка Манеры <hint=hint_skill_manners>{required_skill_level}</hint> или более.","Learn Manners
+The character wants to become more refined in their manners as they significantly differ from other lords.
+
+[hint_MORAL_DEBUFF]
+
+The desire will be fulfilled when the character reaches an Manner skill level of <hint=hint_skill_manners>{required_skill_level}</hint> or higher.","Learn Manners
+The character wants to become more refined in their manners as they significantly differ from other lords.
+
+[hint_MORAL_DEBUFF]
+
+The desire will be fulfilled when the character reaches an Manner skill level of <hint=hint_skill_manners>{required_skill_level}</hint> or higher.","Naučit se chování
+Postava chce mít vytříbenější chování, protože se výrazně liší od ostatních lordů.
+
+[hint_MORAL_DEBUFF]
+
+Touha se naplní, když postava dosáhne úrovně schopnosti Chování <hint=hint_skill_manners>{required_skill_level}</hint> nebo vyšší.","Aprender boas maneiras
+Este personagem quer ter maneiras mais refinadas devido às diferenças que tem com outros membros da nobreza.
+
+[hint_MORAL_DEBUFF]
+
+Este desejo será realizado quando o personagem alcançar o nível de habilidade de boas maneiras de <hint=hint_skill_manners>{required_skill_level}</hint> ou acima.","Aprender modales
+El personaje quiere refinar más sus modales ya que difieren significativamente de los de otros señores.
+
+[hint_MORAL_DEBUFF]
+
+El deseo se cumplirá cuando el personaje alcance un nivel de la habilidad Modales de <hint=hint_skill_manners>{required_skill_level}</hint> o superior.","Nauka manier
+Ta osoba chce poprawić swoje maniery, ponieważ odstaje w tym elemencie od innych lordów.
+
+[hint_MORAL_DEBUFF]
+
+Pragnienie zostanie spełnione, jeśli postać osiągnie maniery na poz. <hint=hint_skill_manners>{required_skill_level}</hint> lub wyższym.","学习礼仪
+由于与其他领主相差甚远，这个角色想要表现出更好的礼仪举止。
+
+[hint_MORAL_DEBUFF]
+
+当这个角色的礼仪技能等级达到 <hint=hint_skill_manners>{required_skill_level}</hint> 或更高时，此欲望得到满足。","學習氣質
+由於與其他貴族差異過大，人物想要更加溫文儒雅。
+
+[hint_MORAL_DEBUFF]
+
+當人物的氣質能力等級達到 <hint=hint_skill_manners>{required_skill_level}</hint> 或更高時，即可滿足慾望。","マナーを学ぶ
+このキャラクターは、他の領主とは大きく差がつくよう、洗練されたマナーを身につけたいと考えています。
+
+[hint_MORAL_DEBUFF]
+
+この欲望は、このキャラクターがマナースキルレベルが<hint=hint_skill_manners>{required_skill_level}</hint>以上になったときに満たされます。","예의 학습
+캐릭터가 다른 영주들과 크게 차이나기 때문에 예의 스킬을 향상하고 싶어 합니다.
+
+[hint_MORAL_DEBUFF]
+
+캐릭터의 예의 스킬 레벨이 <hint=hint_skill_manners>{required_skill_level}</hint> 이상이면 욕망이 충족됩니다.","Manieren lernen
+Die Person möchte ihre Manieren verbessern, da diese sich drastisch von anderen Lords unterscheiden.
+
+[hint_MORAL_DEBUFF]
+
+Die Sehnsucht gilt als erfüllt, wenn die Person eine Manieren-Fähigkeitsstufe von <hint=hint_skill_manners>{required_skill_level}</hint> oder mehr erreicht.","Apprentissage des manières 
+Ce personnage souhaite devenir quelqu'un de plus raffiné, car ses manières sont bien différentes de celles des autres seigneurs.
+
+[hint_MORAL_DEBUFF]
+ 
+Ce désir sera comblé lorsque la compétence Manières du personnage sera de niveau <hint=hint_skill_manners>{required_skill_level}</hint> ou supérieur.","Lezioni di Maniere
+Il personaggio desidera raffinare le sue maniere, notevolmente inferiori a quelle degli altri nobili.
+
+[hint_MORAL_DEBUFF]
+
+Il desiderio verrà esaudito quando l'abilità Maniere del personaggio raggiungerà il livello <hint=hint_skill_manners>{required_skill_level}</hint> o superiore.","Terbiye Öğrenmek
+Bu karakterin Terbiye seviyesi, diğer asilzadelerden çok daha düşük olduğu için Terbiye becerisini geliştirmek istiyor.
+
+[hint_MORAL_DEBUFF]
+
+Karakterin Terbiye beceri seviyesi <hint=hint_skill_manners>{required_skill_level}</hint> ve üstü olduğunda bu arzu giderilmiş olacaktır.","Modor elsajátítása
+A karakter szeretne kifinomultabb modorra szert tenni, mivel nagyon más, mint a többi nemes.
+
+[hint_MORAL_DEBUFF]
+
+A vágy akkor teljesül, ha a karakter elér legalább <hint=hint_skill_manners>{required_skill_level}.</hint> szintre a Modor képességben.","Оволодіння манерами
+Персонаж бажає оволодіти вишуканими манерами, оскільки значно відрізняється від інших вельмож.
+
+[hint_MORAL_DEBUFF]
+
+Бажання здійсниться, коли рівень навички «Манери» персонажа становитиме <hint=hint_skill_manners>{required_skill_level}</hint> або вище.","Học cách Cư xử
+Nhân vật muốn trở nên tinh tế hơn trong cách cư xử vì kỹ năng của họ khác biệt đáng kể so với các lãnh chúa khác.
+
+[hint_MORAL_DEBUFF]
+
+Mong muốn sẽ được hoàn thành khi nhân vật đạt được mức kỹ năng Cư xử <hint=hint_skill_manners>{required_skill_level}</hint> hoặc cao hơn.
+"
+hint_wish_more_knowledge,,"Углубить знания
+Персонаж хочет углубить свои знания в навыке {skill} и поднять его уровень до {lvl}
+
+[hint_MORAL_DEBUFF]
+
+Желание будет выполнено, когда у персонажа будет уровень навыка {skill} {lvl} или более
+","Deepen Knowledge
+The character wants to deepen their knowledge in the {skill} skill and raise its level to {lvl}.
+
+[hint_MORAL_DEBUFF]
+
+The desire will be fulfilled when the character reaches a {skill} skill level of {lvl} or higher.","Deepen Knowledge
+The character wants to deepen their knowledge in the {skill} skill and raise its level to {lvl}.
+
+[hint_MORAL_DEBUFF]
+
+The desire will be fulfilled when the character reaches a {skill} skill level of {lvl} or higher.","Prohloubit znalosti
+Postava si chce prohloubit znalosti v rámci schopnosti {skill} a zvýšit její úroveň na {lvl}.
+
+[hint_MORAL_DEBUFF]
+
+Touha se naplní, když postava dosáhne {lvl}. úrovně schopnosti {skill} nebo vyšší.","Aprofundar conhecimento
+Este personagem quer aprofundar seus conhecimentos na habilidade de {skill} e chegar ao nível {lvl}.
+
+[hint_MORAL_DEBUFF]
+
+Este desejo será realizado quando o personagem alcançar o nível de habilidade de {skill} {lvl} ou acima.","Abundar en el conocimiento
+El personaje quiere profundizar sus conocimientos de la habilidad {skill} y elevar su nivel a {lvl}.
+
+[hint_MORAL_DEBUFF]
+
+El deseo se cumplirá cuando el personaje alcance un nivel en la habilidad {skill} de {lvl} o superior.","Zgłębianie wiedzy
+Ta osoba chce poprawić swoją wiedzę ({skill}) i podnieść ją do poziomu {lvl}.
+
+[hint_MORAL_DEBUFF]
+
+Pragnienie zostanie spełnione, jeśli postać osiągnie umiejętność {skill} na poz. {lvl} lub wyższym.","强化知识
+这个角色想要强化{skill}技能方面的知识，并且技能等级达到 {lvl}。
+
+[hint_MORAL_DEBUFF]
+
+当这个角色的{skill}技能等级达到 {lvl} 或更高时，此欲望得到满足。","加深知識
+人物想加深自身的{skill}知識並將之提升至等級 {lvl}。
+
+[hint_MORAL_DEBUFF]
+
+當人物的{skill}能力等級達到 {lvl} 或更高時，即可滿足慾望。","知識を深める
+このキャラクターは{skill}スキルの知識を深め、レベルを{lvl}まで向上させたいと考えています。
+
+[hint_MORAL_DEBUFF]
+
+この欲望は、このキャラクターが{skill}スキルレベルが{lvl}以上になったときに満たされます。","지식 강화
+캐릭터가 {skill} 스킬을 연마하여 레벨 {lvl}까지 향상하고 싶어 합니다.
+
+[hint_MORAL_DEBUFF]
+
+캐릭터의 {skill} 스킬 레벨이 {lvl} 이상이면 욕망이 충족됩니다.","Wissen vertiefen
+Die Person möchte ihr Wissen hinsichtlich der {skill}-Fähigkeit verbessern und deren Stufe auf {lvl} erhöhen.
+
+[hint_MORAL_DEBUFF]
+
+Die Sehnsucht wird erfüllt, wenn die Person eine {skill}-Fähigkeitsstufe von {lvl} oder mehr erreicht.","Approfondissement du savoir 
+Ce personnage souhaite approfondir ses connaissances en {skill} pour atteindre le niveau {lvl}.
+
+[hint_MORAL_DEBUFF]
+ 
+Ce désir sera comblé lorsque la compétence {skill} du personnage sera de niveau {lvl} ou supérieur.","Studio della conoscenza
+Il personaggio desidera approfondire la conoscenza nell'abilità {skill}, aumentandone il livello a {lvl}.
+
+[hint_MORAL_DEBUFF]
+
+Il desiderio verrà esaudito quando l'abilità {skill} del personaggio raggiungerà il livello {lvl} o superiore.","İrfan Geliştirmek
+Bu karakter {skill} irfanını geliştirerek onu {lvl}. seviyeye çıkarmak istiyor.
+
+[hint_MORAL_DEBUFF]
+
+Karakterin {skill} seviyesi {lvl} ve üstü olduğunda bu arzu giderilmiş olacaktır.","Ismeret elmélyítése
+A karakter szeretné elmélyíteni ismeretét a(z) {skill} képességben, és a(z) {lvl}. szintre emelni.
+
+[hint_MORAL_DEBUFF]
+
+A vágy akkor teljesül, ha a karakter elér legalább {lvl}. szintre a(z) {skill} képességben.","Поглиблення знань
+Персонаж бажає підвищити рівень навички «{skill}» до {lvl}.
+
+[hint_MORAL_DEBUFF]
+
+Бажання здійсниться, коли рівень навички «{skill}» становитиме {lvl} або вище.","Học sâu Kiến thức
+Nhân vật muốn học sâu kiến thức trong kỹ năng {skill} và nâng cấp lên {lvl}.
+
+[hint_MORAL_DEBUFF]
+
+Mong muốn sẽ được hoàn thành khi nhân vật đạt được mức kỹ năng {skill} là {lvl} hoặc cao hơn.
+"
+hint_wish_homeless,,"Хочу жить в доме
+Персонаж переживает из-за того, что у него нет своего дома.
+
+[hint_MORAL_DEBUFF]
+
+Желание будет выполнено, когда у персонажа будет дом.","Wish to Have a Home
+The character is distressed because they don't have their own home.
+
+[hint_MORAL_DEBUFF]
+
+The desire will be fulfilled when the character has a home.","Wish to Have a Home
+The character is distressed because they don't have their own home.
+
+[hint_MORAL_DEBUFF]
+
+The desire will be fulfilled when the character has a home.","Touha mít domov
+Postava je znepokojená, protože nemá vlastní domov.
+
+[hint_MORAL_DEBUFF]
+
+Touha se naplní, když postava bude mít domov.
+
+Tuto touhu můžeš pomoct naplnit různými způsoby:
+
+ Postav lordovi šlechtický dům.","Ter uma casa
+Este personagem está sofrendo por não ter uma casa própria.
+
+[hint_MORAL_DEBUFF]
+
+Este desejo será realizado quando o personagem tiver uma casa.","Deseo de tener un hogar
+El personaje está angustiado porque no tiene su propio hogar.
+
+[hint_MORAL_DEBUFF]
+
+El deseo se cumplirá cuando el personaje tenga un hogar.
+
+Puedes ayudar a cumplir este deseo de diferentes maneras:
+$ Construye una casa noble para el señor.","Pragnienie własnego domu
+Ta osoba odczuwa frustrację, ponieważ nie posiada własnego domu.
+
+[hint_MORAL_DEBUFF]
+
+Pragnienie zostanie spełnione, gdy postać dostanie swój dom.
+
+Możesz pomóc spełnić to pragnienie:
+$ Zbuduj dla lorda dom.","想要有个家
+由于没有自己的家，这个角色焦虑不安。
+
+[hint_MORAL_DEBUFF]
+
+当这个角色有家时，此欲望得到满足。可以帮助角色满足欲望的不同方式：为领主建造一座贵族住宅。","願得家園
+人物因沒有自己的家園而感到憂鬱。
+
+[hint_MORAL_DEBUFF]
+
+人物擁有家園後即可滿足慾望。可以不同方式滿足此慾望：為貴族建立一個王室家族。","家を所有するという願望
+このキャラクターは、自分の家がないことに悩んでいます。
+
+[hint_MORAL_DEBUFF]
+
+この欲望は、キャラクターが家を所有することで満たされます。この欲望を満たすには、さまざまな方法があります：領主のために貴族の家を建設しましょう。","집 욕망
+캐릭터가 집이 없어서 괴로워합니다.
+
+[hint_MORAL_DEBUFF]
+
+캐릭터에게 집이 생기면 욕망이 충족됩니다.다양한 방법으로 이 욕망을 충족할 수 있습니다: 영주를 위한 귀족 저택을 건설하세요.","Wunsch nach einem Zuhause
+Die Person ist verzweifelt, weil sie kein eigenes Zuhause hat.
+
+[hint_MORAL_DEBUFF]
+
+Die Sehnsucht gilt als erfüllt, wenn die Person ein Zuhause gefunden hat.Du kannst diese Sehnsucht auf unterschiedliche Arten erfüllen: Baue ein Adelshaus für den Lord.","Désir de logement 
+Ce personnage est bouleversé, car il ne possède pas de logement.
+
+[hint_MORAL_DEBUFF]
+ 
+Ce désir sera comblé lorsque le personnage aura un endroit où loger. Il existe plusieurs moyens de combler ce désir. Construisez une maison de noble pour le seigneur.","Desiderio di una casa
+Il personaggio è afflitto perché non possiede una propria dimora.
+
+[hint_MORAL_DEBUFF]
+
+Il desiderio verrà esaudito quando il personaggio avrà una casa.Puoi contribuire alla realizzazione in diversi modi: Costruisci una casa nobiliare.","Ev Dileği
+Bu karakter, kendine ait bir evi olmadığı için mutsuz.
+
+[hint_MORAL_DEBUFF]
+
+Arzu, karakter kendi evine sahip olduğunda giderilmiş olacak.Bu arzuyu farklı şekillerde de giderebilirsin: Asilzade için bir ev inşa et.","Saját otthon után vágy
+A karaktert nyomasztja, hogy nincs saját otthona.
+
+[hint_MORAL_DEBUFF]
+
+A vágy akkor teljesül, ha a karakternek lesz otthona.
+
+Ennek a vágynak a beteljesülését többféleképpen is segítheted:
+$ Építs egy nemesi házat a nemesnek.","Бажання мати дім
+Персонаж засмучений, оскільки в нього немає власного дому.
+
+[hint_MORAL_DEBUFF]
+
+Бажання здійсниться, коли персонаж матиме дім.
+
+Ви можете допомогти здійснити це бажання різними способами:
+$ побудуйте шляхетний дім для вельможі.","Mong ước Có Một Ngôi Nhà
+Nhân vật đang buồn bực vì họ không có ngôi nhà riêng.
+
+[hint_MORAL_DEBUFF]
+
+Mong muốn sẽ được hoàn thành khi nhân vật có một ngôi nhà.
+"
+hint_wish_small_amount_of_rings,,"Меньше всех колец
+Персонаж переживает из-за того, что у него меньше всего колец в городе.
+
+[hint_MORAL_DEBUFF]
+
+Желание будет выполнено, когда у персонажа будет больше всех колец.
+
+Вы можете по-разному помочь с исполнением этого желания: 
+$ Наградить лорда","Least Rings
+The character is distressed because they have the fewest Holy Rings in the city.
+
+[hint_MORAL_DEBUFF]
+
+The desire will be fulfilled when the character has more Rings than anyone else.
+
+You can fulfill this desire in different ways:
+$ Reward the character with rings.","Least Rings
+The character is distressed because they have the fewest Holy Rings in the city.
+
+[hint_MORAL_DEBUFF]
+
+The desire will be fulfilled when the character has more Rings than anyone else.
+
+You can fulfill this desire in different ways:
+$ Reward the character with rings.","Nejméně prstenů
+Postava je znepokojená, protože má nejméně svatých prstenů ve městě.
+
+[hint_MORAL_DEBUFF]
+
+Touha se naplní, když postava bude mít víc prstenů než kdokoliv jiný.
+
+Tuto touhu můžeš pomoct naplnit různými způsoby:
+$ Odměň postavu pomocí prstenů.","Menor quantidade de anéis
+Este personagem está sofrendo por ter a menor quantidade de Anéis Sagrados da cidade.
+
+[hint_MORAL_DEBUFF]
+
+Este desejo será realizado quando o personagem tiver mais anéis do que todos os demais.
+
+Você pode ajudar na realização deste desejo de diferentes formas:
+$ Recompense este personagem com anéis.","Menos anillos que nadie
+El personaje está angustiado porque es el que menos anillos sagrados tiene en la ciudad.
+
+[hint_MORAL_DEBUFF]
+
+El deseo se cumplirá cuando el personaje tenga más anillos que nadie.
+
+Puedes cumplir este deseo de diferentes maneras:
+$ Recompensa al personaje con anillos.","Najmniej pierścieni
+Ta osoba odczuwa frustrację, ponieważ posiada najmniej pierścieni w mieście.
+
+[hint_MORAL_DEBUFF]
+
+Pragnienie zostanie spełnione, gdy postać będzie mieć więcej pierścieni niż inni.
+
+Możesz pomóc spełnić to pragnienie:
+$ Podaruj tej osobie pierścienie.","圣戒最少
+这个角色的圣戒数量是城里最少的，所以感到焦虑不安。
+
+[hint_MORAL_DEBUFF]
+
+当这个角色的圣戒最多时，此欲望得到满足。
+
+可以帮助角色满足欲望的不同方式：
+$奖赏这个角色圣戒。","少量聖戒
+人物由於持有聖戒數量為城鎮中最低而感到難過。
+
+[hint_MORAL_DEBUFF]
+
+人物持有的聖戒數量比他人多時慾望即可滿足。
+
+可以不同方式滿足此慾望：
+$賞賜聖戒給人物。","神聖なリングが少ない
+このキャラクターは、保有している神聖なリングが少ないことに悩んでいます。
+
+[hint_MORAL_DEBUFF]
+
+この欲望は、キャラクターが他者よりもたくさんの神聖なリングを保有することで満たされます。
+
+この欲望を満たすには、さまざまな方法があります：
+$このキャラクターに神聖なリングで報酬を与えましょう。","최소 반지
+캐릭터가 도시에서 가장 적은 신성 반지를 소유하여 괴로워합니다.
+
+[hint_MORAL_DEBUFF]
+
+캐릭터가 다른 누군가보다 반지를 더 많이 소유하면 욕망이 충족됩니다.
+
+다양한 방법으로 이 욕망을 충족할 수 있습니다:
+$ 캐릭터에게 반지를 보상으로 제공하세요.","Wenigste Ringe
+Diese Person ist verzweifelt, weil sie die wenigsten Heiligen Ringe der gesamten Stadt besitzt.
+
+[hint_MORAL_DEBUFF]
+
+Die Sehnsucht gilt als erfüllt, wenn die Person mehr Ringe als alle anderen hat.
+
+Du kannst diese Sehnsucht auf unterschiedliche Arten erfüllen:
+$ Schenke der Person Ringe zur Belohnung.","Trop peu d'anneaux 
+Ce personnage est bouleversé, car il possède le moins d'anneaux sacrés de la cité.
+
+[hint_MORAL_DEBUFF]
+ 
+Ce désir sera comblé lorsque le personnage aura plus d'anneaux que tous les autres habitants.
+ 
+Il existe plusieurs moyens de combler ce désir.
+$ Récompenser le personnage avec des anneaux.","Carenza di anelli
+Il personaggio è afflitto perché possiede il minor numero di anelli sacri in tutta la città.
+
+[hint_MORAL_DEBUFF]
+
+Il desiderio verrà esaudito quando il personaggio avrà più anelli di chiunque altro.
+
+Puoi contribuire alla realizzazione in diversi modi:
+$ Ricompensa il personaggio con gli anelli.","En Az Yüzük
+Bu karakter, şehirdeki en düşük kutsal yüzük sayısına sahip olduğu için mutsuz.
+
+[hint_MORAL_DEBUFF]
+
+Arzu, bu karakter diğerlerinden daha fazla kutsal yüzüğe sahip olduğunda giderilmiş olacak.
+
+Bu arzuyu farklı şekillerde de giderebilirsin:
+$ Asilzadeyi kutsal yüzükle ödüllendir.","Legkevesebb Gyűrű
+A karakter elkeseredett, mert neki van a legkevesebb Szent Gyűrűje a városban.
+
+[hint_MORAL_DEBUFF]
+
+A vágy akkor teljesül, ha a karakternek több Gyűrűje van, mint bárki másnak.
+
+Ezt a vágyat többféleképpen teljesítheted be:
+$ Jutalmazd meg a karaktert Gyűrűkkel.","Найменше перснів
+Персонаж засмучений, оскільки має найменшу кількість священних перснів у місті.
+
+[hint_MORAL_DEBUFF]
+
+Бажання здійсниться, коли персонаж матиме найбільшу кількість священних перснів серед усіх.
+
+Ви можете допомогти здійснити це бажання різними способами:
+$ нагородіть персонажа перснями.","Ít Nhẫn Nhất
+Nhân vật đang buồn bực vì họ có ít Nhẫn Thánh nhất trong thành phố.
+
+[hint_MORAL_DEBUFF]
+
+Mong muốn sẽ được hoàn thành khi nhân vật có nhiều nhẫn hơn bất kỳ ai khác.
+
+Bạn có thể hoàn thành mong muốn này theo các cách khác nhau:
+$ Thưởng cho nhân vật nhẫn.
+"
+hint_wish_small_amount_of_bandits,,"Менее 5-ти преступников в городе
+Короля беспокоит высокая преступность.
+
+[hint_MORAL_DEBUFF]
+
+Желание будет выполнено, количество преступников будет 5 или меньше.","Desire for Less than 5 Criminals in the City
+The king is concerned about high crime rates.
+
+[hint_MORAL_DEBUFF]
+
+The desire will be fulfilled when the number of criminals is 5 or fewer.
+
+","Desire for Less than 5 Criminals in the City
+The king is concerned about high crime rates.
+
+[hint_MORAL_DEBUFF]
+
+The desire will be fulfilled when the number of criminals is 5 or fewer.
+
+","Touha mít ve městě méně než 5 zločinců
+Král má obavy z vysoké zločinnosti.
+
+[hint_MORAL_DEBUFF]
+
+Touha se naplní, když počet zločinců bude nejvýše 5.","Ter menos de 5 criminosos na cidade
+O rei está preocupado com a alta taxa de criminalidade.
+
+[hint_MORAL_DEBUFF]
+
+Este desejo será realizado quando a quantidade de criminosos for de 5 ou menos.","Deseo de menos de 5 criminales en la ciudad
+El monarca está preocupado por la alta tasa de criminalidad.
+
+[hint_MORAL_DEBUFF]
+
+El deseo se cumplirá cuando el número de criminales sea de 5 o menos.","Mniej niż 5 przestępców w mieście
+Król jest zaniepokojony skalą przestępczości.
+
+[hint_MORAL_DEBUFF]
+
+Pragnienie zostanie spełnione, gdy w mieście liczba przestępców wyniesie 5 lub mniej.","希望城市里的罪犯不超过 5 个
+君王对高犯罪率感到担忧。
+
+[hint_MORAL_DEBUFF]
+
+罪犯的数量少于等于 5 时，此欲望得到满足。","希望城鎮中的罪犯少於 5 名的慾望
+君王對於高犯罪率憂心不已。
+
+[hint_MORAL_DEBUFF]
+
+罪犯數量低於 5 以下時慾望即可滿足。","街の犯罪者を5人以下に抑えたいという欲望
+王は犯罪率の高さを懸念しています
+
+[hint_MORAL_DEBUFF]
+
+この欲望は、犯罪者の数が5人以下になれば満たされます。","도시의 범죄자 5명 이하 욕망
+왕이 높은 범죄율을 우려합니다.
+
+[hint_MORAL_DEBUFF]
+
+범죄자 수가 5명 이하가 되면 욕망이 충족됩니다.","Sehnsucht nach weniger als 5 Verbrechern in der Stadt
+Der König ist wegen der hohen Kriminalitätsrate besorgt.
+
+[hint_MORAL_DEBUFF]
+
+Die Sehnsucht gilt als erfüllt, wenn die Zahl der Verbrecher 5 oder weniger beträgt.","Désir de sécurité 
+Le monarque est inquiet du taux de criminalité.
+
+[hint_MORAL_DEBUFF]
+ 
+Ce désir sera comblé lorsque le nombre de criminels dans la cité sera descendu à 5 ou moins.","Desiderio di avere meno di 5 criminali in città
+Il monarca si preoccupa del tasso di criminalità elevato.
+
+[hint_MORAL_DEBUFF]
+
+Il desiderio verrà esaudito quando il numero di criminali sarà pari o inferiore a 5.","Şehirde 5 veya Daha Az Suçlu Olması Arzusu
+Hükümdar yüksek suç oranından dolayı endişeli.
+
+[hint_MORAL_DEBUFF]
+
+Arzusu, suçlu sayısı 5 veya daha az olduğunda giderilmiş olacak.","Vágy, hogy legfeljebb 5 bűnöző legyen a városban
+Az uralkodó aggódik a magas bűnözési ráta miatt.
+
+[hint_MORAL_DEBUFF]
+
+A vágy akkor teljesül, ha a bűnözők száma 5 vagy kevesebb.","Бажання мати в місті менше п’яти злочинців
+Монарх стурбований високим рівнем злочинності.
+
+[hint_MORAL_DEBUFF]
+
+Бажання здійсниться, коли кількість злочинців становитиме п’ять або менше.","Mong Muốn Ít Hơn 5 Tội Phạm Trong Thành Phố
+Nhà vua lo lắng về tỷ lệ tội phạm cao.
+
+[hint_MORAL_DEBUFF]
+
+Mong muốn sẽ được hoàn thành khi số lượng tội phạm là 5 hoặc ít hơn.
+"
+hint_see_loved_one,,"Хотеть увидеть близкого
+Персонаж очень сильно скучает по {soul_uuid_target}.
+
+[hint_MORAL_DEBUFF]
+
+Желание будет выполнено, когда персонаж, по которому скучает скучающий вернётся домой.","Desire to See a Loved One
+The character deeply misses {soul_uuid_target} and longs to see them.
+
+[hint_MORAL_DEBUFF]
+
+The desire will be fulfilled when the character they miss returns home.
+","Desire to See a Loved One
+The character deeply misses {soul_uuid_target} and longs to see them.
+
+[hint_MORAL_DEBUFF]
+
+The desire will be fulfilled when the character they miss returns home.
+","Touha vidět milovanou osobu
+Postavě velmi schází {soul_uuid_target} a touží po setkání.
+
+[hint_MORAL_DEBUFF]
+
+Touha se naplní, když se postava, po které se stýská, vrátí domů.","Ver uma pessoa amada
+Este personagem sente saudades de {soul_uuid_target} e mal pode esperar pelo reencontro.
+
+[hint_MORAL_DEBUFF]
+
+Este desejo será realizado quando {soul_uuid_target} voltar para casa.","Deseo de ver a un ser querido
+El personaje echa de mucho de menos a {soul_uuid_target} y anhela su compañía.
+
+[hint_MORAL_DEBUFF]
+
+El deseo se cumplirá cuando el personaje que echa de menos regrese a casa.","Pragnienie spotkania
+Ta postać tęskni za bliską osobą ({soul_uuid_target}) i chce ją zobaczyć.
+
+[hint_MORAL_DEBUFF]
+
+To pragnienie zostanie spełnione, gdy wskazana osoba wróci do domu.","希望见到爱人
+这个角色深深思念着{soul_uuid_target}，希望与之相见。
+
+[hint_MORAL_DEBUFF]
+
+当角色思念的角色回家时，此欲望得到满足。","想見愛人的慾望
+人物深深思念{soul_uuid_target}並渴望見到對方。
+
+[hint_MORAL_DEBUFF]
+
+人物思念的對象回家時慾望即可滿足。","愛する人に会いたいという欲望
+このキャラクターは{soul_uuid_target}と離れ離れになって寂しく思い、会いたいと願っています。
+
+[hint_MORAL_DEBUFF]
+
+この欲望は、会いたいキャラクターが家に戻ったときに満たされます。","사랑하는 사람 욕망
+캐릭터가 {soul_uuid_target}을(를) 몹시 그리워하며 간절히 보고 싶어 합니다.
+
+[hint_MORAL_DEBUFF]
+
+그리워하는 캐릭터가 집으로 돌아오면 욕망이 충족됩니다.","Sehnsucht, eine geliebte Person zu treffen.
+Die Person vermisst {soul_uuid_target} schrecklich und wünscht sich erneutes Treffen.
+
+[hint_MORAL_DEBUFF]
+
+Die Sehnsucht gilt als erfüllt, wenn die vermisste Person nach Hause zurückkehrt.","Désir de voir l'être aimé 
+{soul_uuid_target} manque terriblement à ce personnage, qui se languit de sa présence.
+
+[hint_MORAL_DEBUFF]
+ 
+Ce désir sera comblé au retour de la personne absente.","Desiderio di vedere una persona cara
+Il personaggio sente la mancanza di {soul_uuid_target}.
+
+[hint_MORAL_DEBUFF]
+
+Il desiderio verrà esaudito quando la persona che vuole rivedere farà ritorno a casa.","Sevdiği Birini Görme İsteği
+{soul_uuid_target}, bu karakterin burnunda tütüyor ve karakter onu görmeyi çok istiyor.
+
+[hint_MORAL_DEBUFF]
+
+Arzusu, özlenen karakter eve döndüğünde giderilmiş olacak.","Vágy, hogy lássa egy szerettét
+A karakternek nagyon hiányzik {soul_uuid_target}, és vágyik rá, hogy láthassa.
+
+[hint_MORAL_DEBUFF]
+
+A vágy akkor teljesül, amikor a távol lévő karakter hazatér.","Бажання побачити кохану людину
+Персонаж дуже сумує за коханою людиною ({soul_uuid_target}) і прагне побачитись.
+
+[hint_MORAL_DEBUFF]
+
+Бажання здійсниться, коли кохана людина повернеться додому.","Mong Muốn Gặp Một Người Thân
+Nhân vật rất nhớ {soul_uuid_target} và khao khát được gặp họ.
+
+[hint_MORAL_DEBUFF]
+
+Mong muốn sẽ được hoàn thành khi người mà nhân vật nhớ về trở về nhà.
+"
+hint_wish_sex,,"Желание провести ночь
+Персонаж влюблен и страстно хочет провести ночь с {soul_uuid_target}.
+
+[hint_MORAL_DEBUFF]
+
+Вы можете по-разному помочь с исполнением этого желания: 
+$ Улучшить отношения предложив провести время вместе или отправив их на охоту, 
+$ ...или просто соблазнить.","Desire for Intimacy
+The character is in love and passionately desires to spend the night with {soul_uuid_target}.
+
+[hint_MORAL_DEBUFF]
+
+You can help fulfill this desire in different ways:
+$ Improve their relationship by offering to spend time together or sending them on a hunt.
+$ Or simply seduce them.","Desire for Intimacy
+The character is in love and passionately desires to spend the night with {soul_uuid_target}.
+
+[hint_MORAL_DEBUFF]
+
+You can help fulfill this desire in different ways:
+$ Improve their relationship by offering to spend time together or sending them on a hunt.
+$ Or simply seduce them.","Touha po intimnostech
+Postava je zamilovaná a touží strávit vášnivou noc s postavou {soul_uuid_target}.
+
+[hint_MORAL_DEBUFF]
+
+Tuto touhu můžeš pomoct naplnit různými způsoby:
+$ Vylepši jejich vztah tak, že nabídneš trávení volného času nebo je pošleš na lov.
+$ Anebo postavu prostě sveď.","Desejo por intimidade
+Este personagem está amando e deseja passar uma noite apaixonada com {soul_uuid_target}.
+
+[hint_MORAL_DEBUFF]
+
+Você pode ajudar na realização deste desejo de diferentes formas:
+$ Melhore a relação entre os personagens fazendo com que eles Passem Tempo Juntos ou enviando-os para Caçar.
+$ Também é possível simplesmente usar a Sedução.","Deseo de intimidad
+El personaje está enamorado y desea apasionadamente pasar la noche con {soul_uuid_target}.
+
+[hint_MORAL_DEBUFF]
+
+Puedes ayudar a cumplir este deseo de diferentes maneras:
+$ Mejora su relación ofreciéndoles pasar tiempo juntos o enviándolos a una cacería.
+$ O simplemente usa la seducción.","Pragnienie intymności
+Ta osoba jest zakochana i pragnie spędzić noc z {soul_uuid_target}.
+
+[hint_MORAL_DEBUFF]
+
+Możesz pomóc spełnić to pragnienie:
+$ Popraw stosunki między tymi postaciami, proponując, by spędziły czas razem lub wybrały się na polowanie.
+$ Możesz też zwyczajnie uwieść tę osobę.","渴望亲密
+这个角色坠入爱河，欲火焚身，希望与{soul_uuid_target}共度良宵。
+
+[hint_MORAL_DEBUFF]
+
+可以帮助角色满足欲望的不同方式：
+$通过让他们共度时光或派他们一起狩猎，增进他们的关系。
+$或直接诱惑目标角色。","親密慾望
+人物在戀愛中且極度渴望與{soul_uuid_target}共度良宵。
+
+[hint_MORAL_DEBUFF]
+
+可以不同方式完成此慾望：
+$ 提出共度時光的提議或是派他們去打獵可增進他們的關係值。
+$ 或是直接勾引對方。","親密になることへの欲望
+このキャラクターは{soul_uuid_target}と恋愛関係にあり、一夜を過ごしたいと強く望んでいます。
+
+[hint_MORAL_DEBUFF]
+
+この欲望を満たすには、さまざまな方法があります：
+$一緒に過ごす時間を作ったり、二人を狩りに派遣することで二人の関係性を深めることができます。
+$または、シンプルに誘惑することもできます。","친밀감 욕망
+캐릭터가 {soul_uuid_target}와(과) 사랑에 빠져 함께 밤을 보내기를 열망합니다.
+
+[hint_MORAL_DEBUFF]
+
+다양한 방법으로 이 욕망을 충족할 수 있습니다:
+$ 함께 시간 보내기를 제안하거나 함께 사냥을 보내 관계를 개선하세요.
+$ 혹은 그냥 유혹해볼 수도 있습니다.","Sehnsucht nach Intimität
+Die Person ist verliebt und wünscht sich leidenschaftlich, die Nacht mit {soul_uuid_target} verbringen zu können.
+
+[hint_MORAL_DEBUFF]
+
+Du kannst die Erfüllung dieser Sehnsucht auf unterschiedliche Art und Weise erreichen:
+$ Verbessere die Beziehungen, indem du ihnen anbietest, gemeinsam Zeit zu verbringen, oder schick sie gemeinsam auf die Jagd.
+$ Alternativ kannst du sie ganz einfach verführen.","Désir d'intimité
+Ce personnage est amoureux et souhaite éperdument passer la nuit avec {soul_uuid_target}.
+
+[hint_MORAL_DEBUFF]
+
+Il existe plusieurs moyens de combler ce désir
+$ Proposez que les deux passent du temps ensemble ou envoyez-les chasser pour améliorer leur relation. 
+$Vous pouvez également simplement tenter la séduction.","Desiderio di intimità
+Il personaggio è innamorato e ha un gran desiderio di passare la notte con {soul_uuid_target}.
+
+[hint_MORAL_DEBUFF]
+
+Puoi aiutare a soddisfare questo desiderio in diversi modi:
+$ migliora il rapporto con questa persona proponendo di passare del tempo insieme o mandandola a caccia in sua compagnia.
+$ Oppure seducila.","Cinsel Arzu
+Karakter âşık oldu ve geceyi {soul_uuid_target} ile geçirmeyi arzuluyor.
+
+[hint_MORAL_DEBUFF]
+
+Bu arzuyu farklı şekillerde giderebilirsin:
+$ Birlikte zaman geçirmeyi teklif ederek veya ikisini birlikte ava göndererek ilişkilerini geliştirebilirsin.
+$ Dilersen onu ayartabilirsin de.","Intimitás utáni vágy
+A karakter szerelmes és szenvedélyesen vágyik rá, hogy az éjszakát {soul_uuid_target} karjai közt töltse.
+
+[hint_MORAL_DEBUFF]
+
+Ezt a vágyat többféleképpen teljesítheted be:
+$ Javítsd a kapcsolatukat azzal, hogy felajánlod, hogy töltsenek időt együtt vagy elküldöd őket egy vadászatra.
+$ Vagy egyszerűen csak csábítsd el.","Бажання близькості
+Персонаж закоханий і пристрасно бажає провести ніч з об'єктом інтересу (це {soul_uuid_target}).
+
+[hint_MORAL_DEBUFF]
+
+Ви можете допомогти здійснити це бажання різними способами:
+$ покращте їхні взаємини, запропонувавши провести час разом або відправивши їх на полювання.
+$ Або просто вдайтеся до спокуси.","Mong Muốn Gần Gũi
+Nhân vật đang yêu và khao khát mãnh liệt được qua đêm với {soul_uuid_target}.
+
+[hint_MORAL_DEBUFF]
+
+Bạn có thể giúp hoàn thành mong muốn này theo nhiều cách khác nhau:
+$ Cải thiện mối quan hệ của họ bằng cách mời họ cùng nhau làm điều gì đó hoặc gửi họ đi săn.
+$ Hoặc đơn giản là quyến rũ họ.
+"
+hint_wish_sex_with_anybody,,"Желание провести ночь
+Персонаж очень давно не имел интимной близости и сильно хочет провести с кем-то ночь.
+
+[hint_MORAL_DEBUFF]
+
+$ Вы можете использовать действие Соблазнить между ним и другим лордом
+$ Или вы можете подкупить крестьянина
+","Desire for Intimacy
+The character has been longing for intimate closeness and strongly desires to spend the night with someone.
+
+[hint_MORAL_DEBUFF]
+
+$ You can assign them to try to seduce another lord in the Character menu.
+$ Or you can bribe a peasant.
+","Desire for Intimacy
+The character has been longing for intimate closeness and strongly desires to spend the night with someone.
+
+[hint_MORAL_DEBUFF]
+
+$ You can assign them to try to seduce another lord in the Character menu.
+$ Or you can bribe a peasant.
+","Touha po intimnostech
+Postava touží po intimní blízkosti a má silnou touhu strávit s někým noc.
+
+[hint_MORAL_DEBUFF]
+
+$ Můžeš jí zadat úkol svést jiného lorda v nabídce postavy.
+$ Anebo můžeš podplatit rolníka.","Intimidade
+Este personagem está sentindo falta de calor humano e tem desejado passar uma noite íntima com alguém.
+
+[hint_MORAL_DEBUFF]
+
+$ Você pode tentar seduzir outro membro da nobreza no menu do personagem.
+$ Também é possível subornar um membro do campesinato.","Deseo de intimidad
+El personaje anhela disfrutar de una cercanía íntima y desea fervientemente pasar la noche con alguien.
+
+[hint_MORAL_DEBUFF]
+
+$ Puedes asignarle que intente seducir a otro señor en el menú Personajes.
+$ O puedes sobornar a un campesino.","Pragnienie intymności
+Ta osoba ma silną potrzebę spędzenia z kimś nocy.
+
+[hint_MORAL_DEBUFF]
+
+$ W menu postaci możesz nakazać jej uwiedzenie kogoś.
+$ Możesz też przekupić kogoś z gminu.","渴望亲密
+这个角色一直渴望亲密关系，强烈渴望与某人共度良宵。
+
+[hint_MORAL_DEBUFF]
+
+$可以在角色菜单指派这个角色去诱惑另一个领主。
+$你还可以贿赂一个平民。","親密慾望
+人物長期渴望與某人親密互動且強烈想與其共度良宵。
+
+[hint_MORAL_DEBUFF]
+
+$可於「人物」選單中指令他們勾引另一貴族。
+$或也可賄賂一名庶民。","親密になることへの欲望
+親密な関係を切望し、誰かと一夜を過ごしたいと強く望んでいます。
+
+[hint_MORAL_DEBUFF]
+
+$キャラクターメニューで、他の領主を誘惑するためにこのキャラクターを割り当てることができます。
+$もしくは農民に賄賂を贈ることもできます。","친밀감 욕망
+캐릭터가 친밀감을 갈망하며 누군가와 함께 밤을 보내기를 열망합니다.
+
+[hint_MORAL_DEBUFF]
+
+$ 캐릭터 메뉴에서 다른 영주를 유혹하도록 지정할 수 있습니다.
+$ 또는, 농민을 매수할 수도 있습니다.","Sehnsucht nach Intimität
+Die Person wünscht sich intime Nähe und möchte zu gerne die Nacht mit jemand anderem verbringen.
+
+[hint_MORAL_DEBUFF]
+
+$ Du kannst sie im Personenmenü mit der Verführung eines anderen Lords betrauen.
+$ Alternativ kannst du ein Mitglied des Bauernstands bestechen.","Désir d'intimité 
+Ce personnage se languit d'avoir une relation intime et souhaite éperdument passer la nuit avec quelqu'un.
+
+[hint_MORAL_DEBUFF]
+
+$ Vous pouvez l'assigner à la séduction d'un seigneur ou d'une dame depuis le menu du personnage.
+$ Vous pouvez également soudoyer un sujet.","Desiderio di intimità
+Il personaggio anela un po' di intimità e desidera trascorrere la notte con qualcuno.
+
+[hint_MORAL_DEBUFF]
+
+$ Ordina di sedurre un altro nobile dal menu del personaggio.
+$ Corrompi un popolano.","Cinsel Arzu
+Karakter çok uzun süredir cinsel yakınlığa ihtiyaç duyuyor ve bu geceyi biriyle geçirmeyi arzuluyor.
+
+[hint_MORAL_DEBUFF]
+
+$ Karakter menüsünden başka bir asilzadeyi ayartmasını için sağlayabilirsin.
+$ Dilersen bir köylüye de rüşvet verebilirsin.","Intimitás utáni vágy
+A karakter vágyik az intim közelségre, és erősen vágyik rá, hogy valakivel együtt töltse az éjszakát.
+
+[hint_MORAL_DEBUFF]
+
+$ A karaktert a Karakter menüben megbízhatod azzal, hogy próbáljon meg elcsábítani egy másik nemest.
+$ Vagy lefizethetsz egy parasztot.","Бажання близькості
+Персонаж прагне інтимної близькості й сильно бажає провести ніч із кимось.
+
+[hint_MORAL_DEBUFF]
+
+$ Ви можете наказати персонажеві спокусити вельможу в меню персонажів
+$ або підкупити селянина.","Mong Muốn Gần Gũi
+Nhân vật đang khao khát sự gần gũi và mãnh liệt muốn trải qua đêm với ai đó.
+
+[hint_MORAL_DEBUFF]
+
+$ Bạn có thể giao cho họ thử quyến rũ một lãnh chúa khác trong menu Nhân Vật.
+$ Hoặc bạn có thể hối lộ một nông dân.
+"
+hint_wish_king,,"Желание короны
+Персонажем завладела жажда трона. Он ненавидит {soul_uuid_target}, так как видит в этом персонаже соперника в борьбе за власть.
+
+Все закончится с коронацией нового короля.
+
+[hint_MORAL_DEBUFF]","Desire for the Crown
+The character is consumed by a thirst for the throne. He hates {soul_uuid_target} because he sees this character as a rival in the struggle for power.
+
+It will all end with the coronation of a new king.
+
+[hint_MORAL_DEBUFF].","Desire for the Crown
+The character is consumed by a thirst for the throne. He hates {soul_uuid_target} because he sees this character as a rival in the struggle for power.
+
+It will all end with the coronation of a new king.
+
+[hint_MORAL_DEBUFF].","Touha po koruně
+Postava chová silnou nenávist vůči postavě {soul_uuid_target} a silně touží po její koruně.
+
+[hint_MORAL_DEBUFF]
+
+Tuto touhu můžeš pomoct splnit několika způsoby:
+$ Vyzvi krále na <hint=hint_duel>souboj</hint>.
+$ Pošli krále na nebezpečné dobrodružství na globální mapě.
+$ Anebo prostě počkej, až si dědic tento problém vyřeší sám.","Desejo pela coroa
+Este personagem está sendo consumido por sua aspiração ao trono. Ele odeia {soul_uuid_target} por ver este outro personagem como um rival na luta pelo poder.
+
+Esta situação só vai acabar com a coroação de um novo rei.
+
+[hint_MORAL_DEBUFF]","Deseo por la corona
+El personaje profesa un profundo odio hacia {soul_uuid_target} y desea apasionadamente su corona.
+
+[hint_MORAL_DEBUFF]
+
+Puedes ayudar a que cumpla su deseo de varias maneras:
+$ Desafiar al monarca a un <hint=hint_duel>duelo</hint>.
+$ Enviar al monarca a una aventura peligrosa en el mapa del mundo.
+$ O simplemente esperar a que el heredero resuelva el asunto por su cuenta.","Pragnienie korony
+Postać darzy {soul_uuid_target} głęboką nienawiścią i chce odebrać tej osobie koronę.
+
+[hint_MORAL_DEBUFF]
+
+Możesz pomóc w wypełnieniu tego pragnienia na różne sposoby:
+$ Wyzwij króla na <hint=hint_duel>pojedynek</hint>.
+$ Wyślij króla na niebezpieczną wyprawę na mapie świata.
+$ Lub poczekaj, aż spadkobierca samodzielnie rozwiąże swój problem.","渴望王位
+对王位的渴望让这个角色身心煎熬。他仇视{soul_uuid_target}，将其视作权力斗争的对手。
+
+新王加冕时，此欲望终止。
+
+[hint_MORAL_DEBUFF]","獲取王冠的慾望
+人物滿心渴望取得王位，他憎恨{soul_uuid_target}，因為他視此人物為爭權對手。
+新王加冕即可終結此慾望。
+
+[hint_MORAL_DEBUFF]。","王位への欲望
+このキャラクターは王位への渇望に蝕まれています。このキャラクターは、権力闘争のライバルとして見なしている{soul_uuid_target}を憎んでいます。
+
+このすべては新しい王の戴冠式で終わります。
+
+[hint_MORAL_DEBUFF]","왕관 욕망
+캐릭터가 왕좌를 향한 갈증에 사로잡혔습니다. {soul_uuid_target}을(를) 권력 싸움의 경쟁자로 여기며 증오합니다.
+
+새로운 왕의 대관식이 열리면 모두 종료됩니다.
+
+[hint_MORAL_DEBUFF].","Sehnsucht nach der Krone
+Die Person dürstet danach, auf dem Thron zu sitzen. Er hasst {soul_uuid_target}, da er diese Person als Rivalen im Machtkampf betrachtet.
+
+Alles endet mit der Krönung eines neuen Königs.
+
+[hint_MORAL_DEBUFF]","Désir de pouvoir 
+Ce personnage est rongé par sa soif de pouvoir et souhaite s'emparer du trône. Il déteste {soul_uuid_target}, qu'il considère comme un obstacle dans sa quête de pouvoir.
+ 
+Le couronnement d'un nouveau monarque est la seule chose qui pourra combler ce désir.
+
+[hint_MORAL_DEBUFF]","Desiderio della corona
+Il personaggio è consumato dalla sete di potere. Odia {soul_uuid_target}, in cui vede un rivale per la conquista del trono.
+
+Tutto avrà fine con l'incoronazione di un nuovo monarca.
+
+[hint_MORAL_DEBUFF]","Hükümdarlık Arzusu
+Bu karakter taht arzusu ile yanıp tutuşuyor. {soul_uuid_target} adlı kişiden nefret ediyor çünkü bu karakteri güç savaşındaki rakibi olarak görüyor.
+
+Yeni bir hükümdarın taç giymesiyle her şey sona erecek.
+
+[hint_MORAL_DEBUFF]","Vágy a korona után
+A karakter mély gyűlöletet táplál {soul_uuid_target} iránt, és szenvedélyesen vágyik a koronára.
+
+[hint_MORAL_DEBUFF]
+
+Ezen vágya teljesülésében többféleképpen is segíthetsz:
+$ Kihívhatod az uralkodót <hint=hint_duel>párbajra</hint>.
+$ Elküldheted az uralkodót egy veszélyes kalandra a világtérképen.
+$ Vagy egyszerűen várd meg, hogy az örökös maga oldja meg a problémát.","Бажання володіти короною
+Персонаж пристрасно бажає корону, якою володіє {soul_uuid_target}, і має глибоку ненависть до цього монарха.
+
+[hint_MORAL_DEBUFF]
+
+Ви можете допомогти виконати це бажання різними шляхами.
+$ Викликайте монарха на <hint=hint_duel>двобій</hint>.
+$. Відправте монарха у небезпечну подорож по мапі світу.
+$ Або просто чекайте, поки спадкоємець не вирішить питання самостійно.","Mong Muốn Vương Miện
+Nhân vật bị ám ảnh bởi khát khao ngai vàng. Anh ta căm ghét {soul_uuid_target} vì xem nhân vật này là đối thủ trong cuộc chiến giành quyền lực.
+
+Tất cả sẽ kết thúc với lễ đăng quang của một vị vua mới.
+
+[hint_MORAL_DEBUFF].
+"
+hint_wish_hunt,,"Желание сходить на охоту
+Персонаж очень хочет сходить на охоту
+
+[hint_MORAL_DEBUFF]","Desire to Go Hunting
+The character has a strong desire to go hunting.
+
+[hint_MORAL_DEBUFF]","Desire to Go Hunting
+The character has a strong desire to go hunting.
+
+[hint_MORAL_DEBUFF]","Touha jít na lov
+Postava má silnou touhu vyrazit na <hint=hint_action_task_hunt>lov</hint>.
+
+[hint_MORAL_DEBUFF]","Desejo de ir caçar.
+Este personagem deseja sair para Caçar.
+
+[hint_MORAL_DEBUFF]","Deseo de ir de cacería
+El personaje tiene un fuerte deseo de ir de <hint=hint_action_task_hunt>cacería</hint>.
+
+[hint_MORAL_DEBUFF]","Pragnienie polowania
+Ta postać ma silną potrzebę wybrania się na <hint=hint_action_task_hunt>polowanie</hint>.
+
+[hint_MORAL_DEBUFF]","渴望狩猎
+这个角色强烈渴望去<hint=hint_action_task_hunt>狩猎</hint>。
+
+[hint_MORAL_DEBUFF]","打獵慾望
+人物有強烈的慾望想去<hint=hint_action_task_hunt>打獵</hint>。
+
+[hint_MORAL_DEBUFF]","狩りへの欲望
+このキャラクターは<hint=hint_action_task_hunt>狩り</hint>に行きたいとの強い欲望を抱いています。
+
+[hint_MORAL_DEBUFF]","사냥 욕망
+캐릭터가 <hint=hint_action_task_hunt>사냥</hint>을 나가기를 열망합니다.
+
+[hint_MORAL_DEBUFF]","Sehnsucht nach der Jagd
+Die Person hat den starken Wunsch, auf die <hint=hint_action_task_hunt>Jagd</hint> gehen zu können.
+
+[hint_MORAL_DEBUFF]","Désir d'aller chasser 
+Ce personnage a une envie irrépressible d'aller chasser.
+
+[hint_MORAL_DEBUFF]","Desiderio di caccia
+Il personaggio desidera ardentemente andare a <hint=hint_action_task_hunt>caccia</hint>.
+
+[hint_MORAL_DEBUFF]","Ava Gitme Arzusu
+Karakter <hint=hint_action_task_hunt>ava</hint> gitmeyi arzuluyor.
+
+[hint_MORAL_DEBUFF]","Vadászat utáni vágy
+A karakter erősen vágyik rá, hogy <hint=hint_action_task_hunt>vadászni</hint> menjen.
+
+[hint_MORAL_DEBUFF]","Бажання відправитися на полювання
+Персонаж має сильне бажання відправитися на полювання.
+
+[hint_MORAL_DEBUFF]","Mong Muốn Đi Săn
+Nhân vật có một khao khát mãnh liệt để đi săn.
+
+[hint_MORAL_DEBUFF]
+"
+hint_wish_20rings,,"Желание Святых Колец
+Персонаж ощущает себя бедным и мечтает владеть хотя бы {count} <hint=hint_resource_rune>Святыми кольцами</hint>. 
+
+[hint_MORAL_DEBUFF]
+
+Попробуйте его наградить, или, например, отправьте в соседний город поиграть в кости.","Desire for Holy Rings
+The character feels poor and dreams of owning at least {count} <hint=hint_resource_rune>Holy Rings</hint>.
+
+[hint_MORAL_DEBUFF]
+
+You can try rewarding the character or, for example, sending them to a neighboring town to play dice.","Desire for Holy Rings
+The character feels poor and dreams of owning at least {count} <hint=hint_resource_rune>Holy Rings</hint>.
+
+[hint_MORAL_DEBUFF]
+
+You can try rewarding the character or, for example, sending them to a neighboring town to play dice.","Touha po svatých prstenech
+Postava si přijde chudá a touží alespoň po {count} <hint=hint_resource_rune>svatých prstenech</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Můžeš postavu zkusit <hint=hint_action_task_reward>odměnit</hint>, anebo ji například poslat do sousedního města zahrát si kostky.","Desejo por Anéis Sagrados
+Este personagem se sente pobre e sonha em ter pelo menos {count} <hint=hint_resource_rune>Anéis Sagrados</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Você pode tentar Recompensar o personagem ou enviá-lo a uma cidade vizinha para jogar dados.","Deseo de anillos sagrados
+El personaje se siente pobre y sueña con poseer al menos {count} <hint=hint_resource_rune>anillos sagrados</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Puedes intentar <hint=hint_action_task_reward>recompensar</hint> al personaje o, por ejemplo, enviarlo a una ciudad vecina para jugar a los dados.","Pragnienie świętych pierścieni
+Ta osoba ma poczucie ubóstwa i marzy o posiadaniu co najmniej {count} <hint=hint_resource_rune>świętych pierścieni</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Możesz <hint=hint_action_task_reward>nagrodzić</hint> tę osobę lub np. wysłać ją do innej prowincji, by grała w kości.","渴望圣戒
+这个角色感到贫穷，梦想着获得至少 {count} 枚<hint=hint_resource_rune>圣戒</hint>。
+
+[hint_MORAL_DEBUFF]
+
+你可以试试<hint=hint_action_task_reward>奖赏</hint>这个角色圣戒，或者可以派角色去邻邦玩骰子。","獲得聖戒的慾望
+人物感到貧窮並夢想持有至少 {count} 枚<hint=hint_resource_rune>聖戒</hint>。
+
+[hint_MORAL_DEBUFF]
+
+可<hint=hint_action_task_reward>賞賜</hint>人物或是例如派其前往鄰近城鎮擲骰子。","神聖なリングへの欲望
+このキャラクターは自分を貧しいと感じ、少なくとも<hint=hint_resource_rune>神聖なリング</hint>を{count}個保有することを夢見ています。
+
+[hint_MORAL_DEBUFF]
+
+たとえば、近隣の街に賭け事に興じるために送り込むなどして、このキャラクターに<hint=hint_action_task_reward>報酬</hint>を渡すことができます。","신성 반지 욕망
+캐릭터가 가난하다고 느끼며 <hint=hint_resource_rune>신성 반지</hint> {count}개를 소유하고 싶어 합니다.
+
+[hint_MORAL_DEBUFF]
+
+캐릭터에게 <hint=hint_action_task_reward>보상</hint>을 제공하거나, 이웃 도시로 보내 주사위 게임을 하는 방법도 있습니다.","Sehnsucht nach Heiligen Ringen
+Die Person fühlt sich arm und träumt davon, mindestens {count} <hint=hint_resource_rune>Heilige Ringe</hint> zu besitzen.
+
+[hint_MORAL_DEBUFF]
+
+Du kannst versuchen, die Person zu <hint=hint_action_task_reward>belohnen</hint>, oder sie in eine benachbarte Stadt zum Würfelspiel schicken.","Désir de richesse 
+Ce personnage se sent pauvre et rêve d'avoir au moins {count} <hint=hint_resource_rune>anneaux sacrés</hint>.
+
+[hint_MORAL_DEBUFF]
+ 
+Vous pouvez <hint=hint_action_task_reward>récompenser</hint> ce personnage ou l'envoyer dans une cité voisine pour jouer aux dés, par exemple.","Desiderio di anelli sacri
+Il personaggio è in stato di povertà e desidera possedere almeno {count} <hint=hint_resource_rune>anelli sacri</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Prova a <hint=hint_action_task_reward>ricompensarlo</hint> o, ad esempio, inviarlo in una città vicina per giocare a dadi.","Kutsal Yüzük Arzusu
+Karakter kendini fakir hissediyor ve en az {count} <hint=hint_resource_rune>kutsal yüzüğe</hint> sahip olmanın hayalini kuruyor.
+
+[hint_MORAL_DEBUFF]
+
+Karakteri <hint=hint_action_task_reward>ödüllendirebilir</hint> veya zar oynaması için komşu kasabaya gönderebilirsin.","Szent Gyűrűk utáni vágy
+A karakter szegénynek érzi magát, és arról álmodik, hogy legalább {count} <hint=hint_resource_rune>Szent Gyűrűre</hint> szert tesz.
+
+[hint_MORAL_DEBUFF]
+
+ Megpróbálhatod <hint=hint_action_task_reward>jutalmazni</hint> a karaktert, vagy például elküldheted egy szomszédos városba kockázni.","Бажання мати священні персні
+Персонаж почувається бідним і мріє мати <hint=hint_resource_rune>священні персні</hint>, не менш ніж {count}.
+
+[hint_MORAL_DEBUFF]
+
+Ви можете нагородити персонажа, відправити його в сусіднє місто грати в кості, тощо.","Khao Khát Được Có Nhẫn Thánh
+Nhân vật cảm thấy nghèo và mơ ước sở hữu ít nhất {count} <hint=hint_resource_rune>Nhẫn Thánh</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Bạn có thể thử thưởng cho nhân vật hoặc, ví dụ, gửi họ đến một thị trấn lân cận để chơi xúc xắc.
+"
+hint_wish_rest,,"Желание отдохнуть
+Персонаж очень <hint=hint_th_fatigue>устал</hint> и хочет отдохнуть.
+
+[hint_MORAL_DEBUFF]
+
+Чтобы помочь ему:
+$ Освободите его от задач вроде <hint=hint_inspection>инспекций</hint> и <hint=hint_action_task_lesson>обучения</hint>
+$ Проследите, чтобы на складе было <hint=hint_resource_beer>Пиво</hint>, которое отлично снимает усталость.","Desire to Rest
+The character is very <hint=hint_th_fatigue>tired</hint> and wants to rest.
+
+[hint_MORAL_DEBUFF]
+
+To help them:
+$ Free them from tasks such as <hint=hint_inspection>inspections</hint> and <hint=hint_action_task_lesson>training</hint>.
+$ Make sure there is <hint=hint_resource_beer>Beer</hint> in the warehouse, as it is great for relieving fatigue.","Desire to Rest
+The character is very <hint=hint_th_fatigue>tired</hint> and wants to rest.
+
+[hint_MORAL_DEBUFF]
+
+To help them:
+$ Free them from tasks such as <hint=hint_inspection>inspections</hint> and <hint=hint_action_task_lesson>training</hint>.
+$ Make sure there is <hint=hint_resource_beer>Beer</hint> in the warehouse, as it is great for relieving fatigue.","Touha po odpočinku
+Postava je velmi <hint=hint_th_fatigue>unavená</hint> a chce odpočívat.
+
+[hint_MORAL_DEBUFF]
+
+Pomůžeš jí takto:
+$ Uvolni ji z úkolů, jako je <hint=hint_inspection>inspekce</hint> a <hint=hint_action_task_lesson>výcvik</hint>.
+$ Postarej se, aby ve skladišti bylo <hint=hint_resource_beer>pivo</hint>, protože to umí skvěle zahánět únavu.","Desejo de descansar
+Este personagem está muito <hint=hint_th_fatigue>Fatigado</hint> e quer descansar.
+
+[hint_MORAL_DEBUFF]
+
+Para ajudar, você pode:
+$ Liberar o personagem de tarefas como <hint=hint_inspection>Inspeções e </hint><hint=hint_action_task_lesson>Treinamento</hint>.
+$ Verifique se há <hint=hint_resource_beer>Cerveja</hint> no depósito, já que ela é uma ótima forma de aliviar a fatiga.","Deseo de descanso
+El personaje está muy <hint=hint_th_fatigue>cansado</hint> y quiere reposar.
+
+[hint_MORAL_DEBUFF]
+
+Para ayudarlo:
+$ Líbralo de tareas como <hint=hint_inspection>inspecciones</hint> o <hint=hint_action_task_lesson>entrenamiento</hint>.
+$ Asegúrate de que haya <hint=hint_resource_beer>cerveza</hint> en el almacén, ya que es excelente para aliviar la fatiga.","Pragnienie odpoczynku
+Ta osoba jest bardzo <hint=hint_th_fatigue>zmęczona</hint> i chce odpocząć.
+
+[hint_MORAL_DEBUFF]
+
+Aby jej pomóc:
+$ Zwolnij tę osobę z zadań, np. <hint=hint_inspection>inspekcji</hint> i <hint=hint_action_task_lesson>szkolenia</hint>.
+$ Dopilnuj, żeby w składzie znajdował się zapas <hint=hint_resource_beer>piwa</hint> dla rozładowania zmęczenia.","渴望休息
+这个角色非常<hint=hint_th_fatigue>疲惫</hint>，渴望休息。
+
+[hint_MORAL_DEBUFF]
+
+若想帮助这个角色：
+$解除角色身上的任务，例如<hint=hint_inspection>视察</hint>和<hint=hint_action_task_lesson>训练</hint>。
+$确保仓库中有<hint=hint_resource_beer>啤酒</hint>，喝酒是解除疲劳的好办法。","休憩慾望
+人物十分<hint=hint_th_fatigue>疲憊</hint>，想要休息。
+
+[hint_MORAL_DEBUFF]
+
+若要協助人物：
+$解除人物的任務，例如<hint=hint_inspection>視察</hint>和<hint=hint_action_task_lesson>訓練</hint>。
+$確保倉庫中有<hint=hint_resource_beer>啤酒</hint>，因為有助於緩解疲勞。","休息への欲望
+このキャラクターは非常に<hint=hint_th_fatigue>疲れ</hint>休息を取りたいと思っています。
+
+[hint_MORAL_DEBUFF]
+
+満たすには、
+$このキャラクターを<hint=hint_inspection>検査</hint>や<hint=hint_action_task_lesson>訓練</hint>などの任務から外しましょう。
+$疲労を回復するのに最適な<hint=hint_resource_beer>ビール</hint>が倉庫にあることを確認しましょう。","휴식 욕망
+캐릭터가 몹시 <hint=hint_th_fatigue>지쳐서</hint> 휴식을 취하고 싶어 합니다.
+
+[hint_MORAL_DEBUFF]
+
+다음 조치를 취할 수 있습니다:
+$ <hint=hint_inspection>점검</hint> 및 <hint=hint_action_task_lesson>훈련</hint>과 같은 임무를 면제해 주세요.
+$ 창고에 <hint=hint_resource_beer>맥주</hint>가 있는지 확인하세요. 피로를 푸는 데 매우 효과적입니다.","Sehnsucht nach Ruhe
+Die Person ist sehr <hint=hint_th_fatigue>müde</hint> und will sich ausruhen.
+
+[hint_MORAL_DEBUFF]
+
+So kannst du helfen:
+$ Befreie sie von Aufgaben wie <hint=hint_inspection>Inspektionen</hint> und <hint=hint_action_task_lesson>Ausbildung</hint>.
+$ Sorg dafür, dass genug <hint=hint_resource_beer>Bier</hint> im Lagerhaus ist, da dies ein vortreffliches Mittel ist, um Erschöpfung auszugleichen.","Désir de repos 
+Ce personnage est très <hint=hint_th_fatigue>fatigué</hint> et veut se reposer.
+
+[hint_MORAL_DEBUFF]
+ 
+Vous pouvez l'aider de plusieurs façons :
+$ Réduire ses tâches en supprimant les <hint=hint_inspection>inspections</hint> et les <hint=hint_action_task_lesson>entraînements</hint>.
+$ Assurer la présence de <hint=hint_resource_beer>bière</hint> dans les dépôts, celle-ci permettant d'éliminer la fatigue.","Desiderio di riposo
+Il personaggio è <hint=hint_th_fatigue>esausto</hint> e vuole riposare.
+
+[hint_MORAL_DEBUFF]
+
+Per aiutarlo:
+$ Sollevalo da compiti quali <hint=hint_inspection>ispezioni</hint> e <hint=hint_action_task_lesson>addestramenti</hint>.
+$ Assicurati di avere <hint=hint_resource_beer>birra</hint> nel magazzino, in quanto è utile per alleviare la fatica.","Dinlenme Arzusu
+Bu karakter çok <hint=hint_th_fatigue>yorgun</hint> ve dinlenmek istiyor.
+
+[hint_MORAL_DEBUFF]
+
+Ona yardım etmek için:
+$ Onu <hint=hint_inspection>teftiş</hint> ve <hint=hint_action_task_lesson>eğitim</hint> gibi görevlerden azat et.
+$ Yorgunluğunu gidermesi için gereken <hint=hint_resource_beer>biranın</hint> Ardiye'de olduğundan emin ol.","Pihenés utáni vágy
+A karakter nagyon <hint=hint_th_fatigue>fáradt</hint>, és pihenni szeretne.
+
+[hint_MORAL_DEBUFF]
+
+Segíthetsz neki:
+$ Szabadítsd fel az olyan feladatoktól, mint az <hint=hint_inspection>ellenőrzések</hint> és a <hint=hint_action_task_lesson>kiképzés</hint>.
+$ Gondoskodj, hogy legyen <hint=hint_resource_beer>sör</hint> a raktárban, mivel az remekül oldja a fáradtságot.","Бажання відпочити
+Персонаж дуже <hint=hint_th_fatigue>втомився</hint> й бажає відпочити.
+
+[hint_MORAL_DEBUFF]
+
+Щоб допомогти:
+$ Звільніть персонажа від виконання завдань, як-от <hint=hint_inspection>інспекцій</hint> і <hint=hint_action_task_lesson>вишколу</hint>.
+$ Забезпечте наявність <hint=hint_resource_beer>пива</hint>, оскільки воно чудово знімає втому.","Khao Khát Nghỉ Ngơi
+Nhân vật rất <hint=hint_th_fatigue>mệt mỏi</hint> và muốn nghỉ ngơi.
+
+[hint_MORAL_DEBUFF]
+
+Để giúp họ:
+$ Miễn họ khỏi các nhiệm vụ như <hint=hint_inspection>kiểm tra</hint> và <hint=hint_action_task_lesson>huấn luyện</hint>.
+$ Đảm bảo có <hint=hint_resource_beer>Bia</hint> trong kho, vì nó rất tốt cho việc giảm mệt mỏi.
+"
+hint_wish_friend,,"Желание дружбы
+Персонаж чувствует себя одиноко, и хочет завести друга.
+
+[hint_MORAL_DEBUFF]
+
+Чтобы помочь ему, выберите подходящую цель, с высоким взаимным <hint=hint_interest>интерес</hint>, и предложите им провести время вместе или сходить на охоту.","Desire for Friendship
+The character feels lonely and wants to make a friend.
+
+[hint_MORAL_DEBUFF]
+
+To help them, choose a suitable target with high mutual <hint=hint_interest>interest</hint>, and suggest they spend time together or go hunting.","Desire for Friendship
+The character feels lonely and wants to make a friend.
+
+[hint_MORAL_DEBUFF]
+
+To help them, choose a suitable target with high mutual <hint=hint_interest>interest</hint>, and suggest they spend time together or go hunting.","Touha po přátelství
+Postava si připadá osaměle a chce si udělat přítele.
+
+[hint_MORAL_DEBUFF]
+
+Pomůžeš jí tak, že zvolíš vhodný cíl s vysokým vzájemným <hint=hint_interest>zájmem</hint> a navrhneš, aby <hint=hint_action_task_together>spolu strávili čas</hint> anebo vyrazili na <hint=hint_action_task_hunt>lov</hint>.","Amizade
+Este personagem está se sentindo sozinho e quer fazer uma amizade.
+
+[hint_MORAL_DEBUFF]
+
+Para ajudar, escolha um alvo adequado com múltiplos <hint=hint_interest>Interesses</hint> em comum e sugira que eles passem tempo juntos ou saiam para caçar.","Deseo de amistad
+El personaje se siente solo y quiere hacer un amigo.
+
+[hint_MORAL_DEBUFF]
+
+Para ayudarlo, elige un objetivo adecuado con alto <hint=hint_interest>interés</hint> mutuo y sugiere que <hint=hint_action_task_together>pasen tiempo juntos</hint> o que vayan de <hint=hint_action_task_hunt>cacería</hint>.","Pragnienie przyjaźni
+Ta osoba odczuwa samotność i chce się z kimś zaprzyjaźnić.
+
+[hint_MORAL_DEBUFF]
+
+Aby jej pomóc, wybierz kogoś, kto jest tą osobą <hint=hint_interest>zainteresowany</hint> z wzajemnością, i poleć im <hint=hint_action_task_together>spędzić wspólnie czas</hint> lub udać się na <hint=hint_action_task_hunt>polowanie</hint>.","渴望友谊
+这个角色感到很孤独，希望交朋友。
+
+[hint_MORAL_DEBUFF]
+
+若想帮助这个角色，选择一个与其有相同浓厚<hint=hint_interest>兴趣</hint>的合适目标，建议他们<hint=hint_action_task_together>共度时光</hint>，或去<hint=hint_action_task_hunt>狩猎</hint>。","友誼慾望
+人物感到孤單，想要交朋友。
+
+[hint_MORAL_DEBUFF]
+
+選擇一個互有高<hint=hint_interest>興趣值</hint>的適合目標，並建議他們<hint=hint_action_task_together>共度時光</hint>或去<hint=hint_action_task_hunt>打獵</hint>即可幫助他們。","友情への欲望
+このキャラクターは孤独を感じ、友人を作りたいと思っています。
+
+[hint_MORAL_DEBUFF]
+
+満たすには、互いに<hint=hint_interest>関心</hint>の高い適切なターゲットを選び、<hint=hint_action_task_together>一緒に時間を過ごし</hint>たり、<hint=hint_action_task_hunt>狩り</hint>に行ったりすることを提案しましょう。","우정 욕망
+캐릭터가 외로움을 느끼며 친구를 만들고 싶어 합니다.
+
+[hint_MORAL_DEBUFF]
+
+상호 <hint=hint_interest>관심</hint>이 높은 적절한 대상을 선택해 <hint=hint_action_task_together>함께 시간 보내기</hint> 또는 <hint=hint_action_task_hunt>사냥</hint> 나가기를 제안하세요.","Sehnsucht nach Freundschaft
+Die Person fühlt sich einsam und hätte gerne Freunde.
+
+[hint_MORAL_DEBUFF]
+
+Wähle ein passendes Ziel mit hohem gemeinsamen <hint=hint_interest>Interesse</hint> aus und schlage den beiden vor, <hint=hint_action_task_together>miteinander Zeit zu verbringen</hint> oder auf die <hint=hint_action_task_hunt>Jagd</hint> zu gehen, um ihr zu helfen.","Désir d'amitié 
+Ce personnage se sent seul et voudrait se faire des amis.
+
+[hint_MORAL_DEBUFF]
+ 
+Pour l'aider, trouvez quelqu'un qui partage les mêmes centres d'<hint=hint_interest>intérêt</hint> et suggérez qu'ils <hint=hint_action_task_together>passent du temps ensemble</hint> ou qu'ils aillent <hint=hint_action_task_hunt>chasser</hint>.","Desiderio di amicizia
+Il personaggio avverte il peso della solitudine e desidera fare amicizia.
+
+[hint_MORAL_DEBUFF]
+
+Per aiutarlo, scegli un bersaglio ideale con <hint=hint_interest>interessi</hint> condivisi e fai in modo che <hint=hint_action_task_together>trascorrano tempo insieme</hint> o vadano a <hint=hint_action_task_hunt>caccia</hint>.","Arkadaşlık Arzusu
+Bu karakter kendini yalnız hissediyor ve biriyle arkadaş olmak istiyor.
+
+[hint_MORAL_DEBUFF]
+
+Ona yardım etmek için ortak <hint=hint_interest>ilgi alanlarının</hint> olduğu uygun bir hedef bul ve <hint=hint_action_task_together>beraber vakit geçirmelerini</hint> veya <hint=hint_action_task_hunt>ava gitmelerini</hint> sağla.","Barátság utáni vágy
+A karakter magányosnak érzi magát, és szeretne egy barátra szert tenni.
+
+[hint_MORAL_DEBUFF]
+
+Segíthetsz neki, ha kiválasztasz egy megfelelő célpontot magas kölcsönös <hint=hint_interest>érdeklődéssel</hint>, és javaslod, hogy <hint=hint_action_task_together>töltsenek együtt időt</hint> vagy menjenek el <hint=hint_action_task_hunt>vadászni</hint>.","Бажання дружити
+Персонаж почувається самотнім і хоче знайти друга.
+
+[hint_MORAL_DEBUFF]
+
+Щоб допомогти персонажеві, виберіть відповідну ціль із високим рівнем взаємної <hint=hint_interest>зацікавленості</hint> й запропонуйте <hint=hint_action_task_together> провести час разом</hint> або піти на <hint=hint_action_task_hunt>полювання</hint>.","Khao Khát Tình Bạn
+Nhân vật cảm thấy cô đơn và muốn kết bạn.
+
+[hint_MORAL_DEBUFF]
+
+Để giúp họ, hãy chọn một mục tiêu phù hợp với sự <hint=hint_interest>quan tâm</hint> cao từ cả hai phía, và đề nghị họ dành thời gian cùng nhau hoặc đi săn.
+"
+hint_wish_population50,,"Желание крупного поселения
+Персонаж желает править более крупным поселением, чем сейчас. 
+
+[hint_MORAL_DEBUFF]
+
+Достигните уровня населения хотя бы в 20 человек.","Desire for a Larger Settlement
+The character desires to rule a larger settlement than they currently have.
+
+[hint_MORAL_DEBUFF]
+
+To fulfill this desire, reach a population level of at least 20 people in your settlement.","Desire for a Larger Settlement
+The character desires to rule a larger settlement than they currently have.
+
+[hint_MORAL_DEBUFF]
+
+To fulfill this desire, reach a population level of at least 20 people in your settlement.","Touha po větší osadě
+Postava touží vládnout větší osadě, než jakou momentálně má.
+
+[hint_MORAL_DEBUFF]
+
+Tuto touhu naplníš tak, že počet obyvatel v osadě dosáhne alespoň 20 lidí.","Desejo por uma cidade maior
+Este personagem deseja governar uma cidade maior do que a que tem no momento.
+
+[hint_MORAL_DEBUFF]
+
+Para realizar este desejo, alcance o nível de população de pelo menos 20 pessoas em sua cidade.","Deseo de un asentamiento más grande
+El personaje desea gobernar un asentamiento más grande que el que tiene actualmente.
+
+[hint_MORAL_DEBUFF]
+
+Para cumplir este deseo, alcanza un nivel de población de al menos 20 personas en tu asentamiento.","Pragnienie większego miasta
+Ta osoba chce rządzić większym miastem.
+
+[hint_MORAL_DEBUFF]
+
+Aby spełnić to pragnienie, osiągnij w mieście populację co najmniej 20 osób.","渴望拥有更大的聚落
+这个角色渴望统领一个比当前更大的聚落。
+
+[hint_MORAL_DEBUFF]
+
+使你的聚落人口至少达到 20，即可满足这个欲望。","更大領地的慾望
+人物渴望統治比目前更大規模的領地。
+
+[hint_MORAL_DEBUFF]
+
+達到有至少 20 人的領地人口規模即可滿足此慾望。","大規模集落への欲望
+このキャラクターは、現在よりも大きな集落を支配したいと望んでいます。
+
+[hint_MORAL_DEBUFF]
+
+この欲望を満たすには、現在の集落を20人以上の人口レベルへと上げましょう。","정착지 확장 욕망
+캐릭터가 현재보다 더 큰 정착지를 통치하기를 열망합니다.
+
+[hint_MORAL_DEBUFF]
+
+이 욕망을 충족하려면 정착지의 인구 레벨 20명 이상을 달성하세요.","Sehnsucht nach einer größeren Siedlung
+Die Person würde gerne über eine größere Siedlung als die gegenwärtige herrschen.
+
+[hint_MORAL_DEBUFF]
+
+Erreiche eine Bevölkerung von mindestens 20 Menschen in deiner Siedlung, um diese Sehnsucht zu erfüllen.","Désir de grandeur 
+Ce personnage souhaite régner sur un domaine plus grand que celui-ci.
+
+[hint_MORAL_DEBUFF]
+ 
+Pour combler ce désir, atteignez une population d'au moins 20 personnes dans la cité.","Desiderio di un insediamento più ampio
+Il personaggio desidera governare su un insediamento più ampio.
+
+[hint_MORAL_DEBUFF]
+
+Per esaudirlo, raggiungi una popolazione di almeno 20 abitanti nel tuo insediamento.","Daha Büyük Bir Yerleşke Arzusu
+Bu karakter mevcut yerleşkesinden daha büyük bir yerleşkeyi yönetmek istiyor.
+
+[hint_MORAL_DEBUFF]
+
+Bu arzuyu gidermek için yerleşke nüfusunu 20'ye çıkar.","Nagyobb település utáni vágy
+A karakter arra vágyik, hogy a jelenleginél nagyobb település felett uralkodjon.
+
+[hint_MORAL_DEBUFF]
+
+A vágy teljesítéséhez érj el legalább 20 fő népességet a településen.","Бажання більшого поселення
+Персонаж бажає керувати більшим поселенням, ніж зараз.
+
+[hint_MORAL_DEBUFF]
+
+Бажання здійсниться, коли чисельність населення в поточному поселенні становитиме щонайменше 20 людей.","Khao Khát Một Khu Định Cư Lớn Hơn
+Nhân vật khao khát điều hành một khu định cư lớn hơn so với hiện tại.
+
+[hint_MORAL_DEBUFF]
+
+Để thực hiện khao khát này, đạt được mức dân số ít nhất là 20 người trong khu định cư của bạn.
+"
+hint_wish_happiness50,,"Желание счастья подданым
+Персонаж желает счастья своим подданым. 
+
+[hint_MORAL_DEBUFF]
+
+Достигните среднего уровня счастья населения хотя бы в 50.","Desire for Happiness of Subjects
+The character desires the happiness of their subjects.
+
+[hint_MORAL_DEBUFF]
+
+To fulfill this desire, achieve an average happiness level among the population of at least 50.","Desire for Happiness of Subjects
+The character desires the happiness of their subjects.
+
+[hint_MORAL_DEBUFF]
+
+To fulfill this desire, achieve an average happiness level among the population of at least 50.","Touha po spokojenosti poddaných
+Postava touží po spokojenosti svých poddaných.
+
+[hint_MORAL_DEBUFF]
+
+Tuto touhu naplníš tak, že dosáhneš průměrné spokojenosti obyvatelstva minimálně 50.","Desejo pela felicidade dos súditos
+Este personagem deseja a felicidade de seus súditos.
+
+[hint_MORAL_DEBUFF]
+
+Para realizar este desejo, alcance um nível de felicidade média de pelo menos 50 entre a população.","Deseo de felicidad de los súbditos
+El personaje desea la felicidad de sus súbditos.
+
+[hint_MORAL_DEBUFF]
+
+Para cumplir este deseo, alcanza un nivel de felicidad promedio entre la población de al menos 50.","Pragnienie zadowolenia poddanych
+Ta osoba pragnie zadowolenia swoich poddanych.
+
+[hint_MORAL_DEBUFF]
+
+Aby spełnić to pragnienie, osiągnij średnie zadowolenie na poziomie min. 50.","渴望臣民幸福
+这个角色渴望其臣民获得幸福。
+
+[hint_MORAL_DEBUFF]
+
+使民众幸福度至少达到 50，即可满足这个欲望。","使人民幸福的慾望
+人物渴望人民獲得幸福。
+
+[hint_MORAL_DEBUFF]
+
+讓人民的幸福度達到至少 50 即可滿足此慾望。","民の幸福度向上への欲望
+このキャラクターは、自分の民が幸福になることを望んでいます。
+
+[hint_MORAL_DEBUFF]
+
+この欲望を満たすには、人口の平均幸福度を50以上に上げましょう。","신민들의 행복 욕망
+캐릭터가 신민들의 행복을 바랍니다.
+
+[hint_MORAL_DEBUFF]
+
+의 욕망을 충족하려면 인구의 평균 행복도 50 이상을 달성하세요.","Sehnsucht nach zufriedenen Untertanen
+Die Person wünscht sich, dass alle Untertanen glücklich und zufrieden sind.
+
+[hint_MORAL_DEBUFF]
+
+Erreiche in der Bevölkerung eine durchschnittliche Zufriedenheitsstufe von mindestens 50, um diese Sehnsucht zu erfüllen.","Désir de rendre ses sujets heureux 
+Ce personnage ne souhaite que le bonheur de ses sujets.
+
+[hint_MORAL_DEBUFF]
+ 
+Pour combler ce désir, obtenez une moyenne du bonheur de votre population d'au moins 50.","Desiderio di felicità dei sudditi
+Il personaggio desidera la felicità dei suoi sudditi.
+
+[hint_MORAL_DEBUFF]
+
+Per esaudirlo, raggiungi un livello di felicità medio tra la popolazione pari a 50 o superiore.","Tebaayı Mutlu Etme Arzusu
+Bu karakter, tebaasının mutlu olmasını istiyor.
+
+[hint_MORAL_DEBUFF]
+
+Bu arzuyu gidermek için nüfusun ortalama mutluluk seviyesini en az 50'ye çıkar.","Alattvalók elégedettsége utáni vágy
+A karakter az alattvalói elégedettségére vágyik.
+
+[hint_MORAL_DEBUFF]
+
+A vágy teljesítéséhez érd el, hogy a lakosság átlagos elégedettségszintje legalább 50 legyen.","Бажання вдовольнити підданих
+Персонаж бажає вдовольнити підданих.
+
+[hint_MORAL_DEBUFF]
+
+Бажання здійсниться, коли середній рівень вдоволеності населення становитиме щонайменше 50.","Khao Khát Sự Hạnh Phúc Của Các Thần Dân
+Nhân vật khao khát hạnh phúc cho thần dân của mình.
+
+[hint_MORAL_DEBUFF]
+
+Để thực hiện khao khát này, đạt mức hạnh phúc trung bình trong dân số ít nhất là 50.
+"
+hint_wish_victory,,"Желание побеждать
+Персонаж страстно желает победить в настоящем сражении. 
+
+Поставьте его во главе армии и одержите победу!","Desire for Victory
+The character passionately desires to win in a real battle.
+
+Place them at the head of an army and achieve victory!","Desire for Victory
+The character passionately desires to win in a real battle.
+
+Place them at the head of an army and achieve victory!","Touha po vítězství
+Postava silně touží vyhrát skutečnou bitvu.
+
+Postav ji do čela armády a dosáhni vítězství!","Desejo de vitória
+Este personagem deseja muito vencer uma batalha de verdade.
+
+Dê-lhe o posto de comandante de um exército e alcance uma vitória.","Deseo de victoria
+El personaje desea apasionadamente ganar en una batalla real.
+
+Colócalo al frente de un ejército y logra la victoria.","Pragnienie zwycięstwa
+Ta osoba gorąco pragnie zwyciężyć w prawdziwej bitwie.
+
+Umieść tę osobę na czele armii i zwycięż!","渴望胜利
+这个角色强烈渴望赢得一场真正的胜利。
+
+将其放在军队之首的位置并取得胜利！","勝利的慾望
+人物十分渴望在真正的戰役中獲勝。
+
+派任其成為軍隊首領並取得勝利吧！","勝利への欲望
+このキャラクターは実戦での勝利を望んでいます。
+
+このキャラクターを軍隊の先頭に配置し、戦いで勝利しましょう！","승리 욕망
+캐릭터가 실제 전투에서 승리하기를 열망합니다.
+
+캐릭터를 군대의 수장으로 배치하고 승리를 달성하세요!","Sehnsucht nach Sieg
+Die Person wünscht sich nichts mehr, als eine Schlacht siegreich zu beenden.
+
+Stell sie an die Spitze einer Armee und führe sie zum Sieg!","Désir de victoire 
+Ce personnage n'a qu'une seule idée en tête : remporter une véritable bataille.
+ 
+Placez une armée sous son commandement et remportez la victoire !","Desiderio di vittoria
+Il personaggio desidera ardentemente vincere una vera battaglia.
+
+Ponilo al comando di un esercito e ottieni la vittoria!","Zafer Arzusu
+Karakter gerçek bir savaşta zafer kazanmayı istiyor.
+
+Onu bir bölüğün lideri yaparak zafer kazanmasını sağla!","Győzelem utáni vágy
+A karakter szenvedélyesen vágyik arra, hogy győztesen kerüljön ki egy igazi csatából.
+
+Állítsd egy sereg élére, és arass győzelmet!","Бажання перемоги
+Персонаж прагне перемогти в справжній битві.
+
+Поставте персонажа на чолі війська й досягніть перемоги!","Khao Khát Chiến Thắng
+Nhân vật khao khát mãnh liệt giành chiến thắng trong một trận chiến thực sự.
+
+Đặt họ đứng đầu một đội quân và giành chiến thắng!
+"
+hint_wish_make_gift,,"Желание наградить
+Персонаж хочет порадовать кого-нибудь из подданых подарком.
+
+[hint_MORAL_DEBUFF]
+
+Попробуйте наградить кого-нибудь от его лица.","Desire to Reward
+The character wants to please one of their subjects with a gift.
+
+[hint_MORAL_DEBUFF]
+
+Try to reward someone on their behalf.","Desire to Reward
+The character wants to please one of their subjects with a gift.
+
+[hint_MORAL_DEBUFF]
+
+Try to reward someone on their behalf.","Touha po odměně
+Postava chce udělat radost dárkem jednomu ze svých poddaných.
+
+[hint_MORAL_DEBUFF]
+
+Zkus někoho <hint=hint_action_task_reward>odměnit</hint> jménem této postavy.","Desejo de recompensar
+Este personagem quer agradar um de seus súditos com um presente.
+
+[hint_MORAL_DEBUFF]
+
+Tente Recompensar alguém em nome deste personagem.","Deseo de recompensar
+El personaje quiere complacer a uno de sus súbditos con un regalo.
+
+[hint_MORAL_DEBUFF]
+
+Intenta <hint=hint_action_task_reward>recompensar</hint> a alguien en su nombre.","Pragnienie nagrody
+Ta osoba chce zadowolić kogoś z poddanych prezentem.
+
+[hint_MORAL_DEBUFF]
+
+Spróbuj kogoś <hint=hint_action_task_reward>nagrodzić</hint> w imieniu tej osoby.","渴望发放奖赏
+这个角色想要通过发放奖赏讨好一个臣民。
+
+[hint_MORAL_DEBUFF]
+
+试试以这个角色的名义<hint=hint_action_task_reward>奖励</hint>某人。","賞賜慾望
+人物想送禮給一位人民來取悅對方。
+
+[hint_MORAL_DEBUFF]
+
+試著代表該人物<hint=hint_action_task_reward>賞賜</hint>他人吧。","報酬への欲望
+このキャラクターは、贈り物をして民の一人を喜ばせたいと思っています。
+
+[hint_MORAL_DEBUFF]
+
+民を代表して誰かに<hint=hint_action_task_reward>報酬</hint>を与えましょう。","보상 제공 욕망
+캐릭터가 신민 중 한 명에게 선물을 주고 싶어 합니다.
+
+[hint_MORAL_DEBUFF]
+
+캐릭터를 대표하여 누군가에게 <hint=hint_action_task_reward>보상</hint>을 제공하세요.","Sehnsucht nach Belohnung
+Die Person möchte einen ihrer Untertanen beschenken.
+
+[hint_MORAL_DEBUFF]
+
+Versuche, jemanden an ihrer Stelle zu <hint=hint_action_task_reward>belohnen</hint>.","Désir de récompenser 
+Ce personnage souhaite offrir un cadeau à un de ses sujets.
+
+[hint_MORAL_DEBUFF]
+ 
+Essayez de <hint=hint_action_task_reward>récompenser</hint> quelqu'un de sa part.","Desiderio di offrire una ricompensa
+Il personaggio desidera concedere un dono a uno dei suoi sudditi.
+
+[hint_MORAL_DEBUFF]
+
+Prova a <hint=hint_action_task_reward>ricompensare</hint> qualcuno per suo conto.","Ödül Arzusu
+Bu karakter, tebaasından birini bir hediyeyle ödüllendirmek istiyor.
+
+[hint_MORAL_DEBUFF]
+
+Onun yerine birini <hint=hint_action_task_reward>ödüllendir</hint>.","Jutalmazás utáni vágy
+A karakter valamelyik alattvalójának szeretne örömet szerezni egy ajándékkal.
+
+[hint_MORAL_DEBUFF]
+
+Próbálj <hint=hint_action_task_reward>megjutalmazni</hint> valakit a nevében.","Бажання нагородити
+Персонаж бажає порадувати одного з підданих подарунком.
+
+[hint_MORAL_DEBUFF]
+
+Спробуйте <hint=hint_action_task_reward>нагородити</hint> когось від імені персонажа.","Khao Khát Ban Thưởng Cho Dân
+Nhân vật muốn làm vui lòng một trong những thần dân của mình bằng một món quà.
+
+[hint_MORAL_DEBUFF]
+
+Hãy thay mặt cho người của bạn trao <hint=hint_action_task_reward>phần thưởng</hint> cho ai đó.
+"
+hint_wish_execute,,"Желание казнить
+Персонаж одержим идеей кого-то казнить.
+
+[hint_MORAL_DEBUFF]
+
+Назначьте его, чтобы <hint=hint_punishment_execution>отрубить кому-нибудь голову</hint>.","Desire to Execute
+The character is obsessed with the idea of executing someone.
+
+[hint_MORAL_DEBUFF]
+
+Assign them to <hint=hint_punishment_execution>behead someone</hint> and fulfill their desire.","Desire to Execute
+The character is obsessed with the idea of executing someone.
+
+[hint_MORAL_DEBUFF]
+
+Assign them to <hint=hint_punishment_execution>behead someone</hint> and fulfill their desire.","Touha po popravě
+Postava je posedlá myšlenkou na to, že někoho popraví.
+
+[hint_MORAL_DEBUFF]
+
+Přiřaď jí úkol <hint=hint_punishment_execution>useknout někomu hlavu</hint> a naplň tuto touhu.","Desejo de executar
+Este personagem está com a ideia fixa de executar alguém.
+
+[hint_MORAL_DEBUFF]
+
+Atribua-lhe a tarefa de <hint=hint_punishment_execution>Decapitar Alguém</hint> para realizar este desejo.","Deseo de ejecutar
+El personaje está obsesionado con la idea de ejecutar a alguien.
+
+[hint_MORAL_DEBUFF]
+
+Asígnale la tarea de <hint=hint_punishment_execution>decapitar a alguien</hint> y cumple su deseo.","Pragnienie egzekucji
+Ta osoba ma obsesję na punkcie przeprowadzenia egzekucji.
+
+[hint_MORAL_DEBUFF]
+
+Aby spełnić to pragnienie, przydziel tę osobę do <hint=hint_punishment_execution>ścięcia</hint> kogoś.","渴望下令处决
+这个角色心心念念想要下令处决某人。
+
+[hint_MORAL_DEBUFF]
+
+指派这个角色<hint=hint_punishment_execution>处决某人</hint>，满足其欲望。","處決慾望
+人物一心只想處決他人。
+
+[hint_MORAL_DEBUFF]
+
+指派該人物<hint=hint_punishment_execution>斬首他人</hint>即可滿足其慾望。","処刑への欲望
+このキャラクターは誰かを処刑するという考えに執着しています。
+
+[hint_MORAL_DEBUFF]
+
+<hint=hint_punishment_execution>誰かを斬首</hint>する任務を与え、欲望を満たしましょう。","처형 욕망
+캐릭터가 누군가를 처형하겠다는 생각에 사로잡혔습니다.
+
+[hint_MORAL_DEBUFF]
+
+욕망을 충족하려면 <hint=hint_punishment_execution>누군가를 참수</hint>하도록 배정하세요.","Sehnsucht nach Hinrichtung
+Die Person ist von der Idee besessen, jemanden hinzurichten.
+
+[hint_MORAL_DEBUFF]
+
+Weise ihr die Aufgabe der <hint=hint_punishment_execution>Enthauptung</hint> zu und erfülle damit ihre Sehnsucht.","Désir d'exécution 
+Ce personnage est obsédé par l'idée d'exécuter quelqu'un.
+
+[hint_MORAL_DEBUFF]
+ 
+Pour combler ce désir, assignez-lui la tâche de <hint=hint_punishment_execution>décapiter quelqu'un</hint>.","Desiderio di esecuzione
+Il personaggio è ossessionato dall'idea di giustiziare qualcuno.
+
+[hint_MORAL_DEBUFF]
+
+Incaricalo di <hint=hint_punishment_execution>decapitare qualcuno</hint> ed esaudire il proprio desiderio.","İdam Etme Arzusu
+Bu karakter, birini idam etmeyi takıntı hâline getirmiş.
+
+[hint_MORAL_DEBUFF]
+
+Birini <hint=hint_punishment_execution>idam ederek</hint> arzusunu gidermesi için karakteri ata.","Kivégzés utáni vágy
+A karakter megszállottja a kivégzés gondolatának.
+
+[hint_MORAL_DEBUFF]
+
+Bízd meg, hogy <hint=hint_punishment_execution>fejezzen le valakit</hint>, és így beteljesítse a vágyát.","Бажання стратити
+Персонаж одержимий ідеєю когось стратити.
+
+[hint_MORAL_DEBUFF]
+
+Доручіть персонажеві <hint=hint_punishment_execution>відрубати комусь голову</hint> й здійсніть бажання.","Khao Khát Hành Hình
+Nhân vật bị ám ảnh với ý tưởng hành hình ai đó.
+
+[hint_MORAL_DEBUFF]
+
+Hãy giao họ nhiệm vụ <hint=hint_punishment_execution>chém đầu ai đó</hint> và thỏa mãn khao khát của họ.
+"
+hint_wish_write_book,,"Желание написать книгу
+Персонаж мечтает <hint=hint_book_write>написать</hint> книгу
+
+[hint_MORAL_DEBUFF]
+
+Сделать это можно в <hint=hint_knowledge_menu>меню Знаний</hint>.","Desire to Write a Book
+The character dreams of <hint=hint_book_write>writing a book</hint>.
+
+[hint_MORAL_DEBUFF]
+
+You can fulfill this desire in the <hint=hint_knowledge_menu>Knowledge menu</hint>.","Desire to Write a Book
+The character dreams of <hint=hint_book_write>writing a book</hint>.
+
+[hint_MORAL_DEBUFF]
+
+You can fulfill this desire in the <hint=hint_knowledge_menu>Knowledge menu</hint>.","Touha napsat knihu
+Postava sní o tom, že <hint=hint_book_write>napíše knihu</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Tuto touhu můžeš naplnit v <hint=hint_knowledge_menu>nabídce znalostí</hint>.","Desejo de escrever um livro
+Este personagem sonha em <hint=hint_book_write>Escrever um Livro</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Você pode realizar este desejo no <hint=hint_knowledge_menu>Menu de Conhecimento</hint>.","Deseo de escribir un libro
+El personaje sueña con <hint=hint_book_write>escribir un libro</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Puedes cumplir este deseo en el <hint=hint_knowledge_menu>menú Conocimiento</hint>.","Pragnienie napisania księgi
+Ta osoba marzy o <hint=hint_book_write>napisaniu księgi</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Aby spełnić to pragnienie, przejdź do <hint=hint_knowledge_menu>menu „Wiedza”</hint>.","渴望写书
+这个角色的梦想是<hint=hint_book_write>写一本书</hint>。
+
+[hint_MORAL_DEBUFF]
+
+你可以在<hint=hint_knowledge_menu>知识菜单</hint>满足其欲望。","寫書的慾望
+人物夢想著<hint=hint_book_write>撰寫一本書</hint>。
+
+[hint_MORAL_DEBUFF]
+
+可於<hint=hint_knowledge_menu>知識選單</hint>中滿足此慾望。","書物を書くことへの欲望
+このキャラクターは、<hint=hint_book_write>書物を書く</hint>ことを夢見ています。
+
+[hint_MORAL_DEBUFF]
+
+この欲望を<hint=hint_knowledge_menu>知識メニュー</hint>で満たすことができます。","책 집필 욕망
+캐릭터가 <hint=hint_book_write>책을 집필</hint>하고 싶어 합니다.
+
+[hint_MORAL_DEBUFF]
+
+<hint=hint_knowledge_menu>지식 메뉴</hint>에서 이 욕망을 충족할 수 있습니다.","Sehnsucht, ein Buch zu schreiben
+Die Person träumt davon, ein <hint=hint_book_write>Buch zu schreiben</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Nutze das <hint=hint_knowledge_menu>Wissensmenü</hint>, um diese Sehnsucht zu erfüllen.","Désir d'écrire un livre 
+Ce personnage rêve d'<hint=hint_book_write>écrire un livre</hint>.
+
+[hint_MORAL_DEBUFF]
+ 
+Utilisez le <hint=hint_knowledge_menu>menu Savoir</hint> pour combler ce désir.","Desiderio di scrittura
+Il personaggio sogna di <hint=hint_book_write>scrivere un libro</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Puoi esaudire il suo desiderio dal <hint=hint_knowledge_menu>menu della conoscenza</hint>.","Kitap Yazma Arzusu
+Bu karakter, <hint=hint_book_write>kitap yazmanın</hint> hayalini kuruyor.
+
+[hint_MORAL_DEBUFF]
+
+Bu arzusunu <hint=hint_knowledge_menu>İrfan menüsünden</hint> giderebilirsin.","Könyvírás utáni vágy
+A karakter arról álmodik, hogy <hint=hint_book_write>könyvet ír</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Ezt a vágyat az <hint=hint_knowledge_menu>Ismeret menüben</hint> teljesítheted.","Бажання написати книгу
+Персонаж мріє <hint=hint_book_write>написати книгу</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Бажання можна здійснити в <hint=hint_knowledge_menu>меню знань</hint>.","Khao Khát Viết Sách
+Nhân vật mơ ước <hint=hint_book_write>viết một cuốn sách</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Bạn có thể thỏa mãn khao khát này trong <hint=hint_knowledge_menu>menu Kiến Thức</hint>.
+"
+hint_wish_know5,,"Желание увеличить познания
+Персонаж мечтает расшить свои горизонты изучив хотя бы два <hint=hint_idea>знания</hint>
+
+[hint_MORAL_DEBUFF]
+
+Чтобы помочь ему в этом, покупайте <hint=hint_book>книги</hint> у <hint=hint_holy_caravan>Святого Каравана</hint>, и изучайте их в <hint=hint_knowledge_menu>меню Знаний</hint>.","Desire for Knowledge Expansion
+The character dreams of broadening their horizons by learning two new pieces of <hint=hint_idea>knowledge</hint>.
+
+[hint_MORAL_DEBUFF]
+
+To help them with this, purchase <hint=hint_book>books</hint> from the <hint=hint_holy_caravan>Holy Caravan</hint> and study them in the <hint=hint_knowledge_menu>Knowledge menu</hint>.","Desire for Knowledge Expansion
+The character dreams of broadening their horizons by learning two new pieces of <hint=hint_idea>knowledge</hint>.
+
+[hint_MORAL_DEBUFF]
+
+To help them with this, purchase <hint=hint_book>books</hint> from the <hint=hint_holy_caravan>Holy Caravan</hint> and study them in the <hint=hint_knowledge_menu>Knowledge menu</hint>.","Touha po rozšíření znalostí
+Touha sní o tom, že si rozšíří obzory a naučí se dvě nové <hint=hint_idea>znalosti</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Pomůžeš jí tak, že koupíš <hint=hint_book>knihy</hint> u <hint=hint_holy_caravan>svaté karavany</hint> a prostuduješ je v <hint=hint_knowledge_menu>nabídce znalostí</hint>.","Desejo de expansão de conhecimento
+Este personagem sonha em ampliar seus horizontes ao aprender 2 novos <hint=hint_idea>Conhecimentos</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Para ajudar na realização deste desejo, compre <hint=hint_book>Livros</hint> da <hint=hint_holy_caravan>Caravana Sagrada</hint> e estude-os no <hint=hint_knowledge_menu>Menu de Conhecimento</hint>.","Deseo de ampliación del conocimiento
+El personaje sueña con ampliar sus horizontes aprendiendo dos nuevos <hint=hint_idea>conocimientos</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Para ayudarlo con esto, compra <hint=hint_book>libros</hint> a la <hint=hint_holy_caravan>Caravana Sagrada</hint> y estúdialos en el <hint=hint_knowledge_menu>menú Conocimiento</hint>.","Pragnienie poszerzenia wiedzy
+Ta osoba marzy o poszerzeniu swoich horyzontów i poznaniu dwóch fragmentów <hint=hint_idea>wiedzy</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Aby pomóc tej osobie, kup <hint=hint_book>księgi</hint> u <hint=hint_holy_caravan>Świętej Karawany</hint> i zbadaj je w <hint=hint_knowledge_menu>menu „Wiedza”</hint>.","渴望拓展知识
+这个角色的梦想是学两则新<hint=hint_idea>知识</hint>，拓宽眼界。
+
+[hint_MORAL_DEBUFF]
+
+从<hint=hint_holy_caravan>圣商队</hint>购买<hint=hint_book>书籍</hint>，在<hint=hint_knowledge_menu>知识菜单</hint>研习这些书，即可助其满足欲望。","拓展知識的慾望
+人物夢想著藉由學習兩項新<hint=hint_idea>知識</hint>來拓展視野。
+
+[hint_MORAL_DEBUFF]
+
+向<hint=hint_holy_caravan>聖商隊</hint>購買<hint=hint_book>書籍</hint>然後到<hint=hint_knowledge_menu>知識選單</hint>中研讀即可幫助該人物。","知識を広げることへの欲望
+このキャラクターは2つの新しい<hint=hint_idea>知識</hint>を学んで視野を広げることを夢見ています。
+
+[hint_MORAL_DEBUFF]
+
+これを満たすには、<hint=hint_holy_caravan>神聖なキャラバン</hint>から<hint=hint_book>書物</hint>を購入し、<hint=hint_knowledge_menu>知識メニュー</hint>で学習させましょう。","지식 확장 욕망
+캐릭터가 두 가지 새로운 <hint=hint_idea>지식</hint>을 배워 시야를 넓히고 싶어 합니다.
+
+[hint_MORAL_DEBUFF]
+
+이 욕망을 충족하려면 <hint=hint_holy_caravan>신성한 대상단</hint>에게서 <hint=hint_book>책</hint>을 구매하고 <hint=hint_knowledge_menu>지식 메뉴</hint>에서 연구하세요.","Sehnsucht nach mehr Wissen
+Die Person träumt davon, ihren Horizont zu erweitern, indem sie zwei neue Elemente <hint=hint_idea>Wissen</hint> lernt.
+
+[hint_MORAL_DEBUFF]
+
+Kaufe dazu <hint=hint_book>Bücher</hint> bei der <hint=hint_holy_caravan>Heiligen Karawane</hint> und studiere diese im <hint=hint_knowledge_menu>Wissensmenü</hint>, um sie dabei zu unterstützen.","Désir d'un plus grand savoir 
+Ce personnage rêve d'étendre ses connaissances et d'obtenir deux nouveaux <hint=hint_idea>savoirs</hint>.
+
+[hint_MORAL_DEBUFF]
+ 
+Pour l'y aider, achetez des <hint=hint_book>livres</hint> auprès de la <hint=hint_holy_caravan>Caravane sacrée</hint> et étudiez-les dans le <hint=hint_knowledge_menu>menu Savoir</hint>.","Desiderio di ampliamento della conoscenza
+Il personaggio sogna di ampliare i propri orizzonti apprendendo nuove <hint=hint_idea>conoscenze</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Per aiutarlo, acquista i <hint=hint_book>libri</hint> dalla <hint=hint_holy_caravan>Carovana sacra</hint> e studiali nel <hint=hint_knowledge_menu>menu della conoscenza</hint>.","İrfanını Geliştirme Arzusu
+Bu karakter, iki yeni <hint=hint_idea>irfan</hint> öğrenerek ufkunu genişletmenin hayalini kuruyor.
+
+[hint_MORAL_DEBUFF]
+
+Ona yardım etmek için <hint=hint_holy_caravan>Kutsal Kervan</hint>'dan <hint=hint_book>kitap</hint> satın al ve <hint=hint_knowledge_menu>İrfan menüsünden</hint> kitapları okumasını sağla.","Ismeretek bővítése utáni vágy
+A karakter arról álmodik, hogy két új <hint=hint_idea>ismeret</hint> megtanulásával szélesíti látókörét.
+
+[hint_MORAL_DEBUFF]
+
+Segíthetsz neki, ha <hint=hint_book>könyveket</hint> vásárolsz a <hint=hint_holy_caravan>Szent Karavántól</hint>, és tanulmányoztatod vele azokat az <hint=hint_knowledge_menu>Ismeret menüben</hint>.","Бажання розширити знання
+Персонаж мріє розширити світогляд, опанувавши дві нові галузі <hint=hint_idea>знань</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Щоб здійснити бажання, купуйте <hint=hint_book>книги</hint> в <hint=hint_holy_caravan>Священному каравані</hint> й вивчайте їх у <hint=hint_knowledge_menu>меню знань</hint>.","Khao Khát Mở Rộng Kiến Thức
+Nhân vật mơ ước mở rộng tầm hiểu biết của mình bằng cách học hai <hint=hint_idea>kiến thức</hint> mới.
+
+[hint_MORAL_DEBUFF]
+
+Để giúp họ thực hiện điều này, hãy mua <hint=hint_book>sách</hint> từ <hint=hint_holy_caravan>Đoàn lữ hành Thánh</hint> và nghiên cứu chúng trong <hint=hint_knowledge_menu>menu Kiến Thức</hint>.
+"
+hint_wish_learn_tech,,"Желание изучить технологию
+Персонаж мечтает узнать что-то новое и изучить свою первую <hint=hint_idea>технологию</hint>
+
+[hint_MORAL_DEBUFF]
+
+Чтобы помочь ему в этом, покупайте <hint=hint_book>книги</hint> у <hint=hint_holy_caravan>Святого Каравана</hint>, и изучайте их в <hint=hint_knowledge_menu>меню Знаний</hint>.","Desire to Learn Knowledge
+The character dreams of discovering something new and learning their first <hint=hint_idea>knowledge</hint>.
+
+[hint_MORAL_DEBUFF]
+
+To help them with this, purchase <hint=hint_book>books</hint> from the <hint=hint_holy_caravan>Holy Caravan</hint> and study them in the <hint=hint_knowledge_menu>Knowledge menu</hint>.","Desire to Learn Knowledge
+The character dreams of discovering something new and learning their first <hint=hint_idea>knowledge</hint>.
+
+[hint_MORAL_DEBUFF]
+
+To help them with this, purchase <hint=hint_book>books</hint> from the <hint=hint_holy_caravan>Holy Caravan</hint> and study them in the <hint=hint_knowledge_menu>Knowledge menu</hint>.","Touha po naučení znalostí
+Touha sní o tom, že si objeví něco nového a naučí se svoje první <hint=hint_idea>znalosti</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Pomůžeš jí tak, že koupíš <hint=hint_book>knihy</hint> u <hint=hint_holy_caravan>svaté karavany</hint> a prostuduješ je v <hint=hint_knowledge_menu>nabídce znalostí</hint>.","Desejo de aprender conhecimento
+Este personagem sonha descobrir algo novo e aprender seu primeiro <hint=hint_idea>Conhecimento</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Para ajudar na realização deste desejo, compre <hint=hint_book>Livros</hint> da <hint=hint_holy_caravan>Caravana Sagrada</hint> e estude-os no <hint=hint_knowledge_menu>Menu de Conhecimento</hint>.","Deseo de adquirir conocimientos
+El personaje sueña con descubrir algo nuevo y adquirir su primer <hint=hint_idea>conocimiento</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Para ayudarlo con esto, compra <hint=hint_book>libros</hint> a la <hint=hint_holy_caravan>Caravana Sagrada</hint> y estúdialos en el <hint=hint_knowledge_menu>menú Conocimiento</hint>.","Pragnienie głębokiej wiedzy
+Ta osoba marzy o odkryciu czegoś nowego i poznaniu pierwszego fragmentu <hint=hint_idea>wiedzy</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Aby pomóc tej osobie, kup <hint=hint_book>księgi</hint> u <hint=hint_holy_caravan>Świętej Karawany</hint> i zbadaj je w <hint=hint_knowledge_menu>menu „Wiedza”</hint>.","渴望学习知识
+这个角色的梦想是获得新发现并首次学习到新<hint=hint_idea>知识</hint>。
+
+[hint_MORAL_DEBUFF]
+
+从<hint=hint_holy_caravan>圣商队</hint>购买<hint=hint_book>书籍</hint>，在<hint=hint_knowledge_menu>知识菜单</hint>研习这些书，即可助其满足欲望。","學習知識的慾望
+人物想要發現新事物並習得第一項<hint=hint_idea>知識</hint>。
+
+[hint_MORAL_DEBUFF]
+
+向<hint=hint_holy_caravan>聖商隊</hint>購買<hint=hint_book>書籍</hint>然後到<hint=hint_knowledge_menu>知識選單</hint>中研讀即可幫助該人物。","知識を学ぶことへの欲望
+このキャラクターは新しいことを見つけ、初めての<hint=hint_idea>知識</hint>を学ぶことを夢見ています。
+
+[hint_MORAL_DEBUFF]
+
+これを満たすには、<hint=hint_holy_caravan>神聖なキャラバン</hint>から<hint=hint_book>書物</hint>を購入し、<hint=hint_knowledge_menu>知識メニュー</hint>で学習させましょう。","지식 학습 욕망
+캐릭터가 새로운 무언가를 발견하고 첫 번째 <hint=hint_idea>지식</hint>을 학습하고 싶어 합니다.
+
+[hint_MORAL_DEBUFF]
+
+이 욕망을 충족하려면 <hint=hint_holy_caravan>신성한 대상단</hint>에게서 <hint=hint_book>책</hint>을 구매하고 <hint=hint_knowledge_menu>지식 메뉴</hint>에서 연구하세요.","Sehnsucht nach der Aneignung von Wissen
+Die Person träumt davon, etwas Neues zu entdecken und ihr erstes Element <hint=hint_idea>Wissen</hint> erlernt.
+
+[hint_MORAL_DEBUFF]
+
+Kaufe dazu <hint=hint_book>Bücher</hint> bei der <hint=hint_holy_caravan>Heiligen Karawane</hint> und studiere diese im <hint=hint_knowledge_menu>Wissensmenü</hint>, um sie dabei zu unterstützen.","Désir de connaissance 
+Ce personnage rêve de découvrir quelque chose de nouveau et d'acquérir un <hint=hint_idea>savoir</hint>.
+
+[hint_MORAL_DEBUFF]
+ 
+Pour l'y aider, achetez des <hint=hint_book>livres</hint> auprès de la <hint=hint_holy_caravan>Caravane sacrée</hint> et étudiez-les dans le <hint=hint_knowledge_menu>menu Savoir</hint>.","Desiderio di apprendimento della conoscenza
+Il personaggio sogna di scoprire qualcosa di nuovo e apprendere le sue prime <hint=hint_idea>conoscenze</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Per aiutarlo, acquista i <hint=hint_book>libri</hint> dalla <hint=hint_holy_caravan>Carovana sacra</hint> e studiali nel <hint=hint_knowledge_menu>menu della conoscenza</hint>.","İrfan Öğrenme Arzusu
+Bu karakter, yeni şeyler keşfetmek ve ilk <hint=hint_idea>irfanını</hint> öğrenmenin hayalini kuruyor.
+
+[hint_MORAL_DEBUFF]
+
+Ona yardım etmek için <hint=hint_holy_caravan>Kutsal Kervan</hint>'dan <hint=hint_book>kitap</hint> satın al ve <hint=hint_knowledge_menu>İrfan menüsünden</hint> kitabı okumasını sağla.","Ismeretek tanulása utáni vágy
+A karakter arról álmodik, hogy valami újat fedezzen fel, és megszerezze első <hint=hint_idea>ismeretét</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Segíthetsz neki, ha <hint=hint_book>könyveket</hint> vásárolsz a <hint=hint_holy_caravan>Szent Karavántól</hint>, és tanulmányoztatod vele azokat az <hint=hint_knowledge_menu>Ismeret menüben</hint>.","Бажання нових знань
+Персонаж мріє дізнатися щось нове й опанувати першу галузь <hint=hint_idea>знань</hint>.
+
+[hint_MORAL_DEBUFF]
+
+Щоб здійснити бажання, купуйте <hint=hint_book>книги</hint> в <hint=hint_holy_caravan>Священному каравані</hint> й вивчайте їх у <hint=hint_knowledge_menu>меню знань</hint>.","Khao Khát Học Hỏi
+Nhân vật mơ ước khám phá điều gì đó mới mẻ và học được mảnh <hint=hint_idea>kiến thức</hint> đầu tiên của mình.
+
+[hint_MORAL_DEBUFF]
+
+Để giúp họ thực hiện điều này, hãy mua <hint=hint_book>sách</hint> từ <hint=hint_holy_caravan>Đoàn Caravan Thánh</hint> và nghiên cứu chúng trong <hint=hint_knowledge_menu>menu Kiến Thức</hint>.
+"
+hint_wish_meat,,"Желание съесть мяса
+Персонаж давно не ел свинины и хочет вспомнить каково оно на вкус. 
+
+[hint_MORAL_DEBUFF]
+
+Проследите, чтобы у вас на складе было <hint=hint_resource_meat>Мясо</hint>.","Desire to Eat Meat
+The character has not eaten pork for a long time and wants to remember its taste.
+
+[hint_MORAL_DEBUFF]
+
+Ensure that you have <hint=hint_resource_meat>Meat</hint> in your storage to fulfill this desire.","Desire to Eat Meat
+The character has not eaten pork for a long time and wants to remember its taste.
+
+[hint_MORAL_DEBUFF]
+
+Ensure that you have <hint=hint_resource_meat>Meat</hint> in your storage to fulfill this desire.","Touha jíst maso
+Postava už dlouho nejedla vepřové a chce si připomenout, jak chutná.
+
+[hint_MORAL_DEBUFF]
+
+Tuto touhu naplníš tak, že se postaráš o to, aby bylo ve skladu <hint=hint_resource_meat>maso</hint>.","Desejo de comer carne
+Este personagem passou muito tempo sem comer carne de porco e deseja lembrar-se do gosto.
+
+[hint_MORAL_DEBUFF]
+
+Verifique se você tem <hint=hint_resource_meat>Carne</hint> armazenada para realizar este desejo.","Deseo de comer carne
+El personaje no ha comido carne de cerdo en mucho tiempo y quiere recordar su sabor.
+
+[hint_MORAL_DEBUFF]
+
+Asegúrate de tener <hint=hint_resource_meat>carne</hint> en tu almacén para cumplir este deseo.","Pragnienie mięsa
+Ta osoba od dawna nie jadła wieprzowiny i chce sobie przypomnieć jej smak.
+
+[hint_MORAL_DEBUFF]
+
+Aby spełnić to pragnienie, dopilnuj, aby w składzie znajdowało się <hint=hint_resource_meat>mięso</hint>.","渴望吃肉
+这个角色很久没有吃肉了，想要重新品尝肉味。
+
+[hint_MORAL_DEBUFF]
+
+确保你的仓库中有<hint=hint_resource_meat>肉</hint>来满足角色的欲望。","食肉慾望
+人物久未食用豬肉，想要回味肉的味道。
+
+[hint_MORAL_DEBUFF]
+
+確保倉庫中有<hint=hint_resource_meat>肉</hint>可滿足此慾望。","肉を食べることへの欲望
+このキャラクターは長い間ブタ肉を食べていないので、その味を思い出したいと思っています。
+
+[hint_MORAL_DEBUFF]
+
+倉庫に<hint=hint_resource_meat>肉</hint>があることを確認してこの欲望を満たしましょう。","고기 섭취 욕망
+캐릭터가 오랫동안 돼지고기를 먹지 못해 그 맛을 그리워합니다.
+
+[hint_MORAL_DEBUFF]
+
+이 욕망을 충족하려면 창고에 <hint=hint_resource_meat>고기</hint>를 채우세요.","Sehnsucht nach Fleisch
+Die Person hat schon lange kein Schweinefleisch mehr gegessen und möchte sich an den Geschmack erinnern.
+
+[hint_MORAL_DEBUFF]
+
+Sorg dafür, dass sich in deinem Lagerhaus <hint=hint_resource_meat>Fleisch</hint> befindet, damit die Sehnsucht erfüllt werden kann.","Désir de manger de la viande 
+Ce personnage n'a pas mangé de porc depuis longtemps et en a presque oublié la saveur.
+
+[hint_MORAL_DEBUFF]
+ 
+Assurez-vous d'avoir de la <hint=hint_resource_meat>viande</hint> dans vos réserves pour combler ce désir.","Desiderio di carne
+Il personaggio non mangia carne da molto tempo e vorrebbe ricordarne il sapore.
+
+[hint_MORAL_DEBUFF]
+
+Assicurati di avere abbastanza <hint=hint_resource_meat>carne</hint> nel deposito per esaudire il suo desiderio.","Et Yeme Arzusu
+Bu karakter uzun süredir et tüketmedi ve tadını hatırlamak istiyor.
+
+[hint_MORAL_DEBUFF]
+
+Bu arzuyu yerine getirmek için Ardiyelerinde <hint=hint_resource_meat>et</hint> olduğundan emin ol.","Húsevés utáni vágy
+A karakter már régóta nem evett disznóhúst, és szeretné felidézni az ízét.
+
+[hint_MORAL_DEBUFF]
+
+Gondoskodj róla, hogy legyen <hint=hint_resource_meat>hús</hint> a raktáradban, hogy teljesítsd ezt a vágyat.","Бажання з’їсти м’ясо
+Персонаж давно не їв свинину й хоче згадати її смак.
+
+[hint_MORAL_DEBUFF]
+
+Щоб здійснити бажання, забезпечте наявність <hint=hint_resource_meat>м’яса</hint> на складі.","Khao Khát Ăn Thịt
+Nhân vật đã không ăn thịt lợn trong một thời gian dài và muốn nhớ lại hương vị của nó.
+
+[hint_MORAL_DEBUFF]
+
+Đảm bảo rằng bạn có <hint=hint_resource_meat>Thịt</hint> trong kho của bạn để thực hiện ước muốn này.
+"
+hint_wish_get_gift,,"Желание награды
+Персонаж чувствует, что его недооценивают и мечтает о награде из рук короля
+
+[hint_MORAL_DEBUFF]
+
+Попросите короля наградить его.","Desire for Reward
+The lord feels undervalued and dreams of receiving a reward from their king.
+
+[hint_MORAL_DEBUFF]
+
+Assign the king to reward this lord to fulfill this desire.","Desire for Reward
+The lord feels undervalued and dreams of receiving a reward from their king.
+
+[hint_MORAL_DEBUFF]
+
+Assign the king to reward this lord to fulfill this desire.","Touha po odměně
+Lord se cítí nedoceněný a sní o tom, že dostane odměnu od krále.
+
+[hint_MORAL_DEBUFF]
+
+Tuto touhu naplníš tak, že králi zadáš úkol odměnit tohoto lorda.","Desejo por recompensas
+Este membro da nobreza sente que sua presença não está sendo devidamente apreciada e sonha em receber uma recompensa do rei.
+
+[hint_MORAL_DEBUFF]
+
+Atribua o rei para Recompensar este membro na nobreza para realizar o desejo.","Deseo de recompensa
+El señor se siente poco valorado y sueña con recibir una recompensa de su monarca.
+
+[hint_MORAL_DEBUFF]
+
+Haz que el monarca recompense a este señor para cumplir su deseo.","Pragnienie nagrody
+Lord czuje się niedoceniony i marzy o nagrodzie od króla.
+
+[hint_MORAL_DEBUFF]
+
+Aby spełnić to pragnienie, poleć królowi nagrodzić tego lorda.","渴望奖赏
+这个领主感到自己不受重视，渴望获得君王的奖赏。
+
+[hint_MORAL_DEBUFF]
+
+指派君王奖赏这个领主，满足其欲望。","賞賜慾望
+貴族感到自己受到輕視，想要受到君王的賞賜。
+
+[hint_MORAL_DEBUFF]
+
+指派君王賞賜此貴族以滿足慾望。","報酬への欲望
+領主は過小評価されていると感じ、王から報酬をもらうことを夢見ています。
+
+[hint_MORAL_DEBUFF]
+
+王に、この領主へ報酬を渡すよう割り当て、この欲望を満たしましょう。","보상 욕망
+영주가 스스로 과소평가되었다고 느끼며 왕으로부터 보상받기를 원합니다.
+
+[hint_MORAL_DEBUFF]
+
+이 욕망을 충족하려면 왕이 이 영주에게 보상을 제공하도록 배정하세요.","Sehnsucht nach Belohnung
+Der Lord fühlt sich unterbewertet und träumt davon, eine Belohnung vom König zu erhalten.
+
+[hint_MORAL_DEBUFF]
+
+Weise dem König die Aktion Belohnen zu, damit er den Lord belohnt und dessen Sehnsucht erfüllt.","Désir de récompense
+Ce seigneur se sent dévalorisé par son monarque et rêve de recevoir une récompense de sa part.
+
+[hint_MORAL_DEBUFF]
+
+Demandez au monarque de récompenser ce seigneur pour combler ce désir.","Desiderio di ricompensa
+Il nobile si sente sottovalutato e sogna di ricevere una ricompensa dal monarca.
+
+[hint_MORAL_DEBUFF]
+
+Incarica il monarca di ricompensare il nobile per esaudire il suo desiderio.","Ödül Arzusu
+Asilzade, hükümdar tarafından değersiz görüldüğünü düşünüyor ve ödüllendirilmenin hayalini kuruyor.
+
+[hint_MORAL_DEBUFF]
+
+Bu arzuyu yerine getirmek için hükümdarın asilzadeyi ödüllendirmesini sağla.","Jutalom utáni vágy
+A nemes úgy érzi, alábecsülik, és arról álmodozik, hogy jutalmat kap az uralkodójától.
+
+[hint_MORAL_DEBUFF]
+
+Bízd meg az uralkodót, hogy jutalmazza meg ezt a nemest, hogy teljesítsd ezt a vágyat.","Бажання отримати нагороду
+Вельможа почувається недооціненим і мріє отримати нагороду від монарха.
+
+[hint_MORAL_DEBUFF]
+
+Щоб здійснити це бажання, доручіть монархові нагородити вельможу.","Khao Khát Được Khen Thưởng
+Lãnh chúa cảm thấy không được đánh giá cao và mơ ước nhận được phần thưởng từ vua của họ.
+
+[hint_MORAL_DEBUFF]
+
+Giao cho vua nhiệm vụ khen thưởng lãnh chúa này để thực hiện ước muốn này.
+"
+hint_wish_revenge,,"Желание мести
+Персонаж хочет, чтобы {soul_uuid_target} понес наказание за свои преступления
+
+[hint_MORAL_DEBUFF]
+
+Вы можете по-разному помочь с исполнением этого желания: 
+$ Вызвать преступника на поединок
+$ Король должен наказать преступника
+$ или просто дождаться, пока персонаж сам решит вопрос.","Desire for Revenge
+The character wants {soul_uuid_target} to face punishment for their crimes.
+
+[hint_MORAL_DEBUFF]
+
+You can help fulfill this desire in various ways:
+$ Challenge the criminal to a duel.
+$ Assign the king to punish the criminal.
+$ Or simply wait for the character to resolve the matter on their own.","Desire for Revenge
+The character wants {soul_uuid_target} to face punishment for their crimes.
+
+[hint_MORAL_DEBUFF]
+
+You can help fulfill this desire in various ways:
+$ Challenge the criminal to a duel.
+$ Assign the king to punish the criminal.
+$ Or simply wait for the character to resolve the matter on their own.","Touha po pomstě
+Postava chce, ať se {soul_uuid_target} dočká trestu za své zločiny.
+
+[hint_MORAL_DEBUFF]
+
+Tuto touhu můžeš pomoct naplnit různými způsoby:
+$ Vyzvi zločince na <hint=hint_duel>souboj</hint>.
+$ Zadej králi úkol potrestat zločince.
+$ Nebo prostě počkej, až postava tuto záležitost vyřeší sama.","Desejo de vingança
+Este personagem quer que {soul_uuid_target} receba uma punição por seus crimes.
+
+[hint_MORAL_DEBUFF]
+
+Você pode ajudar na realização deste desejo de diferentes formas:
+$ Desafie o criminoso a um Duelo.
+$ Atribua o rei para punir o criminoso.
+$ Você também pode simplesmente esperar que o personagem resolva a questão por conta própria.","Deseo de venganza
+El personaje quiere que {soul_uuid_target} se enfrente al castigo por sus crímenes.
+
+[hint_MORAL_DEBUFF]
+
+Puedes ayudar a cumplir este deseo de varias maneras:
+$ Desafía al criminal a un <hint=hint_duel>duelo</hint>.
+$ Haz que el monarca castigue al criminal.
+$ O simplemente espera a que el personaje resuelva el asunto por su cuenta.","Pragnienie zemsty
+Ta osoba ucieszy się, jeśli {soul_uuid_target} otrzyma karę za swoje przewiny.
+
+[hint_MORAL_DEBUFF]
+
+To pragnienie można spełnić na kilka sposobów:
+$ Wyzwij przestępcę na <hint=hint_duel>pojedynek</hint>.
+$ Poleć królowi ukarać przestępcę.
+$ Lub poczekaj, aż osoba sama rozwiąże problem.","渴望复仇
+这个角色希望{soul_uuid_target}的罪行得到惩罚。
+
+[hint_MORAL_DEBUFF]
+
+你有多种方式帮助角色满足欲望：
+$对这个罪犯发起<hint=hint_duel>决斗</hint>。
+$指派君王惩罚这个罪犯。
+$或者什么也不做，等这个角色自行解决此事。","復仇慾望
+人物希望{soul_uuid_target}因所犯的罪面對責罰。
+
+[hint_MORAL_DEBUFF]
+
+可幫忙以不同方式滿足此慾望：
+$向罪犯發起<hint=hint_duel>決鬥</hint>挑戰。
+$指派君王責罰罪犯。
+$或等待人物自行解決。","報復への欲望
+このキャラクターは{soul_uuid_target}に対して犯罪への処罰が行われることを願っています。
+
+[hint_MORAL_DEBUFF]
+
+この欲望はさまざまな方法で満たすことができます：
+$犯罪者に<hint=hint_duel>決闘</hint>を挑む。
+$王に犯罪者を罰するよう割り当てる。
+$またはそのキャラクターが自分で問題を解決するのを待つ。","복수 욕망
+캐릭터가 범죄를 저지른 {soul_uuid_target}의 처벌을 원합니다.
+
+[hint_MORAL_DEBUFF]
+
+다양한 방법으로 이 욕망을 충족할 수 있습니다:
+$ 범죄자에게 <hint=hint_duel>결투</hint>를 신청하세요.
+$ 왕이 범죄자를 처벌하도록 배정하세요.
+$ 또는, 캐릭터가 스스로 문제를 해결할 때까지 기다릴 수도 있습니다.","Sehnsucht nach Rache
+Die Person wünscht, dass {soul_uuid_target} für Verbrechen bestraft wird.
+
+[hint_MORAL_DEBUFF]
+
+Es gibt mehrere Wege, diese Sehnsucht zu erfüllen:
+$ Fordere die verbrecherische Person zu einem <hint=hint_duel>Duell</hint> heraus.
+$ Beauftrage den König mit der Bestrafung der verbrecherischen Person.
+$ Oder warte einfach ab, bis die Person die Angelegenheit selbst in die Hand nimmt.","Désir de vengeance 
+Ce personnage veut voir {soul_uuid_target} répondre de ses crimes.
+
+[hint_MORAL_DEBUFF]
+ 
+Il existe plusieurs façons de combler ce désir :
+$ Défier le criminel en duel.
+$ Demander au monarque de punir le criminel.
+$ Attendre que le personnage prenne les choses en main.","Desiderio di vendetta
+Il personaggio desidera che {soul_uuid_target} subisca una punizione per i suoi crimini.
+
+[hint_MORAL_DEBUFF]
+
+Puoi contribuire alla realizzazione in diversi modi:
+$ Sfida il criminale a <hint=hint_duel>duello</hint>.
+$ Incarica il monarca di punire il criminale.
+$ Attendi che il personaggio risolva la questione con le sue mani.","İntikam Arzusu
+Bu karakter, {soul_uuid_target} karakterinin suçlarından dolayı yargılanmasını istiyor.
+
+[hint_MORAL_DEBUFF]
+
+Bu arzuyu çeşitli yollarla giderebilirsin:
+$ Suçluyu <hint=hint_duel>düelloya</hint> davet et.
+$ Hükümdarın suçluyu cezalandırmasını sağla.
+$ Asilzadenin meseleyi kendisinin çözmesini bekle.","Bosszúvágy
+A karakter azt akarja, hogy {soul_uuid_target} megbűnhődjön a bűneiért.
+
+[hint_MORAL_DEBUFF]
+
+Ezt a vágyat többféleképp teljesítheted:
+$ Kihívhatod a bűnözőt <hint=hint_duel>párbajra</hint>.
+$ Megbízhatod az uralkodót, hogy fenyíttesse meg a bűnözőt.
+$ Vagy egyszerűen várd meg, hogy a karakter magától megoldja az ügyet.","Бажання помсти
+Персонаж сподівається, що {soul_uuid_target} понесе покарання за свої злочини.
+
+[hint_MORAL_DEBUFF]
+
+Бажання можна здійснити в різні способи:
+$ Викличте злочинця на <hint=hint_duel>двобій</hint>.
+$ Доручіть монархові покарати злочинця.
+$ Чекайте, поки персонаж вирішить проблему самостійно.","Khao Khát Báo Thù
+Nhân vật muốn {soul_uuid_target} phải đối mặt với hình phạt vì tội ác của họ.
+
+[hint_MORAL_DEBUFF]
+
+Bạn có thể giúp thực hiện ước muốn này theo nhiều cách:
+$ Thách thức kẻ phạm tội trong một trận đấu tay đôi.
+$ Giao cho vua nhiệm vụ trừng phạt kẻ phạm tội.
+$ Hoặc chỉ cần chờ đợi để nhân vật tự giải quyết vấn đề.
+"
+hint_wish_enemy_dead,,"Желание смерти врага
+Персонаж ненавидит своего врага и хочет чтобы {soul_uuid_target} умер 
+
+[hint_MORAL_DEBUFF]
+
+Вы можете по-разному помочь с исполнением этого желания: 
+$ Вызвать преступника на поединок
+$ Король может казнить врага
+$ или просто дождаться, пока персонаж сам решит вопрос.","Desire for Enemy's Death
+The character hates their enemy, and they want {soul_uuid_target} to die.
+
+[hint_MORAL_DEBUFF]
+
+You can help fulfill this desire in various ways:
+$ Challenge the enemy to a duel.
+$ Assign the king to execute this character's enemy.
+$ Or simply wait for the character to resolve the matter on their own.","Desire for Enemy's Death
+The character hates their enemy, and they want {soul_uuid_target} to die.
+
+[hint_MORAL_DEBUFF]
+
+You can help fulfill this desire in various ways:
+$ Challenge the enemy to a duel.
+$ Assign the king to execute this character's enemy.
+$ Or simply wait for the character to resolve the matter on their own.","Touha po smrti nepřítele
+Postava má nepřátele a chce, ať {soul_uuid_target} zemře.
+
+[hint_MORAL_DEBUFF]
+
+Tuto touhu můžeš pomoct naplnit různými způsoby:
+$ Vyzvi nepřítele na <hint=hint_duel>souboj</hint>.
+$ Zadej králi úkol potrestat nepřítele této postavy.
+$ Nebo prostě počkej, až postava tuto záležitost vyřeší sama.","Desejo pela morte de um inimigo
+Este personagem odeia {soul_uuid_target} e deseja sua morte.
+
+[hint_MORAL_DEBUFF]
+
+Você pode ajudar na realização deste desejo de diferentes formas:
+$ Desafie o criminoso a um Duelo.
+$ Atribua o rei para executar o inimigo do personagem.
+$ Você também pode simplesmente esperar que o personagem resolva a questão por conta própria.","Deseo de la muerte del enemigo
+El personaje odia a su enemigo {soul_uuid_target} y quiere que muera.
+
+[hint_MORAL_DEBUFF]
+
+Puedes ayudar a cumplir este deseo de varias maneras:
+$ Desafía al enemigo a un <hint=hint_duel>duelo</hint>.
+$ Haz que el monarca castigue al criminal.
+$ O simplemente espera a que el personaje resuelva el asunto por su cuenta.","Pragnienie śmierci wroga
+Ta osoba ucieszy się, jeśli jej wróg śmiertelny, {soul_uuid_target}, umrze.
+
+[hint_MORAL_DEBUFF]
+
+To pragnienie można spełnić na kilka sposobów:
+$ Wyzwij wroga tej osoby na <hint=hint_duel>pojedynek</hint>.
+$ Poleć królowi go ściąć.
+$ Lub poczekaj, aż osoba sama rozwiąże problem.","渴望仇敌殒命
+这个角色痛恨仇敌，希望{soul_uuid_target}去死。
+
+[hint_MORAL_DEBUFF]
+
+你有多种方式帮助角色满足欲望：
+$对这个仇敌发起<hint=hint_duel>决斗</hint>。
+$指派君王惩罚这个角色的仇敌。
+$或者什么也不做，等这个角色自行解决此事。","希望敵人死亡的慾望
+人物痛恨敵人，想要{soul_uuid_target}死亡。
+
+[hint_MORAL_DEBUFF]
+
+可幫忙以不同方式滿足此慾望：
+$向敵人發起<hint=hint_duel>決鬥</hint>挑戰。
+$指派君王處決人物的敵人。
+$或等待人物自行解決。","敵の死への欲望
+このキャラクターは敵を憎み{soul_uuid_target}の死を望んでいます。
+
+[hint_MORAL_DEBUFF]
+
+この欲望はさまざまな方法で満たすことができます：
+$犯罪者に<hint=hint_duel>決闘</hint>を挑む。
+$王にキャラクターの敵を処刑するよう割り当てる。
+$またはそのキャラクターが自分で問題を解決するのを待つ。","적의 사망 욕망
+캐릭터가 적을 증오하며 {soul_uuid_target}의 죽음을 원합니다.
+
+[hint_MORAL_DEBUFF]
+
+다양한 방법으로 이 욕망을 충족할 수 있습니다:
+$ 적에게 <hint=hint_duel>결투</hint>를 신청하세요.
+$ 왕이 범죄자를 처벌하도록 지정하세요.
+$ 또는, 캐릭터가 스스로 문제를 해결할 때까지 기다릴 수도 있습니다.","Sehnsucht nach Tod des Feindes
+Die Person hasst ihren Feind und wünscht den Tod von {soul_uuid_target}.
+
+[hint_MORAL_DEBUFF]
+
+Es gibt mehrere Wege, diese Sehnsucht zu erfüllen:
+$ Fordere die verbrecherische Person zu einem <hint=hint_duel>Duell</hint> heraus.
+$ Beauftrage den König mit der Hinrichtung des Feindes der Person.
+$ Oder warte einfach ab, bis die Person die Angelegenheit selbst in die Hand nimmt.","Désir de voir un ennemi périr
+Ce personnage déteste son ennemi plus que tout, et souhaite voir {soul_uuid_target} mourir.
+
+[hint_MORAL_DEBUFF]
+ 
+Il existe plusieurs façons de combler ce désir :
+$ Défier l'ennemi en duel.
+$ Demander au monarque d'exécuter l'ennemi de ce personnage.
+$ Attendre que le personnage prenne les choses en main.","Desiderio di morte di un nemico
+Il personaggio odia il suo nemico e desidera che {soul_uuid_target} muoia.
+
+[hint_MORAL_DEBUFF]
+
+Puoi contribuire alla realizzazione in diversi modi:
+$ Sfida il nemico a <hint=hint_duel>duello</hint>.
+$ Incarica il monarca di giustiziare il nemico del personaggio.
+$ Attendi che il personaggio risolva la questione con le sue mani.","Düşmanının Ölmesi Arzusu
+Bu karakter, düşmanından nefret ediyor ve {soul_uuid_target} adlı karakterin ölmesini istiyor.
+
+[hint_MORAL_DEBUFF]
+
+Bu arzuyu çeşitli yollarla giderebilirsin:
+$ Suçluyu <hint=hint_duel>düelloya</hint> davet et.
+$ Hükümdarın suçluyu idam etmesini sağla.
+$ Asilzadenin meseleyi kendisinin çözmesini bekle.","Ellenség halála utáni vágy
+A karakter gyűlöli az ellenségét, és azt akarja, hogy {soul_uuid_target} meghaljon.
+
+[hint_MORAL_DEBUFF]
+
+Ezt a vágyat többféleképp teljesítheted:
+$ Kihívhatod az ellenséget <hint=hint_duel>párbajra</hint>.
+$ Megbízhatod az uralkodót, hogy végeztesse ki a karakter ellenségét.
+$ Vagy egyszerűen várd meg, hogy a karakter magától megoldja az ügyet.","Бажання смерті ворога
+Персонаж прагне смерті ненависного ворога ({soul_uuid_target}).
+
+[hint_MORAL_DEBUFF]
+
+Бажання можна здійснити в різні способи:
+$ Викличте ворога на <hint=hint_duel>двобій</hint>.
+$ Доручіть монархові стратити ворога персонажа.
+$ Чекайте, поки персонаж вирішить проблему самостійно.","Khao Khát Cái Chết Của Kẻ Thù
+Nhân vật căm ghét kẻ thù của mình và muốn {soul_uuid_target} phải chết.
+
+[hint_MORAL_DEBUFF]
+
+Bạn có thể giúp thực hiện ước muốn này theo nhiều cách:
+$ Thách thức kẻ thù trong một trận đấu tay đôi.
+$ Giao cho vua nhiệm vụ hành quyết kẻ thù của nhân vật.
+$ Hoặc chỉ cần chờ đợi để nhân vật tự giải quyết vấn đề.
+"
+hint_wish_punished,,"Убийца должен быть наказан
+Персонаж знает, что {soul_uuid_target} - убийца, и желает, чтобы он понес наказание
+
+[hint_MORAL_DEBUFF]
+
+Вы можете по-разному помочь с исполнением этого желания: 
+$ Король может казнить, ослепить или изгнать преступника
+$ или просто дождаться, пока персонаж сам решит вопрос.","Desire for the Killer's Punishment
+The character knows that {soul_uuid_target} is a killer, and they want them to be punished.
+
+[hint_MORAL_DEBUFF]
+
+You can help fulfill this desire in various ways:
+$ The king can execute, blind, or exile the criminal.
+$ Or simply wait for the character to resolve the matter on their own.","Desire for the Killer's Punishment
+The character knows that {soul_uuid_target} is a killer, and they want them to be punished.
+
+[hint_MORAL_DEBUFF]
+
+You can help fulfill this desire in various ways:
+$ The king can execute, blind, or exile the criminal.
+$ Or simply wait for the character to resolve the matter on their own.","Touha po potrestání vraha
+Postava ví, že {soul_uuid_target} je vrah, a chce pro vraha zasloužený trest.
+
+[hint_MORAL_DEBUFF]
+
+Tuto touhu můžeš pomoct naplnit různými způsoby:
+$ Král může zločince popravit, oslepit nebo vyhnat.
+$ Nebo prostě počkej, až postava tuto záležitost vyřeší sama.","Desejo de punição por assassinato
+Este personagem sabe que {soul_uuid_target} matou alguém e deseja a punição por seus crimes.
+
+[hint_MORAL_DEBUFF]
+
+Você pode ajudar na realização deste desejo de diferentes formas:
+$ O rei pode executar, cegar ou exilar o criminoso.
+$ Você também pode simplesmente esperar que o personagem resolva a questão por conta própria.","Deseo de castigar al asesino
+El personaje sabe que {soul_uuid_target} es un asesino y quiere que se lleve un castigo.
+
+[hint_MORAL_DEBUFF]
+
+Puedes ayudar a cumplir este deseo de varias maneras:
+$ El monarca puede ejecutar, cegar o exiliar al criminal.
+$ O simplemente espera a que el personaje resuelva el asunto por su cuenta.","Pragnienie ukarania zabójcy
+Ta osoba ucieszy się, jeśli {soul_uuid_target} otrzyma karę za dokonanie morderstwa.
+
+[hint_MORAL_DEBUFF]
+
+To pragnienie można spełnić na kilka sposobów:
+$ Król może ściąć, oślepić lub wygnać przestępcę.
+$ Lub poczekaj, aż osoba sama rozwiąże problem.","渴望惩处刺客
+这个角色知道{soul_uuid_target}是个刺客，希望其受到惩罚。
+
+[hint_MORAL_DEBUFF]
+
+有多种方式帮助角色满足欲望：
+$君王可以处决、致盲或流放这个罪犯。
+$或者什么也不做，等这个角色自行解决此事。","責罰殺人犯的慾望
+人物知道{soul_uuid_target}是殺人犯，希望殺人犯受到責罰。
+
+[hint_MORAL_DEBUFF]
+
+可幫忙以不同方式滿足此慾望：
+$君王得以處決、處以盲刑或流放罪犯。
+$或等待人物自行解決。","殺人犯処刑への欲望
+このキャラクターは{soul_uuid_target}が殺人犯だと知っており、処罰が行われることを願っています。
+
+[hint_MORAL_DEBUFF]
+
+この欲望はさまざまな方法で満たすことができます：
+$王は犯罪者を処刑するか、盲目にするか、追放することができる。
+$またはそのキャラクターが自分で問題を解決するのを待つ。","살인자 처벌 욕망
+캐릭터가 살인자 {soul_uuid_target}의 처벌을 원합니다.
+
+[hint_MORAL_DEBUFF]
+
+다양한 방법으로 이 욕망을 충족할 수 있습니다:
+$ 왕은 범죄자를 처형하거나, 실명시키거나, 추방할 수 있습니다.
+$ 또는, 캐릭터가 스스로 문제를 해결할 때까지 기다릴 수도 있습니다.","Sehnsucht nach Bestrafung des Mörders
+Die Person weiß, dass {soul_uuid_target} ein Mörder ist und wünscht entsprechende Bestrafung.
+
+[hint_MORAL_DEBUFF]
+
+Es gibt mehrere Wege, diese Sehnsucht zu erfüllen:
+$ Der König kann die verbrecherische Zielperson hinrichten, blenden oder verbannen.
+$ Oder warte einfach ab, bis die Person die Angelegenheit selbst in die Hand nimmt.","Désir de voir un meurtrier châtié
+{soul_uuid_target} est coupable de meurtre. Ce personnage le sait et souhaite un châtiment à hauteur du crime.
+
+[hint_MORAL_DEBUFF]
+ 
+Il existe plusieurs façons de combler ce désir
+$ Demander au monarque d'exécuter, d'énucléer ou de bannir le criminel.
+$ Attendre que le personnage prenne les choses en main.","Desiderio di punizione dell'omicida
+Il personaggio sa che {soul_uuid_target} è un omicida e desidera che riceva una punizione.
+
+[hint_MORAL_DEBUFF]
+
+Puoi contribuire alla realizzazione in diversi modi:
+$ Incarica il monarca di giustiziare, accecare o esiliare il criminale.
+$ Attendi che il personaggio risolva la questione con le sue mani.","Katilin Cezalandırılması Arzusu
+Bu karakter, {soul_uuid_target} adlı karakterin katil olduğunu biliyor ve yargılanmasını istiyor.
+
+[hint_MORAL_DEBUFF]
+
+Bu arzuyu çeşitli yollarla giderebilirsin:
+$ Hükümdar suçluyu idam, kör veya sürgün edebilir.
+$ Asilzadenin meseleyi kendisinin çözmesini bekle.","Gyilkos megbüntetése utáni vágy
+A karakter tudja, hogy {soul_uuid_target} egy gyilkos, és azt akarja, hogy megbüntessék.
+
+[hint_MORAL_DEBUFF]
+
+Ezt a vágyat többféleképp teljesítheted:
+$ Az uralkodó kivégeztetheti, megvakíttathatja vagy száműzheti a bűnözőt.
+$ Vagy egyszerűen várd meg, hogy a karakter magától megoldja az ügyet.","Бажання покарання вбивці
+Персонаж знає, що {soul_uuid_target} – вбивця, і прагне покарання.
+
+[hint_MORAL_DEBUFF]
+
+Бажання можна здійснити в різні способи:
+$ Монарх може стратити, осліпити або вислати злочинця.
+$ Чекайте, поки персонаж вирішить проблему самостійно.","Khao Khát Xử Phạt Kẻ Giết Người
+Nhân vật biết rằng {soul_uuid_target} là một kẻ giết người, và họ muốn kẻ đó bị trừng phạt.
+
+[hint_MORAL_DEBUFF]
+
+Bạn có thể giúp thực hiện ước muốn này theo nhiều cách:
+$ Vua có thể hành quyết, làm mù, hoặc lưu đày kẻ phạm tội.
+$ Hoặc chỉ cần chờ đợi để nhân vật tự giải quyết vấn đề.
+"
+hint_wish_bishop_want_punish,,"Грешник должен быть спасен
+Епископ считает, что {soul_uuid_target} неисправимый <hint=hint_sin>грешник</hint> и должен быть <hint=hint_punishment_blindness>ослеплен</hint>, чтобы меньше грешить.
+
+[hint_MORAL_DEBUFF]
+","Desire for the Sinner's Salvation
+The bishop believes that {soul_uuid_target} is an incorrigible <hint=hint_sin>sinner</hint> and should be <hint=hint_punishment_blindness>blinded</hint> to lessen their ability to continue sinning.
+
+[hint_MORAL_DEBUFF]","Desire for the Sinner's Salvation
+The bishop believes that {soul_uuid_target} is an incorrigible <hint=hint_sin>sinner</hint> and should be <hint=hint_punishment_blindness>blinded</hint> to lessen their ability to continue sinning.
+
+[hint_MORAL_DEBUFF]","Touha po spáse hříšníka
+Biskup se domnívá, že {soul_uuid_target} je nenapravitelný <hint=hint_sin>hříšník</hint>, který by měl být <hint=hint_punishment_blindness>oslepen</hint>, aby už nemohl tolik hřešit.
+
+[hint_MORAL_DEBUFF]","Desejo pela salvação de um pecador
+O bispo acredita que {soul_uuid_target} não deixará de <hint=hint_sin>Pecar</hint>, mas que a <hint=hint_punishment_blindness>Cegueira</hint> diminuiria sua capacidade de seguir pecando.
+
+[hint_MORAL_DEBUFF]","Deseo de salvar al pecador
+El obispo cree que {soul_uuid_target} es un <hint=hint_sin>pecador</hint> incorregible y debería ser <hint=hint_punishment_blindness>cegado</hint> para reducir su capacidad de seguir pecando.
+
+[hint_MORAL_DEBUFF]","Pragnienie zbawienia dla grzesznika
+Biskup wierzy, że {soul_uuid_target} ma na sumieniu niewybaczalne <hint=hint_sin>grzechy</hint> i należy tę osobę <hint=hint_punishment_blindness>oślepić</hint>, żeby nie mogła już więcej grzeszyć.
+
+[hint_MORAL_DEBUFF]","渴望罪人获得救赎
+主教认为{soul_uuid_target}是个屡教不改的<hint=hint_sin>罪人</hint>，应该接受<hint=hint_punishment_blindness>目盲</hint>惩罚，削弱其继续犯罪的能力。
+
+[hint_MORAL_DEBUFF]","罪人的救贖慾望
+主教堅信{soul_uuid_target}為無可救藥的<hint=hint_sin>罪人</hint>，應受到<hint=hint_punishment_blindness>盲刑</hint>限制此人繼續犯下罪孽的能力。
+
+[hint_MORAL_DEBUFF]","罪人の救済への欲望
+司教は、{soul_uuid_target}が矯正不能な<hint=hint_sin>罪人</hint>であり、罪を重ねる能力を弱めるために<hint=hint_punishment_blindness>盲目</hint>になるべきだと考えています。
+
+[hint_MORAL_DEBUFF]","죄인 구원 욕망
+주교는 {soul_uuid_target}이(가) 구제 불가능한 <hint=hint_sin>죄인</hint>이므로 계속해서 더 이상 죄를 저지를 수 없도록 <hint=hint_punishment_blindness>실명시켜야</hint> 한다고 생각합니다.
+
+[hint_MORAL_DEBUFF]","Sehnsucht nach Erlösung des Sünders
+Der Bischof ist sich sicher, dass {soul_uuid_target} ein unbelehrbarer <hint=hint_sin>Sünder</hint> ist und <hint=hint_punishment_blindness>geblendet</hint> werden muss, um keine weiteren Sünden begehen zu können.
+
+[hint_MORAL_DEBUFF]","Désir de rédemption 
+Selon l'évêque, {soul_uuid_target} est coupable de nombreux <hint=hint_sin>péchés</hint> et il faut l'<hint=hint_punishment_blindness>énucléer</hint> pour réduire sa propension à en commettre.
+
+[hint_MORAL_DEBUFF]","Desiderio di salvezza di un peccatore
+Il vescovo crede che i <hint=hint_sin>peccati</hint> di {soul_uuid_target} siano incorreggibili e che dovrebbe subire l'<hint=hint_punishment_blindness>accecamento</hint> per imboccare la retta via.
+
+[hint_MORAL_DEBUFF]","Günahkârın İflah Olması Arzusu
+Piskopos, {soul_uuid_target} adlı karakterin iflah olmaz bir <hint=hint_sin>günahkâr</hint> olduğuna ve daha fazla günah işlememesi için <hint=hint_punishment_blindness>kör edilmesi</hint> gerektiğine inanıyor.
+
+[hint_MORAL_DEBUFF]","Vétkes megváltása utáni vágy
+A püspök úgy véli, hogy {soul_uuid_target} javíthatatlan <hint=hint_sin>bűnös</hint>, és meg kell <hint=hint_punishment_blindness>vakítani</hint>, hogy a továbbiakban nehezebben vétkezhessen.
+
+[hint_MORAL_DEBUFF]","Бажання порятунку грішника
+На думку єпископа {soul_uuid_target} – невиправний <hint=hint_sin>грішник</hint>. Щоб обмежити здатність грішити в подальшому, єпископ прагне <hint=hint_punishment_blindness>осліпити</hint> грішника.
+
+[hint_MORAL_DEBUFF]","Khao Khát Cứu Rỗi Kẻ Tội Lỗi
+Giám mục tin rằng {soul_uuid_target} là một <hint=hint_sin>kẻ tội lỗi</hint> không thể sửa chữa và nên bị <hint=hint_punishment_blindness>làm mù</hint> để giảm khả năng tiếp tục phạm tội của họ.
+
+[hint_MORAL_DEBUFF]
+"
+hint_with_bishop_want_church,,"Нужно больше храмов
+Епископ считает ситуацию, когда не все дети Софии могут поучаствовать в <hint=hint_morning_pray>утренней службе</hint> недопустимой. 
+Необходимо храмов: {count}
+
+[hint_MORAL_DEBUFF]","Need for More Temples
+The bishop finds it unacceptable that not all children of Sofia can participate in the <hint=hint_morning_pray>morning service</hint> due to lack of temples.
+Temples needed: {count}
+
+[hint_MORAL_DEBUFF]","Need for More Temples
+The bishop finds it unacceptable that not all children of Sofia can participate in the <hint=hint_morning_pray>morning service</hint> due to lack of temples.
+Temples needed: {count}
+
+[hint_MORAL_DEBUFF]","Potřeba většího počtu chrámů
+Podle biskupa je nepřijatelné, že se ne každé Sofiino dítě může zúčastnit <hint=hint_morning_pray>ranní bohoslužby</hint> kvůli nedostatku chrámů.
+Potřebné chrámy: {count}
+
+[hint_MORAL_DEBUFF]","Desejo por mais templos
+O bispo acha inaceitável que nem todos os filhos de Sofia possam participar da <hint=hint_morning_pray>Missa Matutina</hint> devido à falta de templos.
+Templos necessários: {count}
+
+[hint_MORAL_DEBUFF]","Necesidad de más templos
+El obispo considera inaceptable que no todos los hijos de Sophia puedan participar en el <hint=hint_morning_pray>servicio matinal</hint> debido a la falta de templos.
+Templos necesarios: {count}
+
+[hint_MORAL_DEBUFF]","Pragnienie świątyń
+Biskup uważa, że to niewybaczalne, iż z powodu niedoboru świątyń nie wszystkie dzieci Świętej Zofii mogą uczestniczyć w <hint=hint_morning_pray>porannej mszy</hint>.
+Potrzebne świątynie: {count}
+
+[hint_MORAL_DEBUFF]","需要更多圣堂
+由于圣堂数量不足，有些索菲亚之子无法参加<hint=hint_morning_pray>晨祷</hint>，这令主教难以接受。
+需要圣堂：{count}
+
+[hint_MORAL_DEBUFF]","更多教堂的需求
+主教難以接受由於缺乏教堂，並非所有索菲亞之子得以參與<hint=hint_morning_pray>晨禱</hint>。
+需要教堂：{count}
+
+[hint_MORAL_DEBUFF]","さらに多くの礼拝堂が必要
+司教は、礼拝堂がないため聖母ソフィアの信者全員が<hint=hint_morning_pray>朝の礼拝</hint>に参加できない状態を容認できません。
+必要な礼拝堂：{count}
+
+[hint_MORAL_DEBUFF]","사원 추가 욕구
+주교는 사원이 부족해서 성모 소피아의 모든 자녀가 <hint=hint_morning_pray>아침 예배</hint>에 참여하지 못하는 상황을 용납할 수 없습니다.
+필요한 사원: {count}
+
+[hint_MORAL_DEBUFF]","Bedürfnis nach weiteren Tempeln
+Der Bischof findet es inakzeptabel, dass nicht alle Kinder der Sophia am <hint=hint_morning_pray>Morgengottesdienst</hint> teilnehmen können, da es nicht genug Tempel gibt.
+Benötigte Tempel: {count}
+
+[hint_MORAL_DEBUFF]","Besoin de nouveaux temples 
+L'évêque trouve inacceptable que tous les enfants de Sophia ne puissent pas participer aux <hint=hint_morning_pray>messes matinales</hint> à cause du manque de temple. 
+Temples nécessaires : {count}
+
+[hint_MORAL_DEBUFF]","Bisogno di altri templi
+Il vescovo trova inaccettabile che non tutti i discepoli di Madre Sofia possano partecipare alla <hint=hint_morning_pray>funzione mattutina</hint> a causa della carenza di templi.
+Templi necessari: {count}
+
+[hint_MORAL_DEBUFF]","Daha Fazla Tapınak İhtiyacı
+Piskopos, tapınak sayısının yetersizliği sebebiyle Sophia'nın tüm çocuklarının <hint=hint_morning_pray>sabah ayinine</hint> katılamamasını kabul edemiyor.
+Gereken Tapınak Sayısı: {count}
+
+[hint_MORAL_DEBUFF]","Több templomra van szükség
+A püspök elfogadhatatlannak tartja, hogy a templomok hiánya miatt Szófia nem minden gyermeke vehet részt a <hint=hint_morning_pray>reggeli misén</hint>.
+Ennyi templom szükséges: {count}
+
+[hint_MORAL_DEBUFF]","Потреба в більшій кількості храмів
+Єпископ вважає неприйнятним, що не всі діти Софії можуть брати участь у <hint=hint_morning_pray>ранковій службі</hint> через брак храмів.
+Необхідна така кількість храмів: {count}
+
+[hint_MORAL_DEBUFF]","Nhu Cầu Về Nhiều Đền Thờ Hơn
+Giám mục không thể chấp nhận việc tất cả các tín hữu của Đức Mẹ Sophia không thể tham dự <hint=hint_morning_pray>buổi lễ sáng</hint> do thiếu đền thờ là không thể chấp nhận được.
+Cần thêm đền thờ: {count}
+
+[hint_MORAL_DEBUFF]
+"
