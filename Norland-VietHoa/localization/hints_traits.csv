@@ -4445,10 +4445,10 @@ Ebben a stádiumban már csak az imádság segíthet, és fel kell készülni a 
 Következő stádium bekövetkezte: {time}","Отруєння
 На цьому етапі все, що залишається робити, це молитися й готуватися до найгіршого
 
-Наступна стадія настане через {time}","Poisoning
-At this stage, all that is left to do is pray and prepare for the worst
+Наступна стадія настане через {time}","Ngộ độc
+Ở giai đoạn này, tất cả những gì còn lại để làm là cầu nguyện và chuẩn bị cho điều tồi tệ nhất
 
-Next stage in: {time}"
+Giai đoạn tiếp theo trong: {time}"
 hint_poison_middle_stage,Middle stage of poisoning,"Отравление
 На данном этапе персонаж не может передвигаться и ему требуется лечение с помощью <hint=hint_resource_med>Лечебной мази</hint>
 
@@ -4551,13 +4551,13 @@ Ez elválik: {time}","Отруєння
 $ У разі лікування ймовірність вижити становить 50%.
 $ Інакше ймовірність виживання становить 10%.
 
-Подальша судьба персонажа буде відома через {time}","Poisoning
-At this stage, the character is unable to move and requires treatment with <hint=hint_resource_med>Medical Salve</hint>.
+Подальша судьба персонажа буде відома через {time}","Ngộ độc
+Ở giai đoạn này, nhân vật không thể di chuyển và cần được điều trị bằng <hint=hint_resource_med>Thuốc chữa bệnh</hint>.
 
-$ If the character is treated, there is a 50% chance of survival and a 50% chance of death.
-$ If the character is not treated, there is a 30% chance of survival and a 70% chance of death.
+$ Nếu nhân vật được điều trị, có 50% cơ hội sống sót và 50% cơ hội tử vong.
+$ Nếu nhân vật không được điều trị, có 30% cơ hội sống sót và 70% cơ hội tử vong.
 
-Will be determined in: {time}"
+Kết quả sẽ được xác định trong: {time}"
 hint_poison_last_stage,Last stage of poisioning,"Отравление
 Персонаж был отравлен, но выжил. На данном этапе происходит восстановление организма, в ходе которого его передвижения замедлены
 
@@ -4609,10 +4609,10 @@ A karaktert megmérgezték, de túlélte. Ebben a stádiumban a teste gyógyulá
 Teljes felépülés: {time}","Отруєння
 Персонажа отруїли, але він вижив. На цій стадії тіло персонажа відновлюється, що призводить до уповільнення рухів.
 
-Персонаж повністю одужає через {time}","Poisoning
-The character was poisoned but survived. At this stage, their body is undergoing recovery, resulting in slowed movement.
+Персонаж повністю одужає через {time}","Ngộ độc
+Nhân vật đã bị đầu độc nhưng sống sót. Ở giai đoạn này, cơ thể họ đang trong quá trình hồi phục, dẫn đến tốc độ di chuyển chậm lại.
 
-Full recovery in: {time}"
+Phục hồi hoàn toàn trong: {time}"
 hint_swede_typh_st_1,,"Брюквенный тиф
 Персонаж подхватил Брюквенный тиф - это иногда случается, если есть сырую брюкву.
 
@@ -4732,14 +4732,14 @@ Következő stádium bekövetkezte: {time}","Бруквяна лихоманка
 
 Це початкова стадія хвороби, яка супроводжується різким болем у животі й виліковується лише молитвою.
 
-Наступна стадія настане через: {time}","Rutabaga fever
-The character has contracted rutabaga fever - this sometimes happens when consuming raw rutabaga.
+Наступна стадія настане через: {time}","Sốt củ cải
+Nhân vật đã bị sốt củ cải - đôi khi xảy ra khi ăn củ cải sống.
 
-This disease is also known as the ""mercenary disease"" because warriors often eat rutabaga while on campaign.
+Bệnh này còn được gọi là ""bệnh lính đánh thuê"" vì các chiến binh thường ăn củ cải trong trận chiến.
 
-This is the initial stage of the disease, accompanied by sharp abdominal pain, and can only be cured by prayer.
+Đây là giai đoạn đầu của bệnh, kèm theo đau bụng dữ dội và chỉ có thể chữa khỏi bằng cách cầu nguyện.
 
-Next stage in: {time}"
+Giai đoạn tiếp theo trong: {time}"
 hint_swede_typh_st_2,,"Брюквенный тиф
 Персонаж подхватил Брюквенный тиф - это иногда случается, если есть сырую брюкву.
 
@@ -4910,17 +4910,17 @@ Ez elválik: {time}","Бруквяна лихоманка
 $ У разі лікування ймовірність вижити становить 100%.
 $ Інакше ймовірність виживання становить 50%.
 
-Подальша судьба персонажа буде відома через: {time}","Rutabaga fever
-The character has contracted rutabaga fever - this sometimes happens when consuming raw rutabaga.
+Подальша судьба персонажа буде відома через: {time}","Sốt củ cải
+Nhân vật đã bị sốt củ cải - đôi khi xảy ra khi ăn củ cải sống.
 
-This is the second stage of the disease. Abdominal pain has intensified, accompanied by diarrhea and fever.
+Đây là giai đoạn thứ hai của bệnh. Đau bụng đã trở nên dữ dội hơn, kèm theo tiêu chảy và sốt.
 
-At this stage, the character is unable to move and requires treatment with <hint=hint_resource_med>Medical Salve</hint>.
+Ở giai đoạn này, nhân vật không thể di chuyển và cần điều trị bằng <hint=hint_resource_med>Thuốc mỡ y tế</hint>.
 
-$ If the character is treated, there is a 100% chance of survival.
-$ If the character is not treated, there is a 50% chance of survival and a 50% chance of death.
+$ Nếu nhân vật được điều trị, có 100% khả năng sống sót.
+$ Nếu nhân vật không được điều trị, có 50% khả năng sống sót và 50% khả năng tử vong.
 
-Will be clear in: {time}"
+Sẽ hết bệnh trong: {time}"
 hint_swede_typh_st_3,,"Брюквенный тиф
 Персонаж подхватил Брюквенный тиф - это иногда случается, если есть сырую брюкву.
 
@@ -5006,12 +5006,12 @@ Teljes felépülés: {time}","Бруквяна лихоманка
 
 Персонаж пережив кризу хвороби й тепер одужує. На цій стадії рухи персонажу сповільнені.
 
-Персонаж одужає через {time}","Rutabaga fever
-The character has contracted rutabaga fever - this sometimes happens when consuming raw rutabaga.
+Персонаж одужає через {time}","Sốt củ cải
+Nhân vật đã bị sốt củ cải - đôi khi xảy ra khi ăn củ cải sống.
 
-The character has survived the crisis of the disease and is in the recovery stage, during which their movements are slowed down.
+Nhân vật đã vượt qua khủng hoảng của bệnh và đang trong giai đoạn hồi phục, nhưng cử động và di chuyển sẽ bị chậm lại.
 
-Full recovery in: {time}"
+Hồi phục hoàn toàn trong: {time}"
 hint_pregnant,Pregnant,"Персонаж ждет ребенка.
 $ В первое время  его ждет рвота и замедление ходьбы
 $ Непосредственно перед рождением персонаж не сможет ходить
@@ -5113,13 +5113,13 @@ $ Спочатку персонаж може відчувати нудоту, х
 $ Незадовго до пологів персонаж не зможе ходити.
 $ Існує невелика ймовірність смерті матері й дитини.
 
-Народження нового життя очікується через {time}","Pregnant
-The character is expecting a child
-$ Initially, they may experience nausea and slowed walking.
-$ Shortly before giving birth, the character will be unable to walk.
-$ There is a small chance of both the mother and the baby dying.
+Народження нового життя очікується через {time}","Mang thai
+Nhân vật đang mong đợi một đứa trẻ
+$ Ban đầu, họ có thể bị buồn nôn và đi chậm lại.
+$ Ngay trước khi sinh, nhân vật sẽ không thể đi lại.
+$ Có một tỉ lệ nhỏ rằng cả mẹ và con đều có thể chết.
 
-The birth of new life is expected in: {time}"
+Sự ra đời của cuộc sống mới được mong đợi trong: {time}"
 hint_sin_abuse,Insult,"Оскорбление
 Персонаж кого-то оскорбил. Это недостойное поведение.
 
@@ -5171,10 +5171,10 @@ A karakter megsértett valakit. Ez méltatlan viselkedés.
 A vétek feledésbe merül: {time}.","Образа
 Персонаж когось образив. Це негідна поведінка.
 
-Гріх буде забутий через {time}.","Insult
-The character insulted someone. It is unworthy behavior.
+Гріх буде забутий через {time}.","Xúc phạm
+Nhân vật đã xúc phạm ai đó. Đây là hành vi không đáng có.
 
-The sin will be forgotten in: {time}."
+Tội lỗi sẽ được quên đi trong: {time}."
 hint_sin_list,{{trait_name}},"Грех
 Персонаж <hint=hint_sin>согрешил</hint>, и теперь его мучает совесть
 
@@ -5328,16 +5328,16 @@ $ Для цього необхідно <hint=hint_confession>сповідати�
 Поточні <hint=hint_sin>гріхи</hint> на совісті персонажа:
 {list}
 
-Гріхи будуть забуті через {time}.","Sin
-The character has <hint=hint_sin>sinned</hint>, and now their conscience torments them.
+Гріхи будуть забуті через {time}.","Tội lỗi
+Nhân vật đã <hint=hint_sin>phạm tội</hint> và bây giờ lương tâm của họ đang cắn rứt.
 
-$ Maximum <hint=hint_need_piety>piety</hint> is limited to {X} until the sin is absolved.
-$ Sin can be absolved through <hint=hint_confession>confession</hint> in the <hint=hint_bld_temple>Temple</hint>.
+$ Mức tối đa <hint=hint_need_piety>đức hạnh</hint> bị giới hạn ở {X} cho đến khi tội lỗi được xá tội.
+$ Tội lỗi có thể được xá tội thông qua <hint=hint_confession>thú nhận</hint> tại <hint=hint_bld_temple>Đền thờ</hint>.
 
-Current <hint=hint_sin>sins</hint> on the character's conscience:
+Tội lỗi hiện tại trên lương tâm của nhân vật:
 {list}
 
-Sins will be forgotten in: {time}."
+Tội lỗi sẽ bị lãng quên trong: {time}."
 hint_sin_criminal,Criminal,hint_persons_criminal,hint_persons_criminal,hint_persons_criminal,hint_persons_criminal,hint_persons_criminal,hint_persons_criminal,hint_persons_criminal,hint_persons_criminal,提示_人_罪犯,hint_persons_criminal,hint_persons_criminal,hint_persons_criminal,hint_persons_criminal,hint_persons_criminal,hint_persons_criminal,hint_persons_criminal,hint_persons_criminal,hint_persons_criminal
 hint_sin_cuthroat,Cuthroat,hint_persons_cuthroat,hint_persons_cuthroat,hint_persons_cuthroat,hint_persons_cuthroat,hint_persons_cuthroat,hint_persons_cuthroat,hint_persons_cuthroat,hint_persons_cuthroat,提示_人_刺客,hint_persons_cuthroat,hint_persons_cuthroat,hint_persons_cuthroat,hint_persons_cuthroat,hint_persons_cuthroat,hint_persons_cuthroat,hint_persons_cuthroat,hint_persons_cuthroat,hint_persons_cuthroat
 hint_sin_fight,Fight,"Драка
@@ -5391,10 +5391,10 @@ A karakter verekedésbe keveredett, és bűntudata van miatta.
 A vétek feledésbe merül: {time}","Бійка
 Персонаж вплутався в бійку й почувається винним у цьому.
 
-Гріх буде забутий через {time}","Fight
-The character got into a fight and feels guilty about it.
+Гріх буде забутий через {time}","Đánh nhau
+Nhân vật đã tham gia vào một cuộc ẩu đả và cảm thấy tội lỗi về điều đó.
 
-The sin will be forgotten in: {time}"
+Tội lỗi sẽ bị lãng quên trong: {time}"
 hint_sin_forbidden_sex,Forbidden sex,"Порочный секс
 Персонаж переспал с кем-то за деньги. Это плохо, очень плохо.
 
@@ -5446,10 +5446,10 @@ A karakter fizetett szexuális aktust létesített. Ez erkölcsileg helytelen.
 A vétek feledésbe merül: {time}","Аморальний секс
 Персонаж надає платні сексуальні послуги. Це аморально.
 
-Гріх буде забутий через {time}","Immoral sex
-The character engaged in paid sexual activities. This is morally wrong.
+Гріх буде забутий через {time}","Quan hệ tình dục phi đạo đức
+Nhân vật đã tham gia vào các hoạt động tình dục có trả tiền. Đây là hành động phi đạo đức.
 
-The sin will be forgotten in: {time}"
+Tội lỗi sẽ bị lãng quên trong: {time}"
 hint_slave_roped,Roped,"Связан
 Персонаж связан и ожидает своей участи. 
 
@@ -5501,10 +5501,10 @@ A karakter meg van kötözve, és várja, mi lesz vele.
 Nemsokára <hint=hint_persons_slave>fogoly</hint> lesz.","Зв'язано
 Персонаж зв’язаний і чекає своєї долі.
 
-Невдовзі персонаж стане <hint=hint_persons_slave>в'язнем</hint>.","Bound
-The character is bound and awaits their fate.
+Невдовзі персонаж стане <hint=hint_persons_slave>в'язнем</hint>.","Bị trói
+Nhân vật bị trói và chờ đợi số phận của mình.
 
-Soon, they will become a <hint=hint_persons_slave>prisoner</hint>."
+Chẳng bao lâu nữa, họ sẽ trở thành một <hint=hint_persons_slave>tù nhân</hint>."
 hint_slowness,Retardation,"Сотрясение
 В результате удара по голове персонаж потерял ориентацию в пространстве
 
@@ -5607,13 +5607,13 @@ Véget ér: {time}.","Струс мозку
 $ Рівень навички <hint=hint_skill_combat>«Ведення бою»</hint> наполовину знижується.
 $ Рухи вповільнені.
 
-Завершиться через {time}.","Concussion
-Due to a blow to the head, the character has lost their sense of spatial orientation.
+Завершиться через {time}.","Chấn động não
+Do bị đánh vào đầu, nhân vật đã mất cảm giác về không gian.
 
-$ <hint=hint_skill_combat>Combat skill</hint> is reduced by half.
-$ Movement speed is decreased.
+$ <hint=hint_skill_combat>Kỹ năng chiến đấu</hint> giảm một nửa.
+$ Tốc độ di chuyển giảm.
 
-It will end in: {time}."
+Sẽ kết thúc sau: {time}."
 hint_starvation,Starvation,"Сильное голодание
 Пока это нестрашно, но скоро может привести к истощению, а потом и к смерти от голода
 
@@ -5665,10 +5665,10 @@ Bár jelenleg nem veszélyes, hamarosan beteges soványsághoz és végül éhha
 A beteges soványság beáll: {time}.","Сильний голод
 Хоча нині небезпека відсутня, незабаром це може призвести до виснаження і, зрештою, смерті від голоду.
 
-Виснаження настане через {time}.","Severe hunger
-While it is not dangerous at the moment, it can soon lead to emaciation and eventually death from starvation.
+Виснаження настане через {time}.","Cơn đói nghiêm trọng
+Hiện tại không nguy hiểm, nhưng có thể sớm dẫn đến suy dinh dưỡng và cuối cùng là chết đói.
 
-Emaciation in: {time}."
+Suy dinh dưỡng sau: {time}."
 hint_stunning,Stunning,"Оглушен
 Персонаж оглушен в результате удара. После того, как очнется, еще некоторое время он будет замедлен.
 
@@ -5720,10 +5720,10 @@ A karakter egy ütés következtében elkábult. Miután visszanyeri az eszméle
 Az eszméletét visszanyeri: {time}.","Приголомшення
 Персонаж приголомшений внаслідок удару. Після того, як персонаж прийде до тями, дії будуть уповільнені на деякий час.
 
-Персонаж прийде до тями через {time}.","Stunned
-The character is stunned as a result of a blow. After regaining consciousness, they will be slowed down for some time.
+Персонаж прийде до тями через {time}.","Bị choáng
+Nhân vật bị choáng do cú đánh. Sau khi tỉnh lại, họ sẽ bị chậm lại trong một thời gian.
 
-Regains consciousness in: {time}."
+Tỉnh lại sau: {time}."
 hint_terror_peasant,Terrors victim,"Жертва террора
 [hint_terror_peasants]
 
@@ -5775,10 +5775,10 @@ Bitmesine kalan süre: {time}.","Terror áldozata
 Véget ér: {time}.","Жертва терору
 [hint_terror_peasants]
 
-Завершиться через {time}.","Terror victim
+Завершиться через {time}.","Nạn nhân hoảng loạn
 [hint_terror_peasants]
 
-Ends in: {time}."
+Kết thúc sau: {time}."
 hint_terror_lord,Terrors victim,"Жертва террора
 [hint_terror_lord]
 
@@ -5830,10 +5830,10 @@ Bitmesine kalan süre: {time}","Terror áldozata
 Véget ér: {time}","Жертва терору
 [hint_terror_lord]
 
-Завершиться через {time}","Terror victim
-[hint_terror_lord]
+Завершиться через {time}","Nạn nhân hoảng loạn
+[hint_terror_peasants]
 
-Ends in: {time}"
+Kết thúc sau: {time}."
 hint_unconscious,Unconscious,"Без сознания
 [hint_uncons]
 
@@ -5885,10 +5885,10 @@ Ayılmasına kalan süre: {time}.","Eszméletlen
 Az eszméletét visszanyeri: {time}.","Втрата свідомості
 [hint_uncons]
 
-Персонаж прийде до тями через {time}.","Unconscious
+Персонаж прийде до тями через {time}.","Bất tỉnh
 [hint_uncons]
 
-Will regain consciousness in: {time}."
+Sẽ tỉnh lại sau: {time}."
 hint_captive,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,
 hint_scars,Scars,"Шрамы
@@ -5908,8 +5908,8 @@ $ Réduit de <red>{number2}</red> l'<hint=hint_interest>intérêt</hint> porté 
 $ <hint=hint_interest>Interesse</hint> per il personaggio <red>{number2}</red>","Yaralı
 $ Karaktere duyulan <hint=hint_interest>ilgi</hint> <red>{number2}</red> oldu.","Sebhelyes
 $ <hint=hint_interest>Érdeklődés</hint> a karakter iránt: <red>{number2}</red>","Шрами
-$ <hint=hint_interest>Зацікавленість</hint> персонажем <red>{number2}</red>","Scarred
-$ <hint=hint_interest>Interest</hint> in the character <red>{number2}</red>"
+$ <hint=hint_interest>Зацікавленість</hint> персонажем <red>{number2}</red>","Sẹo
+$ Giảm <hint=hint_interest>sự quan tâm</hint> đối với nhân vật xuống <red>{number2}</red>."
 ,,,,,,,,,,,,,,,,,,,
 hint_plague,Stinking plague,"Зловонная чума
 [hint_plague]
@@ -5962,10 +5962,10 @@ Morte tra: {time}","Pis Veba
 Halál beállta: {time}","Сморідна чума
 [hint_plague]
 
-Смерть настане через {time}","Foul plague
+Смерть настане через {time}","Dịch bệnh nghiêm trọng
 [hint_plague]
 
-Death in: {time}"
+Còn lại cho đến khi chết: {time}"
 hint_syphilis,Syphilis,,,,,,,,,,,,,,,,,,
 hint_madness,Белая ярость,,,,,,,,,,,,,,,,,,
 hint_healed,Получил уход в больнице,"Больничный уход
@@ -5985,8 +5985,8 @@ Une blessure traitée dans un hôpital guérira beaucoup plus vite.","Assistenza
 Dopo aver ricevuto le cure mediche in ospedale, i tempi di recupero e di guarigione delle ferite si riducono notevolmente.","Hastanede Tedavi
 Hastanede tedavi aldıktan sonra yaraların iyileşmesi ve toparlanma süresi önemli ölçüde azalır.","Ellátás ispotályban
 Az ispotályban kapott orvosi ellátás után a felépülés és a sebek gyógyulási ideje jelentősen csökken.","Догляд у лазареті
-Після надання медичної допомоги в лікарні час відновлення й загоєння ран значно скорочується.","Hospital care
-After receiving medical care at the hospital, the recovery and healing time of wounds is significantly reduced."
+Після надання медичної допомоги в лікарні час відновлення й загоєння ран значно скорочується.","Chăm sóc sức khỏe
+Sau khi được chăm sóc y tế tại bệnh viện, thời gian hồi phục và lành vết thương được rút ngắn đáng kể."
 trait_clean,Помылся в бае,"Помылся
 На время действия персонаж защищен от <hint=hint_vshi>вшей</hint> а также имеет бонус к <hint=hint_interest>интересу</hint>","Cleaned up
 The character is briefly protected from <hint=hint_vshi>lice</hint> and also gains a bonus to <hint=hint_interest>interest</hint>.","Cleaned up
@@ -6004,8 +6004,8 @@ Le personnage est brièvement protégé des <hint=hint_vshi>poux</hint>. Il obti
 Il personaggio è protetto per un breve periodo dai <hint=hint_vshi>pidocchi</hint> e guadagna un bonus all'<hint=hint_interest>interesse</hint>.","Temizlik
 Karakter <hint=hint_vshi>bitlere</hint> karşı korunur ve <hint=hint_interest>ilgi</hint> bonusu kazanır.","Tiszta
 A karakter rövid időre védve van a <hint=hint_vshi>tetvektől</hint>, valamint bónuszt kap az <hint=hint_interest>érdeklődésre</hint>.","Чистота
-Персонажа на короткий час захищено від <hint=hint_vshi>вошей</hint>. Персонаж отримує бонус до <hint=hint_interest>зацікавленості</hint>.","Cleaned up
-The character is briefly protected from <hint=hint_vshi>lice</hint> and also gains a bonus to <hint=hint_interest>interest</hint>."
+Персонажа на короткий час захищено від <hint=hint_vshi>вошей</hint>. Персонаж отримує бонус до <hint=hint_interest>зацікавленості</hint>.","Thân thể trong sạch
+Nhân vật được tạm thời bảo vệ khỏi <hint=hint_vshi>rận</hint>, đồng thời nhận được phần thưởng là thu hút <hint=hint_interest>sự quan tâm</hint> của người khác."
 hint_vshi,Вши,{hint_vshi},{hint_vshi},{hint_vshi},{hint_vshi},{hint_vshi},{hint_vshi},{hint_vshi},{hint_vshi},{hint_vshi},{hint_vshi},{hint_vshi},{hint_vshi},{hint_vshi},{hint_vshi},{hint_vshi},{hint_vshi},{hint_vshi},{hint_vshi}
 ,,,,,,,,,,,,,,,,,,,
 ,ВРОЖДЕННЫЕ ТРЕЙТЫ,,,,,,,,,,,,,,,,,,
@@ -6026,8 +6026,8 @@ Ces traits sont attribués aléatoirement à la naissance d'un personnage, cela 
 Questi tratti sono assegnati in modo casuale al personaggio alla nascita e non possono essere modificati.","Kalıtımsal Özellikler
 Bu özellikler karaktere doğumda rastgele verilir ve değiştirilemez.","Veleszületett jellemvonások
 Ezeket a jellemvonásokat születésekor találomra kapja a karakter, és nem változtathatók meg.","Вроджені риси
-Ці риси випадково призначаються персонажу при народженні та не можуть бути змінені.","Inborn traits
-These traits are randomly assigned to a character at birth and cannot be changed."
+Ці риси випадково призначаються персонажу при народженні та не можуть бути змінені.","Đặc điểm bẩm sinh
+Những đặc điểm này được gán ngẫu nhiên cho một nhân vật ngay từ khi sinh ra và không thể thay đổi."
 hint_genetics,,"~
 Причина: <hint=hint_genetics_desc>врожденная</hint> черта","~
 Reason: <hint=hint_genetics_desc>Inherited</hint> trait","~
@@ -6046,7 +6046,7 @@ Motivo: tratto <hint=hint_genetics_desc>ereditato</hint>","~
 Nedeni: <hint=hint_genetics_desc>Kalıtımsal</hint> özellik.","~
 Az oka: <hint=hint_genetics_desc>Öröklött</hint> jellemvonás","~
 Причина: <hint=hint_genetics_desc>вроджена</hint> риса","~
-Reason: <hint=hint_genetics_desc>Inherited</hint> trait"
+Lý do: <hint=hint_genetics_desc>Đặc điểm thừa kế</hint>"
 hint_beauty_beautyful,15,"Красивый
 Повышает <hint=hint_interest>интерес</hint> к персонажу со стороны других персонажей на {beauty}","Beautiful
 Increases <hint=hint_interest>interest</hint> in the character from other characters by {beauty}.","Beautiful
@@ -6064,8 +6064,8 @@ Augmente de {beauty} l'<hint=hint_interest>intérêt</hint> que les autres porte
 Aumenta l'<hint=hint_interest>interesse</hint> per il personaggio da parte degli altri personaggi di {beauty}.","Hoş
 Karaktere diğer karakterler tarafından duyulan <hint=hint_interest>ilgi</hint> {beauty} artar.","Kellemes
 Más karakterek a karakter iránti <hint=hint_interest>érdeklődését</hint> {beauty} ponttal növeli.","Приємність
-Підвищує <hint=hint_interest>зацікавленість</hint> інших персонажів у персонажі: {beauty}.","Beautiful
-Increases <hint=hint_interest>interest</hint> in the character from other characters by {beauty}."
+Підвищує <hint=hint_interest>зацікавленість</hint> інших персонажів у персонажі: {beauty}.","Đẹp
+Tăng <hint=hint_interest>mức độ quan tâm</hint> của các nhân vật khác đối với nhân vật này lên {beauty}."
 hint_beauty_pretty,30,"Симпатичный
 Повышает <hint=hint_interest>интерес</hint> к персонажу со стороны других персонажей на {beauty}","Attractive
 Increases <hint=hint_interest>interest</hint> in the character from other characters by {beauty}.","Attractive
@@ -6083,8 +6083,8 @@ Augmente de {beauty} l'<hint=hint_interest>intérêt</hint> que les autres porte
 Aumenta l'<hint=hint_interest>interesse</hint> per il personaggio da parte degli altri personaggi di {beauty}.","Çekici
 Karaktere diğer karakterler tarafından duyulan <hint=hint_interest>ilgi</hint> {beauty} artar.","Vonzó
 Más karakterek a karakter iránti <hint=hint_interest>érdeklődését</hint> {beauty} ponttal növeli.","Привабливість
-Підвищує <hint=hint_interest>зацікавленість</hint> інших персонажів у персонажі: {beauty}.","Attractive
-Increases <hint=hint_interest>interest</hint> in the character from other characters by {beauty}."
+Підвищує <hint=hint_interest>зацікавленість</hint> інших персонажів у персонажі: {beauty}.","Hấp dẫn
+Tăng <hint=hint_interest>mức độ quan tâm</hint> của các nhân vật khác đối với nhân vật này lên {beauty}."
 hint_beauty_ugly,15,"Некрасивый
 Снижает <hint=hint_interest>интерес</hint> к персонажу со стороны других персонажей на {beauty}","Unattractive
 Reduces <hint=hint_interest>interest</hint> in the character from other characters by {beauty}.","Unattractive
@@ -6102,8 +6102,8 @@ Réduit de {beauty} l'<hint=hint_interest>intérêt</hint> que les autres porten
 Riduce l'<hint=hint_interest>interesse</hint> per il personaggio da parte degli altri personaggi di {beauty}.","Çirkin
 Karaktere diğer karakterler tarafından duyulan <hint=hint_interest>ilgi</hint> {beauty} azalır.","Nem vonzó
 Más karakterek a karakter iránti <hint=hint_interest>érdeklődését</hint> {beauty} ponttal csökkenti.","Непривабливість
-Знижує <hint=hint_interest>зацікавленість</hint> інших персонажів у персонажі: {beauty}.","Unattractive
-Reduces <hint=hint_interest>interest</hint> in the character from other characters by {beauty}."
+Знижує <hint=hint_interest>зацікавленість</hint> інших персонажів у персонажі: {beauty}.","Kém hấp dẫn
+Giảm <hint=hint_interest>mức độ quan tâm</hint> của các nhân vật khác đối với nhân vật này đi {beauty}."
 hint_beauty_unpretty,30,"Несимпатичный
 Снижает <hint=hint_interest>интерес</hint> к персонажу со стороны других персонажей на {beauty}","Homely
 Reduces <hint=hint_interest>interest</hint> in the character from other characters by {beauty}.","Homely
@@ -6121,8 +6121,8 @@ Réduit de {beauty} l'<hint=hint_interest>intérêt</hint> que les autres porten
 Riduce l'<hint=hint_interest>interesse</hint> per il personaggio da parte degli altri personaggi di {beauty}.","Alımsız
 Karaktere diğer karakterler tarafından duyulan <hint=hint_interest>ilgi</hint> {beauty} azalır.","Nem szép
 Más karakterek a karakter iránti <hint=hint_interest>érdeklődését</hint> {beauty} ponttal csökkenti.","Посередність
-Знижує <hint=hint_interest>зацікавленість</hint> інших персонажів у персонажі: {beauty}.","Homely
-Reduces <hint=hint_interest>interest</hint> in the character from other characters by {beauty}."
+Знижує <hint=hint_interest>зацікавленість</hint> інших персонажів у персонажі: {beauty}.","Kém ưa nhìn
+Giảm <hint=hint_interest>mức độ quan tâm</hint> của các nhân vật khác đối với nhân vật này đi {beauty}."
 hint_early_bald,10,"Ранее облысение
 Большая вероятность <hint=hint_baldt>облысеть</hint> раньше срока","Early balding
 There is a high chance of experiencing <hint=hint_baldt>baldness</hint> earlier than usual.","Early balding
@@ -6140,8 +6140,8 @@ Le personnage a de grandes chances de développer une <hint=hint_baldt>calvitie<
 C'è un'alta probabilità che la <hint=hint_baldt>calvizie</hint> si manifesti prima del solito.","Erken Kelleşme
 Normalden daha erken <hint=hint_baldt>kelleşme</hint> yaşama ihtimali yüksektir.","Korai kopaszodás
 Nagy az esélye, hogy a <hint=hint_baldt>kopaszodás</hint> a szokásosnál korábban jelentkezik.","Передчасне лисіння
-Існує висока ймовірність <hint=hint_baldt>облисіння</hint> раніше, ніж зазвичай.","Early balding
-There is a high chance of experiencing <hint=hint_baldt>baldness</hint> earlier than usual."
+Існує висока ймовірність <hint=hint_baldt>облисіння</hint> раніше, ніж зазвичай.","Hói sớm
+Có khả năng cao bị <hint=hint_baldt>hói</hint> sớm hơn bình thường."
 hint_stupidity,15,"Тугодумие
 - 50% получаемого опыта при <hint=hint_learning>обучении</hint>, но при этом постоянная положительная мысль","Mental impairment
 - 50% of experience gained from <hint=hint_learning>learning</hint>, but with a constant positive thought.","Mental impairment
@@ -6159,8 +6159,8 @@ Le personnage obtient -50 % d'expérience lorsqu'il <hint=hint_learning>étudie<
 -50% di esperienza acquisita con lo <hint=hint_learning>studio</hint>, ma con un pensiero positivo costante.","Aptallık
 <hint=hint_learning>Öğrenmeden</hint> %50 daha az tecrübe kazanılır ancak sürekli bir olumlu düşünceye sahip olur.","Ostobaság
 -50% a <hint=hint_learning>tanulás</hint> során szerzett tapasztalatra, de van egy állandó pozitív gondolata.","Дурість
--50% досвіду, отриманого в результаті <hint=hint_learning>навчання</hint>, але з постійно позитивною думкою.","Mental impairment
-- 50% of experience gained from <hint=hint_learning>learning</hint>, but with a constant positive thought."
+-50% досвіду, отриманого в результаті <hint=hint_learning>навчання</hint>, але з постійно позитивною думкою.","Suy giảm trí tuệ
+- Giảm 50% kinh nghiệm thu được từ <hint=hint_learning>học tập</hint>, nhưng luôn có một suy nghĩ tích cực."
 hint_hard_childbirth,10,"Тяжелые роды
 Шанс на смерть во время родов выше","Difficult childbirth
 There is a higher chance of death during childbirth.","Difficult childbirth
@@ -6178,8 +6178,8 @@ L'enfant et la mère ont plus de chances de mourir lors de l'accouchement.","Par
 C'è una maggiore probabilità di morte durante il parto.","Zor Doğum
 Doğumda annenin ölme riski yüksektir.","Nehéz szülés
 Nagyobb az esélye a szülés közbeni halálnak.","Ускладнені пологи
-Існує більша ймовірність смерті під час пологів.","Difficult childbirth
-There is a higher chance of death during childbirth."
+Існує більша ймовірність смерті під час пологів.","Sinh khó
+Có nguy cơ tử vong cao hơn trong quá trình sinh con."
 hint_low_fertility,15,"Низкая фертильность
 Шанс забеременеть на 30% ниже","Low fertility
 The chance of getting pregnant is 30% lower.","Low fertility
@@ -6197,8 +6197,8 @@ Le personnage a 30 % moins de chances de mener une grossesse.","Fertilità bassa
 La probabilità di rimanere incinta è inferiore del 30%.","Düşük Doğurganlık
 Hamilelik şansı %30 daha azdır.","Alacsony fogamzóképesség
 A teherbeesés esélye 30%-kal kisebb.","Низька фертильність
-Шанс завагітніти на 30% нижчий.","Low fertility
-The chance of getting pregnant is 30% lower."
+Шанс завагітніти на 30% нижчий.","Khả năng sinh sản thấp
+Khả năng mang thai giảm 30%."
 hint_high_fertility,15,"Высокая фертильность
 Шанс забеременеть на 30% выше","High fertility
 The chance of getting pregnant is 30% higher.","High fertility
@@ -6216,8 +6216,8 @@ Le personnage a 30 % plus de chances de mener une grossesse.","Fertilità elevat
 La probabilità di rimanere incinta è superiore del 30%.","Yüksek Doğurganlık
 Hamilelik şansı %30 daha fazladır.","Magas fogamzóképesség
 A teherbeesés esélye 30%-kal nagyobb.","Висока фертильність
-Шанс завагітніти на 30% вищий.","High fertility
-The chance of getting pregnant is 30% higher."
+Шанс завагітніти на 30% вищий.","Khả năng sinh sản cao
+Khả năng mang thai tăng 30%."
 hint_gay,7,"Гей
 Влюбляются в людей своего пола","Gay
 Falls in love with people of their own gender.","Gay
@@ -6235,8 +6235,8 @@ Le personnage est attiré par des personnages du même genre que lui.","Omosessu
 Si innamora di persone del proprio sesso.","Eş Cinsel
 Hemcinsine âşık olur.","Meleg
 A saját nemének képviselőibe szeret bele.","Гомосексуальність
-Закохується в людей своєї статі.","Gay
-Falls in love with people of their own gender."
+Закохується в людей своєї статі.","Đồng tính
+Yêu người cùng giới."
 hint_savant,5,"Савант
 Очень высокое развитие одного или двух навыков, но при этом необучаем.","Savant
 Has very high proficiency in one or two skills, but they cannot be trained further.","Savant
@@ -6254,8 +6254,8 @@ Le personnage est particulièrement doué dans une ou deux compétences, mais ne
 Ha una competenza molto alta in una o due abilità, ma non può ricevere ulteriore addestramento.","Âlim
 Bir veya iki beceride uzman olur ancak daha fazla eğitilemezler.","Tudós
 Egy vagy két képességben nagyon magas szintű jártassággal rendelkezik, de ez nem képezhető tovább.","Ученість
-Володіє дуже високим рівнем майстерності в одній або двох навичках, але персонажа не можна навчати далі.","Savant
-Has very high proficiency in one or two skills, but they cannot be trained further."
+Володіє дуже високим рівнем майстерності в одній або двох навичках, але персонажа не можна навчати далі.","Thiên tài
+Có năng khiếu rất cao ở một hoặc hai kỹ năng, nhưng không thể rèn luyện thêm được nữa."
 hint_bald,,"Лысый
 -20 к <hint=hint_interest>интересу</hint>","Bald
 -20 to <hint=hint_interest>interest</hint>.","Bald
@@ -6273,8 +6273,8 @@ Réduit de -20 l'<hint=hint_interest>intérêt</hint> que les autres portent au 
 -20 all'<hint=hint_interest>interesse</hint>.","Kel
 <hint=hint_interest>İlgi</hint> 20 azalır.","Kopasz
 -20 az <hint=hint_interest>érdeklődésre</hint>.","Лисина
-– 20 до <hint=hint_interest>зацікавленості</hint>.","Bald
--20 to <hint=hint_interest>interest</hint>."
+– 20 до <hint=hint_interest>зацікавленості</hint>.","Hói đầu
+-20 vào <hint=hint_interest>sự quan tâm</hint>."
 ,ДЕТСКИЕ ТРЕЙТЫ,,,,,,,,,,,,,,,,,,
 hint_childhood_desc,,"Детство
 Счастливое или несчастливое детство тем, каких дней - счастливых или несчастных - было в жизни персонажа больше до {age_adult} лет.","Childhood
@@ -6293,8 +6293,8 @@ Une enfance heureuse ou malheureuse est déterminée par le nombre de jours pend
 Un'infanzia felice o infelice è determinata dal numero di giorni felici o infelici nella vita del personaggio tra 0 e 13 anni.","Çocukluk
 Mutlu veya mutsuz bir çocukluk geçirmek, karakterin 0 ila 13 yaş arasındaki mutlu ve mutsuz günlerinin sayısına bağlıdır.","Gyermekkor
 Azt, hogy a karakternek boldog vagy boldogtalan gyermekkora van, élete első 13 évében az elégedett és elégedetlen napok száma határozza meg.","Дитинство
-Щасливе або нещасливе дитинство визначається кількістю щасливих й нещасливих днів у житті персонажа у віці від 0 до 13 років.","Childhood
-The quality of a character's childhood is determined by the number of happy or unhappy days in the character's life before they turn {age_adult}."
+Щасливе або нещасливе дитинство визначається кількістю щасливих й нещасливих днів у житті персонажа у віці від 0 до 13 років.","Thời thơ ấu
+Chất lượng thời thơ ấu của một nhân vật được xác định bởi số ngày hạnh phúc hoặc không hạnh phúc trong cuộc đời của nhân vật trước khi họ đạt đến tuổi {age_adult}."
 hint_childhood_bad,,"~
 Причина: несчастливое <hint=hint_childhood_desc>детство</hint>","~
 Reason: unhappy <hint=hint_childhood_desc>childhood</hint>.","~
@@ -6313,7 +6313,7 @@ Motivo: <hint=hint_childhood_desc>infanzia</hint> infelice.","~
 Nedeni: <hint=hint_childhood_desc>Mutsuz</hint> çocukluk.","~
 Az oka: boldogtalan <hint=hint_childhood_desc>gyermekkor</hint>.","~
 Причина: нещасливе <hint=hint_childhood_desc>дитинство</hint>.","~
-Reason: unhappy <hint=hint_childhood_desc>childhood</hint>."
+Lý do: thời thơ ấu <hint=hint_childhood_desc>không hạnh phúc</hint>."
 hint_childhood_good,,"~
 Причина: счастливое <hint=hint_childhood_desc>детство</hint>","~
 Reason: happy <hint=hint_childhood_desc>childhood</hint>.","~
@@ -6332,7 +6332,7 @@ Motivo: <hint=hint_childhood_desc>infanzia</hint> felice.","~
 Nedeni: <hint=hint_childhood_desc>Mutlu</hint> çocukluk.","~
 Az oka: boldog <hint=hint_childhood_desc>gyermekkor</hint>.","~
 Причина: щасливе <hint=hint_childhood_desc>дитинство</hint>.","~
-Reason: happy <hint=hint_childhood_desc>childhood</hint>."
+Lý do: thời thơ ấu <hint=hint_childhood_desc>hạnh phúc</hint>."
 hint_parent_trait,,"~
 
 Причина: наследовано от родителя {parent}","~
@@ -6369,7 +6369,7 @@ Az oka: {parent} szülőjétől örökölte","~
 
 Причина: успадковано від батьків {parent}","~
 
-Reason: inherited from parent {parent}"
+Lý do: thừa hưởng từ cha mẹ {parent}"
 hint_nervous,,"Нервный
 Все <hint=hint_tantrum>нервные срывы</hint> тяжелые","Nervous
 All <hint=hint_tantrum>nervous breakdowns</hint> are severe.","Nervous
@@ -6387,8 +6387,8 @@ Toutes les <hint=hint_tantrum>dépressions nerveuses</hint> sont graves.","Nervo
 Tutti gli <hint=hint_tantrum>esaurimenti nervosi</hint> sono gravi.","Gergin
 Tüm <hint=hint_tantrum>sinir krizleri</hint> şiddetli geçer.","Ideges
 Minden <hint=hint_tantrum>idegösszeomlása</hint> súlyos.","Нервовість
-Усі <hint=hint_tantrum>нервові зриви</hint> серйозні.","Nervous
-All <hint=hint_tantrum>nervous breakdowns</hint> are severe."
+Усі <hint=hint_tantrum>нервові зриви</hint> серйозні.","Lo lắng
+Mọi <hint=hint_tantrum>suy sụp tinh thần</hint> đều sẽ nghiêm trọng."
 hint_calm,,"Спокойный
 Все <hint=hint_tantrum>нервные срывы</hint> легкие","Calm
 All <hint=hint_tantrum>nervous breakdowns</hint> are light.","Calm
@@ -6406,8 +6406,8 @@ Toutes les <hint=hint_tantrum>dépressions nerveuses</hint> sont légères.","Ca
 Tutti gli <hint=hint_tantrum>esaurimenti nervosi</hint> sono leggeri.","Sakin
 Tüm <hint=hint_tantrum>sinir krizleri</hint> hafif geçer.","Nyugodt
 Minden <hint=hint_tantrum> idegösszeomlása</hint> enyhe.","Спокійність
-Усі <hint=hint_tantrum> нервові зриви</hint> несерйозні.","Calm
-All <hint=hint_tantrum>nervous breakdowns</hint> are light."
+Усі <hint=hint_tantrum> нервові зриви</hint> несерйозні.","Điềm tĩnh
+Mọi <hint=hint_tantrum>suy sụp tinh thần</hint> sẽ ở mức độ nhẹ."
 hint_addiction_resist,,"Устойчивость к зависимостям
 Вероятность получения зависимостей меньше.","Resistance to addictions
 The likelihood of developing addictions is reduced.","Resistance to addictions
@@ -6425,8 +6425,8 @@ Le personnage a moins de risques de développer des dépendances.","Resistenza a
 Si riduce la probabilità di sviluppare dipendenze.","Bağımlılığa Direnç
 Bağımlılık olasılığı azalır.","Ellenállás a függőséggel szemben
 A függőség kialakulásának valószínűsége csökken.","Стійкість до залежностей
-Знижується ймовірність розвитку залежностей.","Resistance to addictions
-The likelihood of developing addictions is reduced."
+Знижується ймовірність розвитку залежностей.","Chống nghiện
+Giảm khả năng gây nghiện."
 hint_empath,,"Эмпат
 Социальные мысли усилены","Empathetic
 Social thoughts are enhanced.","Empathetic
@@ -6444,8 +6444,8 @@ Les impressions relationnelles sont plus intenses.","Empatia
 I pensieri sociali migliorano.","Anlayışlı
 Sosyal düşünceleri gelişir.","Együttérző
 A szociális gondolatai erősebbek.","Емпатія
-Соціальні думки покращуються.","Empathetic
-Social thoughts are enhanced."
+Соціальні думки покращуються.","Có sự đồng cảm
+Suy nghĩ xã hội mạnh mẽ hơn."
 hint_strong_will,,"Сильная воля
 Работает когда несчастен","Strong willpower
 Works when unhappy.","Strong willpower
@@ -6463,8 +6463,8 @@ Le personnage travaille même lorsqu'il est maussade.","Forza di volontà maggio
 Funziona quando è infelice.","Güçlü İrade
 Mutsuzken çalışır.","Erős akaraterő
 Akkor is dolgozik, ha elégedetlen.","Сильна сила волі
-Персонаж працює, коли невдоволений.","Strong willpower
-Works when unhappy."
+Персонаж працює, коли невдоволений.","Ý chí mạnh mẽ
+Có tác dụng khi không vui."
 hint_brave,,"Безрассудный
 Порог смелости выше","Reckless
 Has a higher threshold for bravery.","Reckless
@@ -6482,8 +6482,8 @@ Le seuil de courage du personnage est plus élevé.","Avventatezza
 Ha una soglia di coraggio più elevata.","Pervasız
 Cesaret sınırı daha yüksektir.","Vakmerő
 Magasabb a bátorságküszöbe.","Нерозважливість
-Має вищий поріг хоробрості.","Reckless
-Has a higher threshold for bravery."
+Має вищий поріг хоробрості.","Liều lĩnh
+Có ngưỡng dũng cảm cao hơn."
 hint_monogam,,"Однолюб
 Влюбляется один раз и навсегда","Monogamous
 Falls in love once and for all.","Monogamous
@@ -6501,8 +6501,8 @@ Le personnage ne tombe amoureux qu'une fois.","Monogamia
 Si innamora una sola volta e per sempre.","Tek Eşli
 Yalnızca bir kişiye âşık olur.","Monogám
 Egyszer esik szerelembe.","Моногамність
-Закохується раз і назавжди.","Monogamous
-Falls in love once and for all."
+Закохується раз і назавжди.","Một vợ một chồng
+Cả đời chỉ yêu một lần thôi."
 hint_suggestible,,"Внушаемый
 Мысли о друзей и врагах друзей и врагов сильнее","Easily influenced
 Thoughts about friends and enemies of friends and enemies are stronger.","Easily influenced
@@ -6520,8 +6520,8 @@ L'adage « Les ennemi·e·s de mes ennemi·e·s sont mes ami·e·s » est d'auta
 I pensieri su amici e nemici di amici e nemici sono più forti.","Kolayca Etkilenir
 Arkadaşları, arkadaşlarının düşmanları ve kendi düşmanları hakkındaki düşünceleri daha güçlüdür.","Könnyen befolyásolható
 A barátai és ellenségei barátairól és ellenségeiről alkotott gondolatai erősebbek.","Легко піддається впливу
-Думки про друзів і ворогів сильніші.","Easily influenced
-Thoughts about friends and enemies of friends and enemies are stronger."
+Думки про друзів і ворогів сильніші.","Dễ bị ảnh hưởng
+Những suy nghĩ về bạn bè và kẻ thù của bạn bè và kẻ thù mạnh mẽ hơn."
 hint_addiction_low_resist,,"Склонность к зависимостям
 Выше шанс получение зависимости","Tendency to addiction
 Higher chance of developing dependencies.","Tendency to addiction
@@ -6539,8 +6539,8 @@ Le personnage a plus de risques de développer des dépendances.","Propensione a
 Maggiore probabilità di sviluppare dipendenze.","Bağımlılık Yatkınlığı
 Bağımlılık olasılığı daha yüksektir.","Függőségre hajlamos
 Nagyobb az esélye a függőségek kialakulásának.","Схильність до залежностей
-Вища ймовірність розвитку залежності.","Tendency to addiction
-Higher chance of developing dependencies."
+Вища ймовірність розвитку залежності.","Có xu hướng nghiện
+Có khả năng phát triển các thói quen nghiện cao hơn."
 hint_home_tyran,,"Домашний тиран
 При нервном срыве чаще всего бьет супруга или детей","Domestic tyrant
 During a nervous breakdown, more likely to engage in physical violence toward spouse or children.","Domestic tyrant
@@ -6558,8 +6558,8 @@ Lors d'une dépression nerveuse, le personnage a plus de chances de commettre de
 Durante un esaurimento nervoso, è più probabile che eserciti violenza fisica nei confronti del coniuge o della prole.","Aile İçi Zorbalık
 Sinir krizi sırasında eşine ve çocuklarına fiziksel şiddette bulunma olasılığı daha yüksektir.","Családon belüli zsarnok
 A dührohamai során nagyobb valószínűséggel alkalmaz fizikai erőszakot a házastársával vagy gyermekeivel szemben.","Сімейна тиранія
-Під час істерики частіше вдається до фізичного насильства по відношенню до подружжя або дітей.","Domestic tyrant
-During a nervous breakdown, more likely to engage in physical violence toward spouse or children."
+Під час істерики частіше вдається до фізичного насильства по відношенню до подружжя або дітей.","Bạo lực gia đình
+Khi một người mất bình tĩnh, họ có nhiều khả năng hành hung vợ/chồng hoặc con cái của mình."
 hint_lustful,,"Похотливый
 <hint=hint_need_sex>Потребность в сексе</hint> растет в 2 раза быстрее","Lustful
 <hint=hint_need_sex>The need for sex</hint> increases twice as fast","Lustful
