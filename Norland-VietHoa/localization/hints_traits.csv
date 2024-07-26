@@ -6577,8 +6577,8 @@ Le <hint=hint_need_sex>besoin de forniquer</hint> du personnage augmente deux fo
 <hint=hint_need_sex>Il bisogno di sesso</hint> aumenta due volte più velocemente.","Şehvetli
 <hint=hint_need_sex>Cinsel ihtiyacı</hint> iki kat hızlı artar.","Kéjvágyó
 A <hint=hint_need_sex>szex iránti szükséglete</hint> kétszer olyan gyorsan nő.","Хтивість
-<hint=hint_need_sex>Потреба в сексі</hint> зростає щонайменше вдвічі","Lustful
-<hint=hint_need_sex>The need for sex</hint> increases twice as fast"
+<hint=hint_need_sex>Потреба в сексі</hint> зростає щонайменше вдвічі","Dục vọng
+<hint=hint_need_sex>Nhu cầu tình dục</hint> tăng nhanh gấp đôi"
 hint_envious,,"Завистливый
 Чаще завидует другим","Envious
 More prone to feeling envious toward others.","Envious
@@ -6596,8 +6596,8 @@ Le personnage a plus tendance à être envieux des autres.","Invidia
 Più incline a provare invidia nei confronti degli altri.","Haset
 Diğer karakterleri kıskanmaya yatkındır.","Irigy
 Sokkal inkább hajlamos irigységet érezni másokkal szemben.","Заздрість
-Має схильність заздрити іншим.","Envious
-More prone to feeling envious toward others."
+Має схильність заздрити іншим.","Ghen tị
+Dễ cảm thấy ghen tị với người khác hơn."
 hint_cynic,,"Циник
 Социальные мысли слабее как и мысли о смерти близких","Cynical
 Social thoughts are weaker, as well as thoughts about the death of loved ones.","Cynical
@@ -6615,8 +6615,8 @@ Les impressions relationnelles et les impressions liées à la mort des êtres a
 I pensieri sociali sono più deboli, così come i pensieri sulla morte dei propri cari.","Alaycı
 Sosyal düşünceleri ve sevdiklerinin ölmesi durumunda düşünceleri daha zayıf olur.","Cinikus
 A szociális gondolatai, valamint a szerettei halálával kapcsolatos gondolatai gyengébbek.","Цинічність
-Соціальні думки слабші, як і думки про смерть близьких.","Cynical
-Social thoughts are weaker, as well as thoughts about the death of loved ones."
+Соціальні думки слабші, як і думки про смерть близьких.","Hoài nghi
+Những suy nghĩ xã hội yếu hơn, cũng như những suy nghĩ về cái chết của người thân."
 hint_gambler,,"Азартный
 Плохая мысль, если долго не играл. Мысли от выигрыша и проигрыша усилены","Gambling addiction
 Gets bad thoughts if they haven't played dice for a long time. Thoughts of winning and losing are intensified.","Gambling addiction
@@ -6634,8 +6634,8 @@ Le personnage ressent des impressions négatives s'il ne joue pas aux dés penda
 Se non gioca a dadi per molto tempo, ha cattivi pensieri. I pensieri sulla vittoria e sulla sconfitta si intensificano.","Kumar Bağımlılığı
 Uzun süre zar atmadığında olumsuz düşüncelere sahip olur. Yenme ve yenilme düşünceleri şiddetlidir.","Szerencsejáték-függőség
 Rossz gondolatokat kap, ha hosszú ideig nem kockázott. A győzelemmel és a vereséggel kapcsolatos gondolatai erősebbek.","Залежність від азартних ігор
-З’являються погані думки, якщо довго не грати в кості. Думки про виграш і поразку підсилені.","Gambling addiction
-Gets bad thoughts if they haven't played dice for a long time. Thoughts of winning and losing are intensified."
+З’являються погані думки, якщо довго не грати в кості. Думки про виграш і поразку підсилені.","Nghiện cờ bạc
+Có những suy nghĩ tiêu cực nếu họ không chơi xúc xắc trong một thời gian dài. Những suy nghĩ về việc thắng và thua trở nên mãnh liệt hơn."
 ,ЖИЗННЕНЫЕ ТРЕЙТЫ,,,,,,,,,,,,,,,,,,
 hint_ascet,,"Аскетичный
 $ Не испытывает мыслей от недостатка или избытка колец
@@ -6688,10 +6688,10 @@ $ Nincsenek azzal kapcsolatban gondolatai, ha kevés vagy épp túl sok Gyűrűj
 <b>Az oka:</b> Hosszú ideig vallási fanatikus volt.","Аскетичність
 $ Не має думок про шлюб або надлишок перснів.
 
-<b>Причина:</b> завзятий релігійний фанатик у минулому.","Ascetic
-$ Does not experience thoughts of lack or excess of rings.
+<b>Причина:</b> завзятий релігійний фанатик у минулому.","Khổ hạnh
+$Sẽ không còn băn khoăn khi thiếu hay thừa Nhẫn Thánh.
 
-<b>Reason:</b> Was a religious fanatic for a long time."
+<b>Lý do:</b> Đã là một người cuồng tín tôn giáo trong một thời gian dài."
 hint_contemptuous,,"Презрительный
 $ +30% что персонаж выберет игнорирование при разговоре
 
@@ -6743,10 +6743,10 @@ $ Beszélgetés közben +30% az esélye, hogy nem vesz tudomást másokról.
 <b>Az oka:</b> Nagy mennyiségű Szent Gyűrű van régóta a birtokában.","Презирство
 $ Імовірність ігнорування інших під час розмови вище на 30%.
 
-<b>Причина:</b> Багато років володіє великою кількістю Священних перснів.","Contemptuous
-$ +30% chance that the character will choose to ignore others during conversations.
+<b>Причина:</b> Багато років володіє великою кількістю Священних перснів.","Kinh thường
+$ +30% cơ hội nhân vật sẽ chọn phớt lờ người khác trong các cuộc trò chuyện.
 
-<b>Cause:</b> Long-time owner of a large number of Holy Rings."
+<b>Lý do:</b> Là chủ sở hữu lâu dài của một số lượng lớn Nhẫn Thánh."
 hint_coward,,"Трус
 $ Негативная мысль у возглавляемого им отряда, 
 $ Негативная мысль о персонаже у других лордов
@@ -6815,11 +6815,11 @@ $ Más nemeseknek negatív gondolata van a karakter iránt.
 $ Негативні думки про персонажа на чолі загону.
 $ Негативна думка інших вельмож про персонажа.
 
-<b>Причина:</b> втеча під час бою.","Coward
-$ Negative thought about the character from the squad they lead.
-$ Negative thought about the character from other lords.
+<b>Причина:</b> втеча під час бою.","Hèn nhát
+$Đội quân do nhân vật này chỉ huy có suy nghĩ tiêu cực về họ.
+$Các lãnh chúa khác có suy nghĩ tiêu cực về nhân vật này.
 
-<b>Cause:</b> Fled during a battle."
+<b>Lý do:</b> Trốn thoát trong trận chiến."
 hint_gluttony,,"Обжорство
 $ Медленнее ходит
 $ Навык боя <red>-5.</red> 
@@ -6905,12 +6905,12 @@ $ Персонаж рухається повільніше.
 $ Навичка ведення бою: <red>-5.</red>
 $ Зацікавленість персонажем: <red>-20</red>.
 
-<b>Причина:</b> персонаж був невдоволеним тривалий час.","Gluttonous
-$ Moves slower.
-$ Combat skill <red>-5.</red>
-$ Interest in the character <red>-20</red>.
+<b>Причина:</b> персонаж був невдоволеним тривалий час.","Tham ăn
+$ Di chuyển chậm hơn.
+$ Kỹ năng chiến đấu <red>-5.</red>
+$ Sự quan tâm đến nhân vật <red>-20</red>.
 
-<b>Cause:</b> Was unhappy for a long time."
+<b>Lý do:</b> Đã không hạnh phúc trong một thời gian dài."
 hint_drug_hater,,"Ненависть к веществам
 $ Ненавидит алкоголиков и наркоманов
 
@@ -6962,10 +6962,10 @@ $ Megveti az alkoholistákat és a drogfüggőket.
 <b>Az oka:</b> Egy hozzá közel álló személy függőségtől szenved.","Ненависть до психоактивних речовин
 $ Персонаж ненавидить алкоголь і наркотики.
 
-<b>Причина:</b> близький персонажа страждає від залежностей.","Hatred of substances
-$ Hates alcoholics and drug addicts.
+<b>Причина:</b> близький персонажа страждає від залежностей.","Ghét chất gây nghiện
+$ Ghét người nghiện rượu và ma túy.
 
-<b>Cause:</b> Someone close is suffering from addiction."
+<b>Nguyên nhân:</b> Có người thân đang bị nghiện."
 hint_misandrist,,"Мизандрист
 $ -20 отношения к мужчинам
 
@@ -7017,10 +7017,10 @@ $ -20 a kapcsolataira a férfiakkal.
 <b>Az oka:</b> Valaki megcsalta, vagy régóta viszonzatlan a szerelme.","Ненависть до чоловіків
 $ Стосунки з чоловіками: – 20.
 
-<b>Причина:</b> цьому персонажеві зрадили або персонаж страждає від нерозділеного кохання тривалий час.","Misandrist
-$ -20 relations with men.
+<b>Причина:</b> цьому персонажеві зрадили або персонаж страждає від нерозділеного кохання тривалий час.","Ghét đàn ông
+$ -20 mối quan hệ với đàn ông.
 
-<b>Cause:</b> Someone betrayed this character or they have long been unrequited in love."
+<b>Nguyên nhân:</b> Có người phản bội nhân vật này hoặc họ đã lâu không được đáp lại tình yêu."
 hint_misagonist,,"Мизагонист
 $ -20 отношения к женщинам
 
@@ -7072,10 +7072,10 @@ $ -20 a kapcsolataira a nőkkel.
 <b>Az oka:</b> Valaki megcsalta, vagy régóta viszonzatlan a szerelme.","Ненависть до жінок
 $ Стосунки з жінками: – 20.
 
-<b>Причина:</b> цьому персонажеві зрадили або персонаж страждає від нерозділеного кохання тривалий час.","Misogynist
-$ -20 relations with women.
+<b>Причина:</b> цьому персонажеві зрадили або персонаж страждає від нерозділеного кохання тривалий час.","Ghét phụ nữ
+$ -20 quan hệ với phụ nữ.
 
-<b>Cause:</b> Someone betrayed this character or they have long been unrequited in love."
+<b>Nguyên nhân:</b> Có người phản bội nhân vật này hoặc họ đã lâu không được đáp lại tình yêu."
 hint_blissful,,"Блаженный
 $ Все любят этого персонажа 
 $ При разговоре восстанавливается <hint=hint_need_piety>праведность</hint> у собеседников. не использует плохое общение
@@ -7144,11 +7144,11 @@ $ A beszélgetések során a beszélgetőpartnerei visszatérnek az igaz útra. 
 $ Цей персонаж подобається всім.
 $ Під час спілкування до співрозмовників повертається праведність. Уникає негативних розмов.
 
-<b>Причина:</b> персонаж пережив нервовий зрив.","Blissful
-$ Everyone loves this character.
-$ <hint=hint_need_piety>Piety</hint> is restored to their interlocutors during conversations. They will avoid engaging in negative communication.
+<b>Причина:</b> персонаж пережив нервовий зрив.","Phúc lành
+$ Mọi người đều yêu quý nhân vật này.
+$ <hint=hint_need_piety>Đức hạnh</hint> được phục hồi cho người đối thoại trong các cuộc trò chuyện. Họ sẽ tránh tham gia vào các cuộc giao tiếp tiêu cực.
 
-<b>Cause:</b> Experienced a nervous breakdown."
+<b>Lý do:</b> Đã trải qua một cơn suy nhược thần kinh."
 hint_early_gray,,"Ранняя седина
 $ <hint=hint_interest>Интерес</hint> к персонажу <red>-10</red>
 
@@ -7200,10 +7200,10 @@ $ <hint=hint_interest>Érdeklődés</hint> a karakter iránt: <red>-10</red>
 <b>Az oka:</b> Idegösszeomlása volt vagy egy hozzá közel álló személy elhunyt.","Передчасне посивіння
 $ <hint=hint_interest>Зацікавленість</hint> персонажем: <red>-10</red>
 
-<b>Причина:</b> персонаж пережив нервовий зрив або смерть близького.","Premature graying
-$ <hint=hint_interest>Interest</hint> in the character <red>-10</red>
+<b>Причина:</b> персонаж пережив нервовий зрив або смерть близького.","Tóc bạc sớm
+$ <hint=hint_interest>Sở thích</hint> ở nhân vật <red>-10</red>
 
-<b>Cause:</b> Experienced a nervous breakdown or someone close passed away."
+<b>Nguyên nhân:</b> Bị suy nhược thần kinh hoặc có người thân qua đời."
 hint_gray_head,,"Cедина
 $ <hint=hint_interest>Интерес</hint> к персонажу <red>-10</red>","Graying
 $ <hint=hint_interest>Interest</hint> in the character <red>-10</red>","Graying
@@ -7221,8 +7221,8 @@ $ Réduit de <red>-10</red> l'<hint=hint_interest>intérêt</hint> porté au per
 $ <hint=hint_interest>Interesse</hint> per il personaggio <red>-10</red>.","Saçlarının Beyazlaması
 $ Karaktere duyulan <hint=hint_interest>ilgi</hint> <red>10</red> azalır.","Őszülés
 $ <hint=hint_interest>Érdeklődés</hint> a karakter iránt: <red>-10</red>","Посивіння
-$ <hint=hint_interest>Зацікавленість</hint> персонажем: <red>– 10</red>","Graying
-$ <hint=hint_interest>Interest</hint> in the character <red>-10</red>"
+$ <hint=hint_interest>Зацікавленість</hint> персонажем: <red>– 10</red>","Bạc tóc
+$ <hint=hint_interest>Sự quan tâm</hint> đến nhân vật <red>-10</red>"
 hint_sarcastic,,"Саркастичный         
 $ Повышенная вероятность на злую шутку
 
@@ -7274,10 +7274,10 @@ $ +40 az alap esélye a bántó tréfákra.
 <b>Az oka:</b> Idegösszeomlása volt vagy egy hozzá közel álló személy elhunyt.","Саркастичність
 $ Імовірність злого жарту: +40.
 
-<b>Причина:</b> персонаж пережив нервовий зрив або смерть близького.","Sarcastic
-$ Increased likelihood of a mean joke.
+<b>Причина:</b> персонаж пережив нервовий зрив або смерть близького.","Mỉa mai
+$ Tăng khả năng xảy ra trò đùa ác ý lên +40.
 
-<b>Cause:</b> Experienced a nervous breakdown or someone close passed away."
+<b>Nguyên nhân:</b> Bị suy nhược thần kinh hoặc có người thân qua đời."
 hint_religious,,"Набожный
 $ Становится фанатиком навсегда
 
@@ -7329,10 +7329,10 @@ $ Véglegesen fanatikussá válik.
 <b>Az oka:</b> Idegösszeomlása volt vagy egy hozzá közel álló személy elhunyt.","Благочестивість
 $ Персонаж назавжди стає фанатиком
 
-<b>Причина:</b> персонаж пережив нервовий зрив або смерть близького.","Devout
-$ Becomes a fanatic permanently.
+<b>Причина:</b> персонаж пережив нервовий зрив або смерть близького.","Sùng đạo
+$ Trở thành một kẻ cuồng tín vĩnh viễn.
 
-<b>Cause:</b> Experienced a nervous breakdown or someone close passed away."
+<b>Nguyên nhân:</b> Bị suy nhược thần kinh hoặc có người thân qua đời."
 hint_pacifist,,"Пацифист
 $ Несчастен, если надо командовать войском
 
@@ -7384,10 +7384,10 @@ $ Elégedetlen, ha csapatokat kell irányítania.
 <b>Az oka:</b> Vereséget szenvedett egy csatában.","Миролюбність
 $ Персонаж невдоволений, коли йому доводиться командувати військами.
 
-<b>Причина:</b> персонаж зазнав поразки в бою.","Pacifist
-$ Unhappy when having to command troops.
+<b>Причина:</b> персонаж зазнав поразки в бою.","Người theo chủ nghĩa hòa bình
+$ Không vui khi phải chỉ huy quân đội.
 
-<b>Cause:</b> Experienced defeat in battle."
+<b>Nguyên nhân:</b> Trải qua thất bại trong trận chiến."
 hint_anxious,,"Тревожный        
 $ Всегда просыпается при вторжении в его дом
 
@@ -7439,10 +7439,10 @@ $ Mindig felébred, ha betörnek a házába.
 <b>Az oka:</b> Átélt egy betörést az otthonába vagy fogságot.","Тривожність
 $ Персонаж завжди прокидається в разі вторгнення до будинку.
 
-<b>Причина:</b> персонаж пережив вторгнення до будинку або полон.","Anxious
-$ Always wakes up during a home invasion.
+<b>Причина:</b> персонаж пережив вторгнення до будинку або полон.","Lo lắng
+$ Luôn thức dậy khi nhà có vụ trộm xảy ra.
 
-<b>Cause:</b> Experienced a home invasion or captivity."
+<b>Nguyên nhân:</b> Đã từng bị trộm hoặc bị bắt"
 hint_greedy,,"Жадный
 $ Ходит в лохмотьях. 
 $ Позитивные мысли от Колец в 2 раза сильнее. 
@@ -7528,12 +7528,12 @@ $ Персонаж одягається в лахміття.
 $ Рівень позитивності думок щодо перснів підвищується вдвічі.
 $ Інші вельможі зневажають вельмож із цією рисою.
 
-<b>Причина:</b> у персонажа надто довго не було перснів.","Greed
-$ Dresses in rags.
-$ Positive thoughts from Rings are twice as strong.
-$ Other lords have a lower opinion of lords with this trait.
+<b>Причина:</b> у персонажа надто довго не було перснів.","Lòng tham
+$ Mặc quần áo rách rưới.
+$ Những suy nghĩ tích cực từ Nhẫn mạnh gấp đôi.
+$ Các lãnh chúa khác coi thường các lãnh chúa có đặc điểm này.
 
-<b>Cause:</b> Went too long without Rings."
+<b>Nguyên nhân:</b> Quá lâu không có Nhẫn."
 hint_sublimation,,"Сублимация
 $ Усталость от работы в 3 раза слабее, 
 $ На 20% выше вероятность нервного срыва , 
@@ -7619,12 +7619,12 @@ $ Рівень утоми від роботи втричі нижчий.
 $ Імовірність нервового зриву на 20% вище.
 $ Персонаж не страждає від відсутності сексу.
 
-<b>Причина:</b> Персонаж не мав сексу тривалий час.","Sublimation
-$ Tiredness from work is 3 times weaker.
-$ 20% higher chance of a nervous breakdown.
-$ Does not suffer from lack of sex.
+<b>Причина:</b> Персонаж не мав сексу тривалий час.","Thăng hoa
+$ Mệt mỏi từ công việc giảm 3 lần.
+$ Tăng 20% khả năng bị cơn khủng hoảng thần kinh.
+$ Không bị ảnh hưởng bởi sự thiếu thốn tình dục.
 
-<b>Cause:</b> Long period of time without sex"
+<b>Nguyên nhân:</b> Thời gian dài không có tình dục."
 hint_disinhereted,,"Бывший наследник
 Когда то был наследником трона, но теперь лишен этого статуса
 
@@ -7676,10 +7676,10 @@ Egykor ő volt a trónörökös, de megfosztották ettől a státuszától.
 Ha a hűsége csökken, <hint=hint_nt_heir_rebellion_former>lázadást szíthat a korábbi örökös ellen</hint>.","Позбавлено спадщини
 Колись персонаж був спадкоємцем престолу, але був позбавлений цього статусу.
 
-У разі зниження рівня вірності персонаж може очолити <hint=hint_nt_heir_rebellion_former>заколот колишнього спадкоємця</hint>.","Former heir
-Was once the heir to the throne, but has been stripped of that status.
+У разі зниження рівня вірності персонаж може очолити <hint=hint_nt_heir_rebellion_former>заколот колишнього спадкоємця</hint>.","Tước quyền thừa kế
+Ông từng là người thừa kế ngai vàng nhưng đã bị tước bỏ chức vụ.
 
-If their loyalty drops, they may lead a <hint=hint_nt_heir_rebellion_former>rebellion of the former heir</hint>."
+Sự suy giảm lòng trung thành có thể dẫn đến <hint=hint_nt_heir_rebellion_former>cuộc nổi loạn của người thừa kế cũ</hint>."
 hint_fearless,,"Бесстрашие
 Этот персонаж не ведает страха и не будет убегать из боя","Fearlessness
 This character knows no fear and will not flee from battle.","Fearlessness
@@ -7697,8 +7697,8 @@ Ce personnage n'a peur de rien et ne fuira pas les batailles.","Audacia
 Questo personaggio non conosce la paura e non fugge dalla battaglia.","Korkusuzluk
 Bu karakter korku nedir bilmez ve savaştan kaçmaz.","Rettenthetetlenség
 Ez a karakter nem ismeri a félelmet, és nem menekül el a csatából.","Відвага
-Персонаж не знає страху і не втече з поля бою.","Fearlessness
-This character knows no fear and will not flee from battle."
+Персонаж не знає страху і не втече з поля бою.","Không biết sợ
+Nhân vật này không biết sợ hãi và sẽ không chạy trốn khỏi trận chiến."
 hint_saint,,"Святой
 У всех лордов положительное мнение о нем, а у его подданых выше настроение","Mother
 All lords have a positive opinion of this character, and their subjects have a higher morale.","Mother
@@ -7716,8 +7716,8 @@ Ce personnage est apprécié des nobles. Le moral de ses sujets est plus élevé
 Tutti i nobili hanno un'opinione positiva di questo personaggio e i suoi sudditi hanno un morale più alto.","Anne
 Tüm asilzadelerin bu karaktere karşı görüşleri olumludur ve tebaasının morali daha yüksek olur.","Anya
 Erről a karakterről minden nemes pozitív véleménnyel van, és az alattvalóinak magasabb a morálja.","Мати
-Усі вельможі позитивно ставляться до цього персонажа, а в підданих вищий бойовий дух.","Mother
-All lords have a positive opinion of this character, and their subjects have a higher morale."
+Усі вельможі позитивно ставляться до цього персонажа, а в підданих вищий бойовий дух.","Mẹ
+Tất cả các lãnh chúa sẽ đánh giá tích cực về nhân vật này, và tinh thần của người dân sẽ cao."
 ,ТРЕЙТЫ ТАЛАНТОВ,,,,,,,,,,,,,,,,,,
 hint_trait_forecaster,,"Прогнозист
 Благодаря владению торговым слэнгом, персонаж умеет наладить контакт со Святым Караванщиком и выведать у него слухи о грядущем повышении цены на тот или иной товар. 
@@ -7770,10 +7770,10 @@ A kereskedelmi nyelv különleges ismeretének köszönhetően a karakter inform
 Az előrejelzés a Szent Karaván minden egyes látogatása után egy értesítés formájában érkezik.","Передбачення
 Завдяки особливим знанням мови торгівлі цей персонаж збирає чутки в Священному каравані щодо майбутніх змін цін на певні товари.
 
-Передбачення надходить у формі сповіщення після кожного відвідування Священного каравану.","Forecaster
-Thanks to their special knowledge of trade language, this character gathers rumors from the Holy Caravan about upcoming price changes for certain goods.
+Передбачення надходить у формі сповіщення після кожного відвідування Священного каравану.","Dự báo
+Nhờ có kiến thức và hiểu viết về thương mại, nhân vật này thu thập tin đồn từ Đoàn Lữ Hành Thánh về các biến động giá sắp tới của một số mặt hàng.
 
-The forecast comes in the form of a notification after each visit to the Holy Caravan."
+Dự báo được thông báo sau mỗi lần Đoàn Lữ Hành Thánh ghé thăm."
 hint_trait_precise_language,,"Точный язык
 Когда этот персонаж управляет <hint=hint_bld_chancellery>Канцелярией</hint>, его умение объяснять производственные задачи исключительно точным и понятным языком позволяет не использовать <hint=hint_resource_paper>Бумагу</hint>.","Precise Language
 When this character is in charge of the Chancellery, their ability to explain production tasks in exceptionally precise and clear language eliminates the need for <hint=hint_resource_paper>Paper</hint>.","Precise Language
@@ -7791,8 +7791,8 @@ Lorsque le personnage est responsable d'une chancellerie, ses instructions sont 
 Quando questo personaggio è a capo della cancelleria, la sua capacità di spiegare i compiti di produzione con un linguaggio eccezionalmente preciso e chiaro elimina la necessità della <hint=hint_resource_paper>carta</hint>.","Net Dil
 Bu karakter Şansölyelik'e atandığında üretim görevlerini inanılmaz bir açıklıkla ve netlikle anlattığı için <hint=hint_resource_paper>kâğıt</hint> ihtiyacı ortadan kalkar.","Pontos nyelvezet
 Ha a karakter vezeti a kancelláriát, kivételesen pontos és világos nyelven magyarázza el a termelési feladatokat, és ezzel szükségtelenné teszi a <hint=hint_resource_paper>papír</hint> használatát.","Точна мова
-Коли персонаж керує канцелярією, його здатність пояснювати виробничі завдання надзвичайно точною та зрозумілою мовою усуває потребу у <hint=hint_resource_paper>папері</hint>.","Precise Language
-When this character is in charge of the Chancellery, their ability to explain production tasks in exceptionally precise and clear language eliminates the need for <hint=hint_resource_paper>Paper</hint>."
+Коли персонаж керує канцелярією, його здатність пояснювати виробничі завдання надзвичайно точною та зрозумілою мовою усуває потребу у <hint=hint_resource_paper>папері</hint>.","Sự tinh tế về ngôn ngữ
+Khi nhân vật này phụ trách Văn Phòng, khả năng giải thích công việc sản xuất bằng ngôn ngữ cực kỳ chính xác và rõ ràng cho nên họ loại bỏ nhu cầu sử dụng <hint=hint_resource_paper>Giấy</hint>."
 hint_trait_poisoner,,"Отравитель
 Персонаж может отравить кого-то - по приказу короля или по собственной прихоти. Если все пройдет удачно, никто ничего не заподозрит. Однако, в случае неудачи, цель может начать драку с отравителем до смерти.
 
@@ -7844,10 +7844,10 @@ A karakter képes másokat megmérgezni – akár az uralkodó parancsára, aká
 A sikertelenség valószínűsége a résztvevő karakterek <hint=hint_skill_knowledge>Intellektus</hint> képességének különbségétől függ.","Отруйник
 Персонаж може отруїти когось за наказом монарха або за власною примхою. Якщо все буде добре, то ніхто нічого не запідозрить. Однак у разі невдачі ціль може вступити в бій до смерті.
 
-Імовірність невдачі залежить від різниці в навичках <hint=hint_skill_knowledge>Кмітливість</hint> взаємодіючих персонажів.","Poisoner
-This character can poison someone, either by the order of the king or on their own whim. If everything goes well, no one will suspect anything. However, in case of failure, the target may start a fight to the death with the poisoner.
+Імовірність невдачі залежить від різниці в навичках <hint=hint_skill_knowledge>Кмітливість</hint> взаємодіючих персонажів.","Chất độc
+Nhân vật này có thể đầu độc ai đó theo lệnh của nhà vua hoặc theo ý thích của mình. Nếu mọi chuyện suôn sẻ thì sẽ không có ai nghi ngờ gì cả. Nếu thất bại, mục tiêu có thể tham gia vào một cuộc chiến đến chết.
 
-The probability of failure depends on the difference in the <hint=hint_skill_knowledge>Intelligence</hint> skill between the interacting characters."
+Xác suất thất bại phụ thuộc vào sự khác biệt về kỹ năng <hint=hint_skill_know>trí thông minh</hint> giữa các nhân vật tương tác."
 hint_trait_insightful,,"Проницательный
 С шансом 5% распознает <hint=hint_talant>талант</hint> у ученика при обучении (при условии что других талантов у ученика нет)","Insightful
 When teaching, this character has a 5% chance of recognizing a new <hint=hint_talant>talent</hint> in their student (provided the student has no other talents).","Insightful
@@ -7865,8 +7865,8 @@ Lorsque ce personnage enseigne, il a 5 % de chances de reconnaître un nouveau <
 Quando insegna, questo personaggio ha una probabilità del 5% di riconoscere un nuovo <hint=hint_talant>talento</hint> nella persona a cui insegna (a condizione che questa non abbia altri talenti).","Anlayışlı
 Bu karakter öğretirken %5 ihtimalle öğrencisinin yeni bir <hint=hint_talant>yeteneğini</hint> keşfeder. Bunun gerçekleşebilmesi için öğrencisinin başka bir yeteneği olmaması gerekir.","Éleslátó
 A tanítás során ez a karakter 5% eséllyel felismer egy új <hint=hint_talant>tehetséget</hint> a tanítványában (feltéve, hogy a tanítványnak nincs más tehetsége).","Проникливий
-Під час викладання персонаж із імовірністю 5% розпізнає новий <hint=hint_talant>талант</hint> у свого учня (якщо учень не має інших талантів).","Insightful
-When teaching, this character has a 5% chance of recognizing a new <hint=hint_talant>talent</hint> in their student (provided the student has no other talents)."
+Під час викладання персонаж із імовірністю 5% розпізнає новий <hint=hint_talant>талант</hint> у свого учня (якщо учень не має інших талантів).","Thông thái
+Khi dạy học, nhân vật này có 5% cơ hội nhận ra một <hint=hint_talant>tài năng</hint> mới trong học sinh của mình (miễn là học sinh đó không có tài năng nào khác)."
 hint_trait_protector,,"Защитник города
 Навык Командования этого лорда вдохновляет членов его отряда, когда они защищают родное поселение, и их <hint=hint_pain_level>порог боли</hint> и <hint=hint_moral_level>храбрость</hint> становится в два раза выше.","City Defender
 The Command skill of this lord inspires members of his squad when defending their town, doubling their <hint=hint_pain_level>pain threshold</hint> and <hint=hint_moral_level>bravery</hint>.","City Defender
@@ -7884,8 +7884,8 @@ Les qualités en commandement de ce seigneur ou de cette dame inspirent les memb
 La guida di questo nobile ispira i membri della sua squadra quando difendono la loro città, raddoppiando la loro <hint=hint_pain_level>soglia del dolore</hint> e il loro <hint=hint_moral_level>coraggio</hint>.","Şehrin Savunucusu
 Bu asilzadenin Komuta becerisi, kasabalarını korurken bölüğü için ilham kaynağı olarak <hint=hint_pain_level>acı eşiklerini</hint> ve <hint=hint_moral_level>cesaretlerini</hint> iki katına çıkarır.","Városvédő
 A nemes irányítása lelkesíti osztaga tagjait, ha a városukat védik, megduplázva a <hint=hint_pain_level>fájdalomküszöbüket</hint> és a <hint=hint_moral_level>bátorságukat</hint>.","Захисник міста
-Лідерство вельможі надихає членів загону під час захисту міста, подвоюючи їхній <hint=hint_pain_level>поріг болю</hint> й <hint=hint_moral_level>хоробрості</hint>.","City Defender
-The Command skill of this lord inspires members of his squad when defending their town, doubling their <hint=hint_pain_level>pain threshold</hint> and <hint=hint_moral_level>bravery</hint>."
+Лідерство вельможі надихає членів загону під час захисту міста, подвоюючи їхній <hint=hint_pain_level>поріг болю</hint> й <hint=hint_moral_level>хоробрості</hint>.","Người bảo vệ thành phố
+Kỹ năng Chỉ huy của vị chúa này truyền cảm hứng cho các thành viên trong đội khi bảo vệ thị trấn của họ, gấp đôi ngưỡng <hint=hint_pain_level>chịu đau</hint> và <hint=hint_moral_level>lòng dũng cảm</hint> của họ."
 hint_trait_cutter,,"Рубака
 В бою этот персонаж гораздо чаще срубает головы.
 
@@ -7937,10 +7937,10 @@ Harc közben ez a karakter sokkal nagyobb eséllyel fejezi le az ellenfeleit.
 A kézitusára és a pajzscsapásokra ez nem vonatkozik.","Рубайголова
 Під час бою персонаж із більшою вірогідністю обезголовить супротивників.
 
-Рукопашний бій і удари щитом не включені в цю здатність.","Head Chopper
-During combat, this character has a much higher chance of decapitating opponents.
+Рукопашний бій і удари щитом не включені в цю здатність.","Kẻ chặt đầu
+Trong chiến đấu, nhân vật này có cơ hội chặt đầu đối thủ cao hơn nhiều.
 
-Hand-to-hand combat and shield strikes are not included in this ability."
+Khả năng này không áp dụng cho chiến đấu tay đôi và đòn tấn công bằng khiên."
 hint_trait_charisma,бонус - +15,"Харизматик
 Имеет +{bonus} бонус к <hint=hint_interest>интересу</hint> у противоположного пола, и может спокойно посещать вражеские города.","Charismatic
 This character has a +{bonus} bonus to <hint=hint_interest>interest</hint> from the opposite sex and can freely visit enemy cities.","Charismatic
@@ -7958,8 +7958,8 @@ Ce personnage suscite +{bonus} d'<hint=hint_interest>intérêt</hint> auprès du
 Questo personaggio ha un bonus di +{bonus} all'<hint=hint_interest>interesse</hint> dell'altro sesso e può visitare liberamente le città nemiche.","Karizmatik
 Bu karakterin karşı cinsten aldığı <hint=hint_interest>ilgi</hint> bonusu +{bonus} kadardır ve düşman şehirleri özgürce ziyaret edebilir.","Karizmatikus
 A karakter +{bonus} bónuszt kap az ellenkező neműek <hint=hint_interest>érdeklődésére</hint>, és szabadon látogathatja az ellenséges városokat.","Харизматичний
-Рівень <hint=hint_interest>зацікавленості</hint> протилежної статі: +{bonus}. Персонаж може вільно відвідувати ворожі міста.","Charismatic
-This character has a +{bonus} bonus to <hint=hint_interest>interest</hint> from the opposite sex and can freely visit enemy cities."
+Рівень <hint=hint_interest>зацікавленості</hint> протилежної статі: +{bonus}. Персонаж може вільно відвідувати ворожі міста.","Có sức lôi cuốn
+Nhân vật này có +{bonus} tiền thưởng cho <hint=hint_interest>sự quan tâm</hint> từ người khác giới và có thể tự do ghé thăm các thành phố của kẻ thù."
 hint_trait_diplomat,,"Дипломат
 Персонаж может уговорить любого вражеского короля забыть все обиды и вернуться к нормальному уровню отношений.","Diplomat
 This character has the ability to convince any enemy king to forget all grievances and return to a normal level of relations.","Diplomat
@@ -7977,8 +7977,8 @@ Ce personnage peut convaincre un monarque ennemi d'oublier ses griefs et de reve
 Questo personaggio ha la capacità di convincere qualsiasi monarca nemico a dimenticare tutti i rancori e a tornare a rapporti normali.","Diplomat
 Bu karakter, düşman hükümdarlara tüm sorunları unutturma ve ilişkileri normale döndürme becerilerine sahiptir.","Diplomata
 A karakter képes bármely ellenséges uralkodót meggyőzni, hogy felejtsen el minden sérelmet, és a kapcsolatokat állítsa vissza a normális szintre.","Дипломат
-Персонаж може переконати будь-якого ворожого монарха забути всі образи й повернутися до нормальних взаємин.","Diplomat
-This character has the ability to convince any enemy king to forget all grievances and return to a normal level of relations."
+Персонаж може переконати будь-якого ворожого монарха забути всі образи й повернутися до нормальних взаємин.","Nhà ngoại giao
+Nhân vật này có khả năng thuyết phục bất kỳ vị vua địch nào quên đi mọi bất bình và quay trở lại mức độ quan hệ bình thường."
 hint_trait_combat_teacher,,"Учитель боя
 Когда воинов на <hint=hint_bld_training_ground>Тренировочном поле</hint> тренирует этот персонаж, они получают в два раза больше очков опыта","Battle Instructor
 When this character trains warriors at the <hint=hint_bld_training_ground>Training Ground</hint>, they gain twice as many experience points.","Battle Instructor
@@ -7996,8 +7996,8 @@ Lorsque ce personnage est responsable du <hint=hint_bld_training_ground>camp d'e
 Quando questo personaggio allena i guerrieri al <hint=hint_bld_training_ground>campo d'addestramento</hint>, guadagna il doppio dei punti esperienza.","Dövüş Eğitmeni
 Bu karakter <hint=hint_bld_training_ground>Eğitim Alanı</hint>'nda savaşçıları eğitirken savaşçılar iki kat daha fazla tecrübe puanı kazanır.","Harci kiképző
 Amikor ez a karakter harcosokat képez ki a <hint=hint_bld_training_ground>gyakorlótéren</hint>, kétszer annyi tapasztalati pontot kapnak.","Бойовий інструктор
-Коли персонаж тренує воїнів на <hint=hint_bld_training_ground>тренувальному майданчику</hint>, вони отримують удвічі більше очок досвіду.","Battle Instructor
-When this character trains warriors at the <hint=hint_bld_training_ground>Training Ground</hint>, they gain twice as many experience points."
+Коли персонаж тренує воїнів на <hint=hint_bld_training_ground>тренувальному майданчику</hint>, вони отримують удвічі більше очок досвіду.","Huấn luyện quân sự
+Khi nhân vật này phụ trách <hint=hint_bld_training_ground>trại huấn luyện</hint>, các chiến binh sẽ nhận được số điểm kinh nghiệm gấp đôi."
 hint_trait_captive,"Трейт, который прикрепляется лордам, захваченным в плен","Заложник
 Персонаж другой фракции находится у вас в плену и мечтает возвратиться домой. Вы можете заставлять его исполнять те же задания, которые вы даете своим лордам.
 
@@ -8066,11 +8066,11 @@ $ Másrészt az uralkodója hálás lesz, ha feltétel nélkül szabadon engeded
 Персонаж з іншого угруповання перебуває під вашою опікою й мріє повернутися додому. Ви можете змусити персонажа виконувати ті самі завдання, які ви доручаєте вельможам.
  
 $ Якщо вам вдасться підвищити рівень вірності персонажа до нуля або вище, він залишиться у вашій сім'ї після звільнення (хоча монархові персонажа це не сподобається).
-$ З іншого боку, монарх персонажа буде вдячний, якщо ви відпустите його без жодних умов (хоча певною мірою образа залишиться).","Hostage
-A character from another faction is in your custody and dreams of returning home. You can compel them to perform the same tasks you assign to your lords.
- 
-$ If you manage to raise their loyalty to zero or above, they will remain in your family after their release (though their king won't be pleased about it).
-$ On the other hand, their king will be grateful if you release them without any conditions (though some resentment will remain)."
+$ З іншого боку, монарх персонажа буде вдячний, якщо ви відпустите його без жодних умов (хоча певною мірою образа залишиться).","Con tin
+Một nhân vật từ phe khác đang bị bạn giam giữ và mong muốn được trở về nhà. Bạn có thể buộc nhân vật này thực hiện các nhiệm vụ tương tự như các lãnh chúa khác của bạn.
+
+$Nếu bạn nâng thành công lòng trung thành của nó lên 0 hoặc cao hơn, nhân vật sẽ ở lại gia đình bạn sau khi được thả (mặc dù vua của nhân vật sẽ không hài lòng).
+$Mặt khác, nếu bạn thả nhân vật vô điều kiện, vua của anh ta sẽ biết ơn (mặc dù vẫn sẽ có một chút oán giận)."
 hint_madness,,"Безумие
 В результате продолжительной депрессии этот лорд тронулся умом и ведет себя неадекватно, вызывая у окружающих стыд и жалость. Должно пройти несколько дней, прежде чем он придет в себя. По крайней мере, можно на это надеяться...","Madness
 As a result of a prolonged depression, this lord has gone mad and behaves inappropriately, causing shame and pity in those around them. It will take several days before they regains their composure. At least, one can hope for that...","Madness
@@ -8088,8 +8088,8 @@ Infolge einer Langzeit-Depression ist dieser Lord dem Wahnsinn anheimgefallen un
 A causa di una depressione prolungata, questo nobile è in preda alla follia e si comporta in modo inappropriato, provocando vergogna e pietà in chi lo circonda. Ci vorranno diversi giorni prima che recuperi la calma. O almeno si spera...","Delilik
 Uzun süren depresyonun sonucunda bu asilzade delirdi ve uygunsuz davranışlarda bulunarak etrafındakilerin utanmasına ve ona acımasına neden oluyor. Kendine gelmesi birkaç gün sürecektir. En azından kendine geleceğini umuyoruz...","Őrület
 Ez a nemes hosszan tartó depresszió következtében megőrült, és nem helyénvalón viselkedik, szégyent és szánalmat keltve a környezetében. Több napba telik, míg visszanyeri az önuralmát. Legalábbis reménykedjünk benne…","Божевілля
-Внаслідок тривалої депресії вельможа божеволіє й поводиться неадекватно, викликаючи сором та жаль в свого оточення. Мине декілька днів, перш ніж вельможа прийде в себе. Принаймні на це можна сподіватися.","Madness
-As a result of a prolonged depression, this lord has gone mad and behaves inappropriately, causing shame and pity in those around them. It will take several days before they regains their composure. At least, one can hope for that..."
+Внаслідок тривалої депресії вельможа божеволіє й поводиться неадекватно, викликаючи сором та жаль в свого оточення. Мине декілька днів, перш ніж вельможа прийде в себе. Принаймні на це можна сподіватися.","Điên rồ
+Do trầm cảm kéo dài, vị lãnh chúa này đã phát điên và hành xử không đúng mực, khiến những người xung quanh phải xấu hổ và thương hại. Phải mất vài ngày họ mới lấy lại được bình tĩnh. Ít nhất, người ta có thể hy vọng điều đó..."
 hint_nectar_rage,,"Нектарная ярость
 В результате потребления <hint=hint_resource_nectar>Нектара</hint>, персонаж впал в ярость и нападает на окружающих. 
 
@@ -8141,10 +8141,10 @@ A <hint=hint_resource_nectar>nektár</hint> fogyasztása következtében a karak
 Minél több nektárt fogyaszt, annál inkább elveszíti az öntudatát, és a nektárfogyasztás utáni dührohamai gyakoribbá válnak.","Нектарний шал
 Через споживання <hint=hint_resource_nectar>нектару</hint> персонаж шаленіє і нападає на оточення.
 
-Що більше персонаж споживає нектар, то більше послаблюється його свідомість, а напади шалу після споживання стають частішими.","Nectar Rage
-As a result of consuming <hint=hint_resource_nectar>Nectar</hint>, the character falls into a rage and attacks their surroundings.
+Що більше персонаж споживає нектар, то більше послаблюється його свідомість, а напади шалу після споживання стають частішими.","Trở nên bạo lực vì Mật Hoa
+Do tiêu thụ <hint=hint_resource_nectar>Mật Hoa</hint>, nhân vật này rơi vào cơn thịnh nộ và tấn công mọi thứ xung quanh.
 
-The more they consume nectar, the more their consciousness deteriorates, and the fits of rage after consumption become more frequent."
+Càng tiêu thụ nhiều Mật Hoa, người đó càng mất đi ý thức bình thường và các cuộc tấn công bạo lực hơn xảy ra sau khi uống phải."
 hint_matriarch,,"Матриарх
 Глава <hint=hint_sofia_cult>Церкви Святой Софии</hint>","Matriarch
 Head of <hint=hint_sofia_cult>the Church of Mother Sophia</hint>","Matriarch
@@ -8162,8 +8162,8 @@ La Matriarche est la cheffe suprême de l'<hint=hint_sofia_cult>Église de Mère
 La guida della <hint=hint_sofia_cult>Chiesa di Madre Sofia</hint>.","Maderşah
 <hint=hint_sofia_cult>Sophia Ana Kilisesi</hint>'nin lideridir.","Mátriárka
 <hint=hint_sofia_cult>Szófia Anya Egyházának</hint> vezetője","Матріарх
-Голова <hint=hint_sofia_cult>Церкви Матері Софії</hint>","Matriarch
-Head of <hint=hint_sofia_cult>the Church of Mother Sophia</hint>"
+Голова <hint=hint_sofia_cult>Церкви Матері Софії</hint>","Nữ giáo hoàng
+Lãnh đạo của <hint=hint_sofia_cult>Nhà thờ Đức Mẹ Sofia</hint>."
 hint_lord_lowborn,,"Низкородный
 Этот лорд произошел из крестьян, поэтому его недолюбливают высокородные лорды","Lowborn
 This lord comes from peasant families, so he is not liked by highborn lords","Lowborn
@@ -8181,8 +8181,8 @@ Ce seigneur ou cette dame vient d'une famille paysanne. Les nobles de haute lign
 Questo nobile proviene da una famiglia popolana, quindi non è gradito ai nobili di alto lignaggio.","Alt Tabaka
 Bu asilzade, köylü bir ailenin çocuğu olduğundan soylu asilzadeler tarafından sevilmez.","Alacsony származású
 A nemes paraszti családból származik, ezért a jobb származású nemesek nem kedvelik.","Низьке походження
-Вельможа походить із селянської родини, тому його не люблять знатні вельможі","Lowborn
-This lord comes from peasant families, so he is not liked by highborn lords"
+Вельможа походить із селянської родини, тому його не люблять знатні вельможі","Sinh ra thấp hèn
+Vị lãnh chúa này xuất thân từ một gia đình bình dân nên không được lãnh chúa cao quý ưa thích."
 hint_loyalist,,"Лоялист
 Счастливые <hint=hint_nt_unhappy>крестьяне</hint>, <hint=hint_sodiers_happiness>воины</hint> и <hint=hint_nt_events_unhappy_lord>лорды</hint> могут проникнуться любовью к королю и стать лоялистами. Их можно узнать по подвеске из короны.
 
@@ -8360,19 +8360,19 @@ $ Селяни-прибічники не можуть стати <hint=hint_pers
 $ У їхніх серцях є місце лише для одного кумира. Прибічники не можуть стати <hint=hint_persons_fanatic>фанатиками</hint>, а фанатики не можуть стати прибічниками.
 $ Селяни-прибічники прагнуть служити в королівському війську; у їхніх серцях немає місця для страху смерті. Вони щасливі бути в тому самому загоні, що й монарх.
 $ У разі незадоволення прибічники перестають бути прибічниками. Велика кількість незадоволених прибічників може почати бунт, звинувачуючи у всьому фанатиків.
-$ Вони сумуватимуть, коли їхній улюблений монарх помре.","Loyalists
-<hint=hint_nt_unhappy>Happy</hint> peasants, <hint=hint_sodiers_happiness>warriors</hint>, and <hint=hint_nt_events_unhappy_lord>lords</hint> can develop a deep love for the king and become loyalists. They can be identified by the crown pendant they wear.
+$ Вони сумуватимуть, коли їхній улюблений монарх помре.","Những người trung thành
+Nông dân <hint=hint_nt_unhappy>hạnh phúc</hint>, <hint=hint_sodiers_happiness>chiến binh</hint>, và <hint=hint_nt_events_unhappy_lord>lãnh chúa</hint> có thể phát triển lòng trung thành sâu sắc với vua và trở thành những người trung thành. Họ có thể được nhận diện bằng dây chuyền vương miện mà họ đeo.
 
 <img=hint_loyalist></img>
 
-Traits of loyalists:
-$ Loyalist lords cannot be bribed or tempted; their <hint=hint_loyalty>loyalty</hint> is always at its maximum.
-$ The productivity of loyalist peasants is 30% higher.
-$ Loyalist peasants cannot become <hint=hint_persons_criminal>vagabonds</hint>.
-$ There is only room for one idol in a loyalist's heart. They cannot become <hint=hint_persons_fanatic>fanatics</hint>, and fanatics cannot become loyalists.
-$ Loyalist peasants aspire to serve in the king's army; in their hearts, there is no room for fear of death. They are happy to be in the same squad as the king.
-$ If loyalists become unhappy, they may lose this quality. And if there are many unhappy loyalists, they may start a riot, blaming the fanatics for everything.
-$ They will mourn when their beloved king passes away."
+Các đặc điểm của những người trung thành:
+$ Các lãnh chúa trung thành không thể bị mua chuộc hoặc dụ dỗ; <hint=hint_loyalty>lòng trung thành</hint> của họ luôn ở mức tối đa.
+$ Năng suất lao động của nông dân trung thành cao hơn 30%.
+$ Nông dân trung thành không thể trở thành <hint=hint_persons_criminal>kẻ lang thang</hint>.
+$ Trong trái tim của người trung thành chỉ có chỗ cho một thần tượng. Họ không thể trở thành <hint=hint_persons_fanatic>người cuồng tín</hint>, và người cuồng tín không thể trở thành người trung thành.
+$ Nông dân trung thành khao khát phục vụ trong quân đội của vua, trong lòng họ không có chỗ cho sợ hãi cái chết. Họ hạnh phúc khi ở cùng đội với vua.
+$ Nếu những người trung thành trở nên không hạnh phúc, họ có thể mất đi phẩm chất này. Và nếu có nhiều người trung thành không hạnh phúc, họ có thể bắt đầu một cuộc nổi loạn, đổ lỗi cho những người cuồng tín về mọi thứ.
+$ Họ sẽ than khóc khi vị vua mà họ yêu thương qua đời."
 hint_inspired,,"Вдохновение
 Хорошее настроение вызвало прилив <hint=hint_tutorial_inspiration>вдохновения</hint>. <green>Все навыки увеличены на {inc_number}</green>
 
@@ -8424,10 +8424,10 @@ A jó hangulat lelkesedést vált ki. <green>Minden képesség {inc_number} pont
 Ez az állapot a nap végéig tart, de eltűnhet, ha a karakter elégedetlenné válik.","Натхнення
 Обов’язковою умовою для виникнення натхнення є гарний настрій. <green>Усі навички збільшено на {inc_number}</green>.
 
-Цей стан триватиме до кінця дня, утім, може зникнути, якщо персонаж стане невдоволеним.","Inspired
-A good mood has sparked <hint=hint_tutorial_inspiration>inspiration</hint>. <green>All skills have been increased by {inc_number}</green>.
+Цей стан триватиме до кінця дня, утім, може зникнути, якщо персонаж стане невдоволеним.","Sự khích lệ
+Một tâm trạng tốt đã khơi dậy <hint=hint_tutorial_inspiration>cảm hứng</hint>. <green>Tất cả các kỹ năng đã tăng lên {inc_number}</green>.
 
-This state will last until the end of the day, but it may also disappear if the character becomes unhappy."
+Trạng thái này sẽ kéo dài đến cuối ngày, nhưng nó cũng có thể biến mất nếu nhân vật trở nên không hạnh phúc."
 hint_hemophilia,,"Гемофилия
 Среднее и тяжелое кровотечение нельзя остановить","Hemophilia
 Moderate and severe bleeding cannot be stopped.","Hemophilia
@@ -8445,8 +8445,8 @@ Les hémorragies modérées et sévères ne peuvent être endiguées.","Emofilia
 Le emorragie moderate e gravi non possono essere arrestate.","Hemofili
 Ortalama ve şiddetli kanamalar durdurulamaz.","Vérzékenység
 A mérsékelt és súlyos vérzést nem lehet elállítani.","Гемофілія
-Стан, у якому неможливо зупинити помірну й сильну кровотечу.","Hemophilia
-Moderate and severe bleeding cannot be stopped."
+Стан, у якому неможливо зупинити помірну й сильну кровотечу.","Bệnh máu khó đông
+Chảy máu ở mức độ trung bình và nặng không thể cầm được."
 hint_ex_bandit,,"Бывший бандит
 Получает негативную мысль, пока служит в армии","Former gangster
 Carries a negative thought while serving in the army.","Former gangster
@@ -8464,8 +8464,8 @@ Le personnage ressent une impression négative lorsqu'il sert dans l'armée.","E
 Porta con sé un pensiero negativo mentre presta servizio nell'esercito.","Eski Mafya
 Orduda görev yaptığında olumsuz bir düşünceye sahip olur.","Volt gengszter
 Negatív gondolatot áraszt, amíg a hadseregben szolgál.","Колишній розбійник
-Має негативні думки під час служби у війську.","Former gangster
-Carries a negative thought while serving in the army."
+Має негативні думки під час служби у війську.","Cựu xã hội đen
+Mang một suy nghĩ tiêu cực khi phục vụ trong quân đội."
 hint_under_culture_terror,,"Террор против культуры
 Король начал террор против людей этой культуры. Ужас и страх овладел всеми ее носителями.","Terror against culture
 The king has initiated terror against the people of this culture. Horror and fear have gripped all of its bearers.","Terror against culture
@@ -8483,8 +8483,8 @@ Le monarque a instauré la terreur contre ce peuple. L'horreur et la peur se son
 Il monarca ha scatenato il terrore contro il popolo di questa cultura. Orrore e paura hanno attanagliato tutti i suoi membri.","Kültüre Dehşet
 Hükümdar bu kültürün insanlarına dehşet saçıyor. Bu kültürün insanlarında korku ve endişe hâkim.","Terror a kultúra ellen
 Az uralkodó terrort indított ennek a kultúrának a képviselői ellen. Rémület és félelem tartja markában őket.","Культурний терор
-Монарх розпочав терор проти людей цієї культури. Жах і страх охопили всіх причетних.","Terror against culture
-The king has initiated terror against the people of this culture. Horror and fear have gripped all of its bearers."
+Монарх розпочав терор проти людей цієї культури. Жах і страх охопили всіх причетних.","Bài trừ văn hóa
+Nhà vua đã khởi xướng khủng bố chống lại người dân thuộc văn hóa này. Sự kinh hoàng và sợ hãi đã bao trùm tất cả những người mang văn hóa này."
 hint_trait_genius_king,,"Амбициозный завоеватель
 $ Этот персонаж считает, что ему предначертано объединить Норланд и стать императором.
 $ Короли-завоеватели прилагают большие усилия в управлении провинцией и получают заметно больше денег от своих подданых.
@@ -8536,10 +8536,10 @@ $ A hódító uralkodók jelentős erőfeszítéseket tesznek tartományaik korm
 $ A szomszédaikat jelentéktelen akadálynak tekintik a hatalomhoz vezető úton, és különös gyűlöletet táplálnak az <hint=hint_tutorial_states>államok</hint> vezetői iránt.","Амбітний завойовник
 $ Персонаж вірить, що йому судилося об’єднати Норланд і стати імператором.
 $ Монархи-завойовники докладають значних зусиль для керування провінцією й отримують більше грошей від підданих.
-$ Вони вважають сусідів незначною перешкодою на шляху до влади, плекаючи особливу ненависть до лідерів <hint=hint_tutorial_states>держав</hint>.","Ambitious Conqueror
-$ This character believes it is destined for them to unite Norland and become an emperor.
-$ Conqueror kings put significant effort into governing their province and receive more money from their subjects.
-$ They regard their neighbors as insignificant obstacles on the path to their power, harboring particular hatred toward the leaders of <hint=hint_tutorial_states>states</hint>."
+$ Вони вважають сусідів незначною перешкодою на шляху до влади, плекаючи особливу ненависть до лідерів <hint=hint_tutorial_states>держав</hint>.","Một kẻ chinh phục đầy tham vọng
+$ Nhân vật này tin rằng mình được định sẵn để thống nhất Norland và trở thành hoàng đế.
+$ Các vị vua chinh phục đặt nỗ lực đáng kể vào việc cai trị lãnh thổ của họ và nhận được nhiều tiền hơn từ thần dân của mình.
+$ Họ coi hàng xóm của mình là những trở ngại không đáng kể trên con đường dẫn đến quyền lực của họ, đặc biệt căm thù các lãnh đạo của các <hint=hint_tutorial_states>quốc gia</hint>."
 hint_dying_from_old,,"Близость смерти
 По естественным причинам, дни персонажа подходят к концу, и через несколько дней огонь его жизни потухнет.","Approaching death
 Due to natural causes, the character's days are coming to an end, and in a few days, the fire of life will be extinguished.","Approaching death
@@ -8557,8 +8557,8 @@ Les jours de ce personnage sont comptés et il va bientôt mourir de causes natu
 Per cause naturali, il personaggio ha i giorni contati e la sua vita si spegnerà.","Ölüm Yaklaşıyor
 Doğal sebeplerden dolayı bu karakterin günleri sayılı ve hayat ateşi birkaç gün içinde sönecek.","Közelgő halál
 A karakter napjai természetes okok miatt a végéhez közelednek, és néhány nap múlva kihuny élete lángja.","Наближення смерті
-Із природних причин дні персонажа добігають кінця, і через декілька днів вогонь життя згасне.","Approaching death
-Due to natural causes, the character's days are coming to an end, and in a few days, the fire of life will be extinguished."
+Із природних причин дні персонажа добігають кінця, і через декілька днів вогонь життя згасне.","Bên bờ vực của cái chết
+Do nguyên nhân tự nhiên, những ngày của nhân vật này đang đi đến hồi kết, và trong vài ngày nữa, ngọn lửa của sự sống sẽ tắt."
 hint_trait_great_teacher,,"Просветитель
 Увеличивает шансы передать знание другому лорду в ходе Мудрой беседы в 2 раза","Enlightener
 Doubles the chances of passing on knowledge to another lord during a wise conversation.","Enlightener
@@ -8576,8 +8576,8 @@ Ce trait double les chances de transmettre un savoir lors d'une conversation phi
 Raddoppia le possibilità di trasmettere la conoscenza a un altro nobile durante una conversazione saggia.","Aydınlatıcı
 Bilge sohbet esnasında başka bir asilzadeye irfan aktarma şansı ikiye katlanır.","Megvilágosító
 Megduplázza az esélyét, hogy egy bölcs beszélgetés során ismeretet adjon át egy másik nemesnek.","Просвітитель
-Подвоює імовірність передачі знань іншому вельможі під час мудрої розмови.","Enlightener
-Doubles the chances of passing on knowledge to another lord during a wise conversation."
+Подвоює імовірність передачі знань іншому вельможі під час мудрої розмови.","Người khai sáng
+Gấp đôi cơ hội truyền đạt kiến thức cho một lãnh chúa khác trong một cuộc trò chuyện khôn ngoan."
 ,,,,,,,,,,,,,,,,,,,
 hint_short_test,,"Text
 short",,,,,,,,,,,,,,,,,
@@ -8632,10 +8632,10 @@ A karakter az öregség miatt elvesztette az eszét.
 Ez sajnos gyógyíthatatlan, és csak a gyors halálában lehet reménykedni.","Старечий маразм
 Персонаж утратив розум через старість.
 
-На жаль, це невиліковно. Надію варто покладати тільки на швидку смерть.","Senile
-This character has lost their mind due to old age.
+На жаль, це невиліковно. Надію варто покладати тільки на швидку смерть.","Lão suy
+Nhân vật này đã mất trí nhớ do tuổi tác.
 
-Unfortunately, this is incurable, and there is only hope for their swift demise."
+Thật không may, điều này không thể chữa trị và chỉ còn hy vọng vào cái chết sớm cho họ."
 hint_cholera_st_1,,"Оспа
 Персонаж заболел оспой. К сожалению, от заражения этой болезни невозможно защититься известными методами. 
 
@@ -8752,13 +8752,13 @@ A következő stádium ideje: {time}","Віспа
 
 Це перша стадія хвороби, що супроводжується сильними головними болями й загальним нездужанням.
 
-Наступна стадія почнеться через: {time}","Smallpox
-The character has contracted smallpox. Unfortunately, there are no known methods to protect against this disease.
-It can lead to scarring, blindness, and even death.
+Наступна стадія почнеться через: {time}","Bệnh đậu mùa
+Nhân vật đã mắc bệnh đậu mùa. Thật không may, không có phương pháp bảo vệ nào chống lại căn bệnh này.
+Nó có thể dẫn đến sẹo, mù lòa và thậm chí là cái chết.
 
-This is the first stage of the disease, accompanied by severe headaches and general malaise.
+Đây là giai đoạn đầu của bệnh, kèm theo cơn đau đầu dữ dội và cảm giác khó chịu chung.
 
-Next stage in: {time}"
+Giai đoạn tiếp theo trong: {time}"
 hint_cholera_st_2,,"Оспа
 Персонаж заболел оспой. К сожалению, от заражения этой болезни невозможно защититься известными методами. 
 
@@ -8929,17 +8929,17 @@ Elválik: {time}","Віспа
 $ У разі лікування ймовірність вижити становить 100%.
 $ Інакше ймовірність виживання становить 50 %.
 
-Подальша судьба персонажа буде відома через: {time}","Smallpox
-The character has contracted smallpox. Unfortunately, there are no known methods to protect against this disease.
+Подальша судьба персонажа буде відома через: {time}","Bệnh đậu mùa
+Nhân vật đã mắc bệnh đậu mùa. Thật không may, không có phương pháp nào để bảo vệ chống lại căn bệnh này.
 
-It can lead to scarring, blindness, and even death.
+Nó có thể dẫn đến sẹo, mù lòa, và thậm chí là cái chết.
 
-At this stage, the character is covered in ulcers, cannot move, and requires treatment with <hint=hint_resource_med>Medical Salve</hint>.
+Ở giai đoạn này, nhân vật bị phủ đầy loét, không thể di chuyển, và cần điều trị bằng <hint=hint_resource_med>Thuốc mỡ y tế</hint>.
 
-$ If the character is treated, there is a 100% chance of survival.
-$ If the character is not treated, there is a 50% chance of survival and a 50% chance of death.
+$ Nếu nhân vật được điều trị, có 100% khả năng sống sót.
+$ Nếu nhân vật không được điều trị, có 50% khả năng sống sót và 50% khả năng chết.
 
-Will be clear in: {time}"
+Sẽ khỏi bệnh trong: {time}"
 hint_cholera_st_3,,"Оспа
 Персонаж заболел оспой. К сожалению, от заражения этой болезни невозможно защититься известными методами. 
 
@@ -9059,14 +9059,14 @@ Teljes gyógyulás ideje: {time}","Віспа
 
 Персонаж пережив кризу хвороби й тепер одужує. На цій стадії рухи персонажу сповільнені.
 
-Персонаж одужає через: {time}","Smallpox
-The character has contracted smallpox. Unfortunately, there are no known methods to protect against this disease.
+Персонаж одужає через: {time}","Bệnh đậu mùa
+Nhân vật đã mắc bệnh đậu mùa. Thật không may, không có phương pháp nào được biết đến để bảo vệ chống lại căn bệnh này.
 
-It can lead to scarring, blindness, and even death.
+Nó có thể dẫn đến sẹo, mù lòa và thậm chí tử vong.
 
-The character has survived the crisis of the disease and is in the recovery stage, during which their movements are slowed down.
+Nhân vật đã sống sót sau cơn khủng hoảng của căn bệnh và đang trong giai đoạn phục hồi, trong đó các chuyển động của họ bị chậm lại.
 
-Full recovery in: {time}"
+Phục hồi hoàn toàn trong: {time}"
 hint_typh_immunity,,"Иммунитет
 Персонаж недавно переболел инфекцией, и теперь его кровь имеет полную защиту от таких болезней как Брюквенный тиф и Оспа до конца жизни.","Immunity
 The character has recently recovered from an infection, and now their blood provides complete protection against diseases such as rutabaga fever and smallpox for the rest of their life.","Immunity
@@ -9084,5 +9084,5 @@ Le personnage s'est récemment remis d'une infection. Il est désormais complèt
 Il personaggio è recentemente guarito da un'infezione e ora il suo sangue ha gli anticorpi necessari per proteggerlo a vita contro malattie come il tifo delle rape e il vaiolo.","Bağışıklık
 Karakter yakın zamanda bir enfeksiyon atlattı ve kanı artık hayatı boyunca şalgam humması ve çiçek hastalığı gibi hastalıklara karşı tamamen koruma sağlıyor.","Immunitás
 A karakter nemrég gyógyult fel egy fertőzésből, és most a vére élete végéig teljes védelmet nyújt az olyan betegségekkel szemben, mint a karórépaláz és a himlő.","Імунітет
-Персонаж нещодавно одужав після інфекційної хвороби, і тепер протягом усього життя його кров повністю захищатиме його від таких захворювань, як бруквяна лихоманка й віспа.","Immunity
-The character has recently recovered from an infection, and now their blood provides complete protection against diseases such as rutabaga fever and smallpox for the rest of their life."
+Персонаж нещодавно одужав після інфекційної хвороби, і тепер протягом усього життя його кров повністю захищатиме його від таких захворювань, як бруквяна лихоманка й віспа.","Miễn dịch
+Nhân vật này gần đây đã hồi phục sau khi bị nhiễm trùng và giờ đây máu của họ cung cấp sự bảo vệ hoàn toàn chống lại các bệnh như sốt củ cải rutabaga và bệnh đậu mùa trong suốt quãng đời còn lại của họ."
